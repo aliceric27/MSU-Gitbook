@@ -20,9 +20,9 @@
 *   您可以透過提示文字查看詳細數值，並使用道具欄底部的 NESO 按鈕將您的 NESOLET 鑄造成 NESO。
     *   NESOLET 到 NESO 的轉換率為 1:1。
 
-![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236421262_291.png)
+![](images/msn-101/learn-more/image_1747236421262_291.png)
 
-![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236421262_419.png)
+![](images/msn-101/learn-more/image_1747236421262_419.png)
 
 ※ NESOLET 是角色綁定的貨幣，在鑄造之前不能被您錢包中的其他角色使用。
 
@@ -34,7 +34,7 @@
 
 交換完成後，轉換後的 NESO 可在 MSU 市集上使用，如果您使用同一個錢包玩遊戲，它也可以在遊戲內使用。
 
-![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236421262_226.png)
+![](images/msn-101/learn-more/image_1747236421262_226.png)
 
 ※ 只有已鑄造的角色才能使用錢包道具欄並在楓之谷 N (MapleStory N) 中執行物品強化。更多詳細資訊，請參閱各自的指南。
 
@@ -51,7 +51,7 @@ NXPC 是楓之谷宇宙 (MapleStory Universe) 的原生代幣，為整個生態�
 
 您可以透過交換在遊玩楓之谷 N (MapleStory N) 時賺取的 NESO 來獲得 NXPC。
 
-![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236421262_138.png)
+![](images/msn-101/learn-more/image_1747236421262_138.png)
 
 ※ NESO:NXPC 的交換比例為 100,000:1。
 
