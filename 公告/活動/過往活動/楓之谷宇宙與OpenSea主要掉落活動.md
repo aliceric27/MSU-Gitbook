@@ -16,13 +16,13 @@
 
 *   在 Avalanche C-Chain 上鑄造的 MSU 卷軸 SBT
 
-![](images/announcement/events/past-events/image_1747236248613_168.png)
+![](/images/announcement/events/past-events/image_1747236248613_168.png)
 
 *   楓之谷 N (MapleStory N) 中的兩款獨家遊戲內 SBT 物品：
     *   OpenSea 椅子
     *   NXPC 頭帶
 
-![](images/announcement/events/past-events/image_1747236248613_689.png)
+![](/images/announcement/events/past-events/image_1747236248613_689.png)
 
 ## ■ 如何參與
 1.  前往 [楓之谷宇宙 (MapleStory Universe) X OpenSea 初次掉落頁面](https://opensea.io/collection/msu-opensea/overview)。
