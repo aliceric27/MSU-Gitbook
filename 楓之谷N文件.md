@@ -1,6 +1,6 @@
 # 楓之谷 N (MapleStory N)
 
-![](images/image_1747236239323_194.png)
+![](https://aliceric27s-organization.gitbook.io/images/image_1747236239323_194.png)
 
 **楓之谷 N (MapleStory N)** 是楓之谷宇宙 (MapleStory Universe) 中首款將區塊鏈技術融入楓之谷 IP 的遊戲。
 

@@ -17,6 +17,7 @@
 以下規格應可確保流暢的遊戲體驗。但是，請注意，效能可能會因網路狀況、作業系統和電腦管理而有所不同。
 
 | 作業系統 | Windows 10 (64 位元) 或更高版本 |
+|:---|:---|
 | CPU | Intel® Pentium® 雙核心或更高階 |
 | 主記憶體 | 8GB RAM 或更多 |
 | 硬碟 | 30GB 可用 SSD 空間或更多 |
@@ -37,4 +38,4 @@
 
 ※ 某些地區的存取可能會受到限制。根據您所在的位置，您在存取楓之谷宇宙 (MapleStory Universe) 服務（包括預先下載楓之谷 N (MapleStory N)）時可能會遇到限制。為獲得流暢的體驗，請參閱[服務條款](https://msu.io/policy/terms)。
 
-![](images/announcement/image_1747236244949_825.png)
+![](https://aliceric27s-organization.gitbook.io/images/announcement/image_1747236244949_825.png)

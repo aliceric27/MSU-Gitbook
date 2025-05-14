@@ -8,7 +8,7 @@
 
 MSU 導航器是一個中心，楓之谷玩家們可以在此搜尋和查看楓之谷宇宙 (MapleStory Universe) 中所有鏈上和鏈下物品、角色和使用者資訊。
 
-![](images/msn-101/learn-more/image_1747236430774_898.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_898.png)
 
 在 MSU 導航器中，您不僅可以查看自己的資訊，還可以查看其他使用者的角色和物品詳細資訊。
 
@@ -45,11 +45,11 @@ MSU 導航器是一個中心，楓之谷玩家們可以在此搜尋和查看楓�
 *   **交易：** 楓之谷宇宙 (MapleStory Universe) 服務中的鏈上交易總數
 *   **MSU 市集交易量：** 迄今為止的累計交易量
 
-![](images/msn-101/learn-more/image_1747236430774_341.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_341.png)
 
 #### 2.2.2. 最高價裝備物品
 
-![](images/msn-101/learn-more/image_1747236430774_521.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_521.png)
 
 您可以查看**價格最高的 5 個裝備物品**。
 
@@ -61,7 +61,7 @@ MSU 導航器是一個中心，楓之谷玩家們可以在此搜尋和查看楓�
 
 #### 2.2.3. 最高價裝飾物品
 
-![](images/msn-101/learn-more/image_1747236430774_264.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_264.png)
 
 您可以查看**價格最高的 5 個裝飾物品**。
 
@@ -73,7 +73,7 @@ MSU 導航器是一個中心，楓之谷玩家們可以在此搜尋和查看楓�
 
 #### 2.2.4. 角色排名
 
-![](images/msn-101/learn-more/image_1747236430774_622.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_622.png)
 
 您可以查看**等級最高的 5 個角色**。
 
@@ -89,9 +89,9 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 
 您可以輸入物品名稱、角色名稱、特定物品資訊 (物品名稱 + 唯一 ID) 或使用者名稱來搜尋您想查看的資訊。
 
-![](images/msn-101/learn-more/image_1747236430774_504.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_504.png)
 
-![](images/msn-101/learn-more/image_1747236430774_512.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_512.png)
 
 ### 3.1. 搜尋時的重要提醒
 1.  **熱門搜尋：** 點擊搜尋列，即可查看過去 7 天內瀏覽次數最多的物品名稱、特定物品和角色名稱。使用此功能來發現目前在使用者中最熱門的物品和角色。
@@ -104,13 +104,13 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 
 ※ 您必須輸入確切的物品名稱。部分匹配或拼寫錯誤將不會傳回結果。
 
-![](images/msn-101/learn-more/image_1747236430774_41.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_41.png)
 
 ### 3.2. 物品名稱搜尋 - NFT
 
 依 NFT 物品名稱搜尋 (不含唯一 ID) 將會將您導向至其詳細資訊頁面，您可以在其中查看：
 
-![](images/msn-101/learn-more/image_1747236430774_721.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_721.png)
 
 **物品詳細資訊**
 
@@ -125,7 +125,7 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 *   您可以查看每個強化等級的強化成本、強化次數和其他相關資料。
 *   它還允許您選擇和查看特定的強化等級和時間段以進行詳細分析。
 
-![](images/msn-101/learn-more/image_1747236430774_249.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_249.png)
 
 **2\. 交易資訊：**
 
@@ -134,7 +134,7 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 
 ※ 如果物品沒有交易歷史記錄，將會顯示「沒有可用的交易歷史記錄」訊息。
 
-![](images/msn-101/learn-more/image_1747236430774_623.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_623.png)
 
 #### 3.2.1. 頂端按鈕功能
 
@@ -142,12 +142,13 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 
 *   下列資訊**通常會顯示在所有詳細資訊頁面。**
 
-![](images/msn-101/learn-more/image_1747236430774_465.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_465.png)
 
-| 市集 |  | 點擊此按鈕會在新的分頁中開啟 MSU 市集，您可以在其中查看該物品目前的上架情況。 |
-| 加入觀察清單 |  | 點擊此按鈕會將該物品加入您的觀察清單。透過將您感興趣的物品加入觀察清單以持續追蹤更新。 |
-| 分享 |  | 點擊此按鈕會顯示下列分享選項：(1) 複製連結 – 複製目前頁面的 URL (2) 在 X 上分享 – 在 X (先前為 Twitter) 上分享該物品 (3) 在 Facebook 上分享 – 在 Facebook 上分享該物品 |
-| 瀏覽器 |  | 點擊此按鈕會在新的分頁中開啟 MSU 瀏覽器，您可以在其中查看相關錢包地址的詳細資訊。 |
+| 市集 | 點擊此按鈕會在新的分頁中開啟 MSU 市集，您可以在其中查看該物品目前的上架情況。 |
+|:---|:---|
+| 加入觀察清單 | 點擊此按鈕會將該物品加入您的觀察清單。透過將您感興趣的物品加入觀察清單以持續追蹤更新。 |
+| 分享 | 點擊此按鈕會顯示下列分享選項：(1) 複製連結 – 複製目前頁面的 URL (2) 在 X 上分享 – 在 X (先前為 Twitter) 上分享該物品 (3) 在 Facebook 上分享 – 在 Facebook 上分享該物品 |
+| 瀏覽器 | 點擊此按鈕會在新的分頁中開啟 MSU 瀏覽器，您可以在其中查看相關錢包地址的詳細資訊。 |
 
 ※ 「瀏覽器」按鈕僅在依使用者名稱搜尋時可用。※ 對於 FT 物品，「加入觀察清單」按鈕不可用。※ 對於角色 NFT，「市集」按鈕不可用。
 
@@ -155,7 +156,7 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 
 當您依 NFT 物品名稱及其唯一 ID 搜尋時，您將被導向至該特定物品的詳細資訊頁面，您可以在其中查看下列資訊：
 
-![](images/msn-101/learn-more/image_1747236430774_73.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_73.png)
 
 **物品詳細資訊**
 
@@ -182,7 +183,7 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 
 依 FT 物品名稱搜尋時，您將被導向至該物品的詳細資訊頁面，您可以在其中查看下列資訊：
 
-![](images/msn-101/learn-more/image_1747236430774_775.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_775.png)
 
 **物品詳細資訊**
 
@@ -202,9 +203,10 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 
 依角色名稱搜尋時，您將被導向至角色詳細資訊頁面，其中提供下列資訊：
 
-![](images/msn-101/learn-more/image_1747236430774_821.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_821.png)
 
 | 排名 | 等級排名職業排名 |
+|:---|:---|
 | 代幣標準 | 角色的代幣標準 |
 
 對於角色 NFT，您可以查看下列額外資訊：
@@ -232,6 +234,7 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
     *   使用**左上角的下拉式選單**依特定子類別篩選：
 
 | 物品 | 獎勵星力潛能附加能力值 |
+|:---|:---|
 | 冒險 | 地區任務組隊任務 |
 | 戰鬥 | 原野頭目武陵道場 |
 | 區塊鏈 | 鑄造交換貨幣 |
@@ -246,11 +249,12 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 
 依使用者名稱搜尋時，您將被導向至使用者帳戶詳細資訊頁面，其中可查看下列資訊：
 
-![](images/msn-101/learn-more/image_1747236430774_703.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236430774_703.png)
 
 **帳戶詳細資訊**
 
 | 鏈上資訊 | 總鑄造物品數：迄今為止已鑄造的物品總數總 NESO 鑄造量：迄今為止已領取的 NESO 總量總交易量 |
+|:---|:---|
 
 依使用者名稱搜尋時，您還可以查看下列詳細資訊：
 
@@ -291,6 +295,7 @@ MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同�
 **帳戶詳細資訊**
 
 | 鏈上資訊 | 總鑄造物品數：迄今為止已鑄造的物品總數總 NESO 鑄造量：迄今為止已領取的 NESO 總量總交易量 |
+|:---|:---|
 
 依使用者名稱搜尋時，您還可以查看下列詳細資訊：
 

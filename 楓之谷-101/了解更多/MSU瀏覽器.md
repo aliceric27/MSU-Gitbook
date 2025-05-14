@@ -5,7 +5,7 @@
 3.  **MSU 瀏覽器導覽分頁**
 ## 1. 什麼是 MSU 瀏覽器？
 
-![](images/msn-101/learn-more/image_1747236433970_457.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236433970_457.png)
 
 MSU 瀏覽器是一個平台，楓之谷玩家們可以在此查看與楓之谷宇宙 (MapleStory Universe) 主網 Henesys L1 相關的所有鏈上資料。
 
@@ -32,13 +32,14 @@ MSU 瀏覽器由 CrossAngle 正式支援，該公司透過 Xangle 提供各種�
 *   **NFT：** 查看特定 NFT 的資訊。
 ### 2.2. 主儀表板
 
-![](images/msn-101/learn-more/image_1747236433970_951.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236433970_951.png)
 
 ※ 請注意，圖片顯示的是測試環境，可能無法反映即時資料。
 
 在主儀表板上，楓之谷玩家們可以查看：
 
 | 每日交易量 | 最近 3 天的平均交易數量 |
+|:---|:---|
 | 每日帳戶建立數 | 最近 3 天的平均帳戶建立數量 |
 | Gas 價格 | 最新交易的 Gas 價格 |
 | 基本費用 | 最近 1 小時的平均區塊基本費用 |
@@ -59,7 +60,7 @@ MSU 瀏覽器由 CrossAngle 正式支援，該公司透過 Xangle 提供各種�
 *   **最新交易**：顯示最近 10 筆交易，包括交易雜湊值、轉帳的 NXPC 金額、寄件人錢包地址和收件人錢包地址
 ## 3. MSU 瀏覽器導覽分頁
 
-![](images/msn-101/learn-more/image_1747236433970_684.png)
+![](https://aliceric27s-organization.gitbook.io/images/msn-101/learn-more/image_1747236433970_684.png)
 
 ※ 請注意，圖片顯示的是測試環境，可能無法反映即時資料。
 
