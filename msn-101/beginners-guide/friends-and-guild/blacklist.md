@@ -1,20 +1,20 @@
-# Blacklist
-## Table of Contents
-1.  **What is a Blacklist?**
-2.  **Managing Blacklist**
-## 1. What is a Blacklist?
+# 黑名單
+## 目錄
+1.  **什麼是黑名單？**
+2.  **管理黑名單**
+## 1. 什麼是黑名單？
 
-You can add blacklist users you do not want to see again or block from chatting while playing the game.
+您可以將不想再看到或想在遊戲中阻止聊天的使用者加入黑名單。
 
-If you add a character to the blacklist, its entire account will be blacklisted.
+如果您將某個角色加入黑名單，其整個帳號都將被列入黑名單。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236381503_770.png)
 
-## 2. Managing Blacklist
+## 2. 管理黑名單
 
-You cannot register the same character or account to both your friends list and blacklist.
+您無法將同一個角色或帳號同時註冊到您的好友名單和黑名單中。
 
-*   In the case of account friends, characters within the same world cannot be registered in the blacklist at the same time.
-*   In the case of a blacklist, you cannot register other characters in the same world as account friends or friends.
+*   如果是帳號好友，同一世界中的角色不能同時註冊到黑名單中。
+*   如果是黑名單，您無法將同一世界中的其他角色註冊為帳號好友或好友。
 
-Additionally, the guild you are currently in cannot be added to the guild blacklist.
+此外，您目前所在的公會不能加入公會黑名單。

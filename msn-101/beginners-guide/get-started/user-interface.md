@@ -1,155 +1,155 @@
-# User Interface
+# 使用者介面
 
-**Table of Contents**
+**目錄**
 
-1.  **Minimap**
-2.  **Quick Move**
-3.  **Notifier**
-4.  **Chat Window**
-5.  **Character Window**
-6.  **Quest Helper**
-7.  **Maple Guide**
-8.  **Changing Language Setting**
-## 1. Minimap
+1.  **小地圖**
+2.  **快速移動**
+3.  **通知器**
+4.  **聊天視窗**
+5.  **角色視窗**
+6.  **任務小幫手**
+7.  **楓之谷指南**
+8.  **變更語言設定**
+## 1. 小地圖
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266135_775.png)
 
-The minimap displays the location of your current character and the name of the area they are in. Check it to see where NPCs, other characters, map structures, and other objects around your character.
+小地圖會顯示你目前角色的位置以及所在區域的名稱。查看它可以了解NPC、其他角色、地圖結構以及角色周圍的其他物件。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266135_50.png)
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266135_511.png)
 
-*   An exclamation mark (**!**) over an NPC icon on the minimap indicates that there are quests available through that NPC.
-*   A question mark (**?**) over an NPC icon on the minimap indicates that there is a quest you can complete through that NPC.
-*   The minimap does not display in some areas.
-*   You can check an NPC's name and its role by hovering the mouse over the NPC icon on the minimap.
-*   Clicking the "NPC" button at the top right of the minimap will display the list of NPCs on the map.
-*   Click an NPC at the NPC list to mark them with an arrow.
-*   Right-click an NPC at the NPC list to activate navigation. Click "OK" button to begin navigation. It will lead you to the NPC!
+*   小地圖上NPC圖示上方的驚嘆號（**!**）表示該NPC有可接取的任務。
+*   小地圖上NPC圖示上方的問號（**?**）表示你可以透過該NPC完成任務。
+*   小地圖在某些區域不會顯示。
+*   你可以將滑鼠懸停在小地圖上的NPC圖示上，以查看NPC的名稱及其角色。
+*   點擊小地圖右上角的「NPC」按鈕將顯示地圖上的NPC列表。
+*   點擊NPC列表中的NPC，可用箭頭標記他們。
+*   在NPC列表中的NPC上按右鍵以啟動導航。點擊「確定」按鈕開始導航。它會引導你找到NPC！
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266135_992.png)
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266135_338.png)
 
-Click “REWARD” button on the upper-right corner of the minimap to open Reward Dashboard widget.
+點擊小地圖右上角的「獎勵」按鈕以開啟獎勵儀表板小工具。
 
-## 2. Quick Move
+## 2. 快速移動
 
-While in a town, you can use Quick Move to move to the content of your choice.
+在城鎮中時，你可以使用快速移動前往你選擇的內容。
 
-There are certain towns that do not have Quick Move function.
+某些城鎮沒有快速移動功能。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266135_265.png)
 
-| 1 | Dimensional Mirror | Move to maps to enjoy various content, such as party quests. |
-| 2 | Station | Move to the nearest Station from your current location. |
-| 3 | Taxi | Move to main regions nearby. |
-| 4 | Guild Base | Move to the Guild Base: Hall of Heroes |
+| 1 | 次元之鏡 | 移動到地圖以享受各種內容，例如組隊任務。 |
+| 2 | 車站 | 從你目前的位置移動到最近的車站。 |
+| 3 | 計程車 | 移動到附近的主要地區。 |
+| 4 | 公會基地 | 移動到公會基地：英雄殿堂 |
 
-## 3. Notifier
+## 3. 通知器
 
-The notifier shows quests and events that your current character can take.
+通知器會顯示你目前角色可以接取的任務和活動。
 
-|  | Available quests |
-|  | Available Events |
-|  | MapleStory N News |
+|  | 可接取的任務 |
+|  | 可參加的活動 |
+|  | 楓之谷 N 新聞 |
 
-1.  **Available daily/weekly quests:** Find available quests that you can clear daily or weekly.
-2.  **Available quests:** Find available regular quests that you haven’t cleared yet.
-3.  **Available Events:** Find available events that you can participate in.
-4.  **MapleStory N News:** You can directly visit (1) MapleStory N Website, (2) MapleStory N Announcement, (3) MapleStory N Event, (4) MapleStory N Guide with MapleStory N News icon.
+1.  **可接取的每日/每週任務：** 尋找你可以每日或每週完成的可接取任務。
+2.  **可接取的任務：** 尋找你尚未完成的可接取一般任務。
+3.  **可參加的活動：** 尋找你可以參加的可參加活動。
+4.  **楓之谷 N 新聞：** 你可以透過楓之谷 N 新聞圖示直接造訪 (1) 楓之谷 N 網站、(2) 楓之谷 N 公告、(3) 楓之谷 N 活動、(4) 楓之谷 N 指南。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266135_775.png)
 
-Hover your mouse over each icon to check the remaining number of quests or events that you can participate in!
+將滑鼠懸停在每個圖示上，即可查看你可以參加的剩餘任務或活動數量！
 
-## 4. Chat Window
+## 4. 聊天視窗
 
-The chat window has multiple chat tabs, including All chat, Friend chat, Party chat, and Guild chat. It is located at the bottom left of the screen and you can start chatting by pressing the \[Enter\] key.
+聊天視窗有多個聊天分頁，包括全部聊天、好友聊天、隊伍聊天和公會聊天。它位於螢幕左下角，你可以按 \[Enter\] 鍵開始聊天。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_521.png)
 
-Want to know more about the Chat System? Check the **\[**[**Chat Window Guide**](https://docs.maplestoryn.io/msn-101/beginners-guide/friends-and-guild/chat-window)**\]**
+想進一步了解聊天系統嗎？請查看 **\[**[**聊天視窗指南**](https://docs.maplestoryn.io/msn-101/beginners-guide/friends-and-guild/chat-window)**\]**
 
-## 5. Character Window
+## 5. 角色視窗
 
-The character window displays your character's level, name, HP, MP, and EXP information.
+角色視窗會顯示你角色的等級、名稱、HP、MP 和經驗值資訊。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_997.png)
 
-## 6. Quest Helper
+## 6. 任務小幫手
 
-Use the Quest Helper to check the progress of your quest.
+使用任務小幫手來查看你的任務進度。
 
-Up to 5 quests can be registered in the Quest Helper
+任務小幫手最多可以登錄 5 個任務
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_250.png)
 
-When the "Auto Alarm" button is on, new quests will be registered to the Quest Helper automatically when you start them.
+當「自動提醒」按鈕開啟時，新任務會在開始時自動登錄到任務小幫手。
 
-When the "Auto Alarm" button is toggled off, quests will not be automatically registered to the Quest Helper even if you progress them.
+當「自動提醒」按鈕關閉時，即使你進行任務，任務也不會自動登錄到任務小幫手。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_509.png)
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_596.png)
 
-### 6.1. Registering Quests in the Quest Helper
-1.  Click the checkbox on the left side of the Quest title at the Quest Window (shortcut key \[Default: Q\]).
+### 6.1. 在任務小幫手中登錄任務
+1.  點擊任務視窗（快捷鍵 \[預設：Q\]）中任務標題左側的核取方塊。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_249.png)
 
-1.  Click the "QUEST HELPER" button.
+1.  點擊「任務小幫手」按鈕。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_975.png)
 
-### 6.2. Remove Quests from the Quest Helper
+### 6.2. 從任務小幫手中移除任務
 
-Uncheck the checkbox at the Quest Window or click the "X" button next to the quest title at the Quest Helper Window to remove the quest from the list.
+取消勾選任務視窗中的核取方塊，或點擊任務小幫手視窗中任務標題旁的「X」按鈕，即可從清單中移除該任務。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_241.png)
 
-## 7. Maple Guide
+## 7. 楓之谷指南
 
-The Maple Guide recommends various contents including quests and hunting fields that is suitable for your character level.
+楓之谷指南會推薦適合你角色等級的各種內容，包括任務和狩獵場。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_583.png)
 
-Want to know more about the Maple Guide? Check the **\[**[**Maple Guide**](/msn-101/beginners-guide/get-started/maple-guide)**\]**.
+想進一步了解楓之谷指南嗎？請查看 **\[**[**楓之谷指南**](/msn-101/beginners-guide/get-started/maple-guide)**\]**。
 
-## 8. Changing Language Setting
+## 8. 變更語言設定
 
-MapleStory N supports multiple languages to provide Maplers with a more convenient gameplay experience.
+楓之谷 N 支援多種語言，為楓之谷玩家提供更便利的遊戲體驗。
 
-Currently, a total of 9 languages are supported:
+目前總共支援 9 種語言：
 
-*   English
-*   Indonesian
-*   Japanese
-*   Korean
-*   Portuguese
-*   Simplified Chinese
-*   Traditional Chinese
-*   Spanish
-*   Thai
+*   英文
+*   印尼文
+*   日文
+*   韓文
+*   葡萄牙文
+*   簡體中文
+*   繁體中文
+*   西班牙文
+*   泰文
 
-When you first launch the game client, the default language is set to English.
+首次啟動遊戲用戶端時，預設語言設定為英文。
 
-You can change the language later in the Option menu, and for the new language setting to be applied, the game client must be restarted.
+你稍後可以在選項選單中變更語言，要套用新的語言設定，必須重新啟動遊戲用戶端。
 
-※ Please note that to minimize confusion and improve convenience in user communication, important in-game terms (e.g. field name, NPC name, skill name, etc) are provided in English by default.
+※ 請注意，為了盡量減少混淆並提高使用者溝通的便利性，重要的遊戲內術語（例如地圖名稱、NPC名稱、技能名稱等）預設以英文提供。
 
-### 8.1. How to Change the Language
-1.  Click \[Settings\] >\[Options\] > \[Game\] and find \[Language\]
+### 8.1. 如何變更語言
+1.  點擊 \[設定\] >\[選項\] > \[遊戲\] 並找到 \[語言\]
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_64.png)
 
-1.  Choose your preferred language from the 9 options:
+1.  從 9 個選項中選擇你偏好的語言：
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236266136_668.png)
 
-1.  Once you see a message confirming the change, exit the client and restart the game.
+1.  看到確認變更的訊息後，結束用戶端並重新啟動遊戲。
 
-※ All languages except English are currently in beta version. Some content may not yet be fully translated. Major content will be updated first, and the team will strive to improve language support as quickly as possible.
+※ 除英文外的所有語言目前皆為測試版。部分內容可能尚未完全翻譯。主要內容將優先更新，團隊將努力盡快改善語言支援。
 
-※ If any translation errors or typos are found, please contact our [Support](https://support.msu.io/hc/en-us).
+※ 如果發現任何翻譯錯誤或錯字，請聯繫我們的 [客服中心](https://support.msu.io/hc/en-us)。

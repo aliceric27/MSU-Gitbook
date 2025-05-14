@@ -1,12 +1,12 @@
-# Buccaneer
+# 拳霸
 
 ![](images/msn-101/classes-and-jobs/pirate/image_1747236412915_493.png)
 
-#### Master of fighting who blows enemies away with a Sea Serpent
+#### 一位用海龍將敵人打飛的格鬥大師
 
-Buccaneer is a master of martial arts using bare knuckles while wielding the power of a Sea Serpent. Buccaneer's fighting skills resonate with the fury of the ocean, and the Serpent appears to further enhance attacks. When the Serpent has appeared a certain number of times, a powerful Serpent Assault skill is activated, resulting in an ultimate strike that blows all enemies out of the water.
+拳霸是一位使用拳頭並駕馭海龍之力的武術大師。拳霸的戰鬥技巧與海洋的狂怒產生共鳴，海龍的出現進一步強化了攻擊。當海龍出現一定次數後，將啟動強大的海龍突擊技能，施展出終極一擊，將所有敵人打出水面。
 
-*   Main Stat: STR (Strength)
-*   Weapons Used: Knuckle
+*   主要屬性：STR (力量)
+*   使用武器：指虎
 
 ![](images/msn-101/classes-and-jobs/pirate/image_1747236412915_605.png)

@@ -1,105 +1,104 @@
-# Bonus Stats
-## Table of Contents
-1.  **What is Bonus Stats?**
-2.  **Types of Rebirth Flames**
-3.  **How to get Ingredients for Bonus Stats Enhancement**
-4.  **Equipment Enhancement: Bonus Stats UI**
-5.  **Performing Bonus Stats Enhancement**
-## 1. What is Bonus Stats?
+# 附加能力值
+## 目錄
+1.  **什麼是附加能力值？**
+2.  **輪迴星火的種類**
+3.  **如何獲得附加能力值強化的材料**
+4.  **裝備強化：附加能力值使用者介面**
+5.  **進行附加能力值強化**
+## 1. 什麼是附加能力值？
 
-**Bonus Stats** is a system that allows you to grant or reset extra stats on your minted equipment items and enhance their stats.
+**附加能力值**是一個系統，讓你可以賦予或重置你已鑄造的裝備物品的額外能力值，並強化它們的能力值。
 
-All items drop **without Bonus Stats** by default. You can use **Rebirth Flame** to grant or reset Bonus Stats on the item.
+所有物品預設掉落時都**沒有附加能力值**。你可以使用**輪迴星火**來賦予或重置物品的附加能力值。
 
-## 2. Types of Rebirth Flames
+## 2. 輪迴星火的種類
 
-You need **Rebirth Flame** to grant Bonus Stats on items.
+你需要**輪迴星火**來賦予物品附加能力值。
 
-There are three types of Rebirth Flames. Each type applies different effects on the Bonus Stats.
+輪迴星火有三種類型。每種類型對附加能力值有不同的效果。
 
-Please refer to the table below for the specific effects of each Rebirth Flame.
+請參考下表了解各類輪迴星火的具體效果。
 
-| Powerful Rebirth Flame | Grants new Bonus Stats.Existing Bonus Stats will be changed to new stats. |
-| Eternal Rebirth Flame | Grants new Bonus Stats.Existing Bonus Stats will be changed to new stats.Eternal Rebirth Flame has higher probability to grant upper level Bonus Stats than Powerful Rebirth Flame. |
-| Black Rebirth Flame | You can choose between existing Bonus Stats and new Bonus Stats.Same level of Bonus Stats will be granted as Eternal Rebirth Flame. |
+| 強力的輪迴星火 | 賦予新的附加能力值。現有的附加能力值將變更為新的能力值。 |
+| 永遠的輪迴星火 | 賦予新的附加能力值。現有的附加能力值將變更為新的能力值。永遠的輪迴星火比強力的輪迴星火有更高機率賦予較高等級的附加能力值。 |
+| 黑色的輪迴星火 | 你可以在現有的附加能力值和新的附加能力值之間做選擇。將會賦予與永遠的輪迴星火相同等級的附加能力值。 |
 
-## 3. How to get Ingredients for Bonus Stats Enhancement
+## 3. 如何獲得附加能力值強化的材料
 
-In order to use each Rebirth Flame, you need Rebirth Flame Points or Rebirth Flame items.
+要使用各種輪迴星火，你需要輪迴星火點數或輪迴星火道具。
 
-### 3.1 Rebirth Flame Points
+### 3.1 輪迴星火點數
 
-You can obtain **Rebirth Flame Point Exchange Coupon** through gameplay.
+你可以透過遊戲過程獲得**輪迴星火點數交換券**。
 
-*   These coupons are local items and can be found at OTHER tab in your Character Inventory. Keep your adventure going and collect the coupons!
-*   Use the coupons you own to recharge your Rebirth Flame Points, which can be checked at Equipment Enhancement: Bonus Stats window.
+*   這些交換券是本地道具，可以在你的角色道具欄的「其他」分頁中找到。繼續你的冒險並收集這些交換券吧！
+*   使用你擁有的交換券來儲值你的輪迴星火點數，可以在「裝備強化：附加能力值」視窗中查看。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236290045_378.png)
 
-### 3.2. Life Flame Collector
+### 3.2. 生命星火收集器
 
-You can obtain Rebirth Flame items through the **Life Flame Collector** by completing **daily quests in Kritias, Dark World Tree, and Haven regions.**
+你可以透過**生命星火收集器**，完成**克里提亞斯、暗黑世界樹和避風港地區的每日任務**來獲得輪迴星火道具。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236290045_718.png)
+| [每日任務] 克里提亞斯每日任務 | 克里提亞斯 |
+| [每日任務] 協助克里提亞斯的獎勵 | 克里提亞斯 |
+| [每日任務] 暗黑世界樹每日任務 | 暗黑世界樹 |
+| [每日任務] 暗黑世界樹淨化 | 暗黑世界樹 |
+| [每日任務] 避風港每日任務 | 避風港 |
+| [每日任務] 持續的請求 | 避風港 |
 
-| [Daily Quest] Kritias Daily Mission | Kritias |
-| [Daily Quest] Reward for Helping Kritias | Kritias |
-| [Daily Quest] Dark World Tree Daily Mission | Dark World Tree |
-| [Daily Quest] Dark World Tree Cleansing | Dark World Tree |
-| [Daily Quest] Haven Daily Mission | Haven |
-| [Daily Quest] Constant Request | Haven |
+你每天可以使用生命星火收集器一次。你也可以透過擊敗2000隻等級相近的怪物來獲得生命餘燼。
 
-You may use the Life Flame Collector once a day. You can also receive Ember of Life by defeating 2,000 Monsters near your level.
-
-*   You can check the number of monsters you hunted via Quest Helper or the temporary notification that appears on screen while defeating monsters.
+*   你可以透過任務小幫手或擊敗怪物時螢幕上出現的臨時通知來查看你狩獵的怪物數量。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236290045_833.png)
 
-Visit Life Alchemist NPC in Henesys to exchange Ember of Life with the following items:
+前往位於弓箭手村的生命煉金術師 NPC，用生命餘燼交換以下道具：
 
-*   Powerful Rebirth Flame
-*   Eternal Rebirth Flame
-*   Black Rebirth Flame
+*   強力的輪迴星火
+*   永遠的輪迴星火
+*   黑色的輪迴星火
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236290045_152.png)
 
-※ Life Flame Collector item can be used only one time per day.
+※ 生命星火收集器道具每天只能使用一次。
 
-※ You can hold maximum 70 Embers of Life in your wallet.
+※ 你的錢包中最多可以持有 70 個生命餘燼。
 
-## 4. Equipment Enhancement: Bonus Stats UI
+## 4. 裝備強化：附加能力值使用者介面
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236290045_64.png)
 
-You can perform **Star Force Enhancement, Potential Enhancement, and Bonus Stats Enhancement** at the Enhancement screen.
+你可以在強化畫面進行**星力強化、潛能強化和附加能力值強化**。
 
-Within the **Bonus Stats Enhancement**, you can check the following information:
+在**附加能力值強化**中，你可以查看以下資訊：
 
-1.  **Selected enhancement type**
-2.  **Item you selected for enhancemen**t — be sure to double-check that the correct item is chosen before proceeding
-3.  **Type of Rebirth Flame selected** — ensure the correct type of flame is chosen before starting
-4.  **Current Bonus Stats** on the left under Current Enhancement Info — If the item does not have any Bonus Stats, this section will appear blank. Once enhancement is complete, the result will be displayed on the right under **Enhancement Result.**
-5.  **The amount of Rebirth Flame Points** you own and the **enhancement cost** required for the selected item. ※ Bonus Stats enhancement cost does not fluctuate.
-## 5. Performing Bonus Stats Enhancement
+1.  **選擇的強化類型**
+2.  **你選擇強化的道具** — 開始前務必再次確認選擇了正確的道具
+3.  **選擇的輪迴星火類型** — 開始前確保選擇了正確的星火類型
+4.  左側「目前強化資訊」下方的**目前附加能力值** — 如果道具沒有任何附加能力值，此部分將顯示空白。強化完成後，結果將顯示在右側的**強化結果**下方。
+5.  你擁有的**輪迴星火點數數量**以及所選道具所需的**強化費用**。※ 附加能力值強化費用不會變動。
+## 5. 進行附加能力值強化
 
-After opening the Enhancement menu, select the enhancement type, choose the item, and proceed with enhancement.
+打開強化選單後，選擇強化類型，選擇道具，然後進行強化。
 
-Bonus Stats Enhancement consumes either:
+附加能力值強化會消耗以下其中一種：
 
-*   Rebirth Flame Points
-*   Rebirth Flame
+*   輪迴星火點數
+*   輪迴星火
 
-※ You cannot enhance an item if you do not have the required amount of Rebirth Flame Points or Rebirth Flame.
+※ 如果你沒有足夠的輪迴星火點數或輪迴星火，則無法強化道具。
 
-If you own both Rebirth Flame Points and Rebirth Flame, the **Rebirth Flame will be consumed first.**
+如果你同時擁有輪迴星火點數和輪迴星火，將**優先消耗輪迴星火**。
 
-Please check the remaining consumption period of Rebirth Flame. Rebirth Flame with the shortest duration will be used first.
+請檢查輪迴星火的剩餘使用期限。剩餘期限最短的輪迴星火將被優先使用。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236290045_92.png)
 
-Once everything is ready, click the “**Enhance**” button to begin.
+一切準備就緒後，點擊「**強化**」按鈕開始。
 
-*   For Bonus Stats Enhancement, clicking “Enhance” button will immediately grant or reset the Bonus Stats of the item.
-*   If using a **Black Rebirth Flame**, you will be able to select the Bonus Stats between the original stats (Current Enhancement Info) and enhanced stats (Enhancement Result).
+*   對於附加能力值強化，點擊「強化」按鈕將立即賦予或重置道具的附加能力值。
+*   如果使用**黑色的輪迴星火**，你將能夠在原始能力值（目前強化資訊）和強化後的能力值（強化結果）之間選擇附加能力值。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236290045_24.png)

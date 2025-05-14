@@ -1,43 +1,43 @@
-# Star Force Hunting Zones
-## Table of Contents
-1.  **Star Force Monster Hunt**
-2.  **Checking Your Star Force Level**
-3.  **Star Force Hunting Field Locations**
-## 1. Star Force Monster Hunt
+# 星力獵場
+## 目錄
+1.  **星力怪物狩獵**
+2.  **查看您的星力等級**
+3.  **星力獵場位置**
+## 1. 星力怪物狩獵
 
-Portals to Star Force Hunting Fields are marked in red on the mini map and in the field. When you enter a Star Force Hunting Field through a portal, a message will appear on screen indicating the required Star Force Level.
+通往星力獵場的傳送門在小地圖和場地上會以紅色標示。當您透過傳送門進入星力獵場時，畫面上會出現一則訊息，指示所需的星力等級。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236340576_717.png)
 
-In these fields, monsters are protected by a shield. If your Star Force Level is lower than required, the damage will be reduced, and incoming damage from monster will increase. Enhance your equipment's Star Force to break through their shield and fight more effectively!
+在這些獵場中，怪物受到護盾保護。如果您的星力等級低於所需等級，造成的傷害將會降低，而受到怪物的傷害將會增加。強化您裝備的星力以突破牠們的護盾並更有效地戰鬥！
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236340576_6.png)
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236340576_337.png)
 
-## 2. Checking Your Star Force Level
+## 2. 查看您的星力等級
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236340576_997.png)
 
-*   Wearing a one-piece outfit grants double the normal Star Force, as it occupies both the top and bottom slots.
-*   You can check the damage bonus or reduction in the Star Force UI.
+*   穿著連身服會獲得兩倍於正常的星力，因為它同時佔用了上衣和褲子欄位。
+*   您可以在星力 UI 中查看傷害加成或減免。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236340576_114.png)
 
-## 3. Star Force Hunting Field Locations
+## 3. 星力獵場位置
 
-Star Force Hunting Fields are available in the following 8 regions:
+星力獵場可在以下 8 個地區找到：
 
-*   Minar Forest
-*   Clocktower Bottom Floor
-*   Abandoned Mine
-*   Temple of Time
-*   Gate to the Future
-*   Kerning Tower
-*   Lion King's Castle
-*   Omega Sector
-*   Stone Colossus
+*   神木村
+*   時間塔底層
+*   廢棄礦坑
+*   時間神殿
+*   未來之門
+*   克林塔
+*   獅子王城
+*   奧米伽星區
+*   石巨人
 
-Use the star icon on the World Map to locate these fields. Hover over the icon to see information about the monsters in that field.
+使用世界地圖上的星星圖示來尋找這些獵場。將滑鼠游標移到圖示上即可查看該獵場中怪物的資訊。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236340576_716.png)

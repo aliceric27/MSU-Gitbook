@@ -1,12 +1,12 @@
-# Shadower
+# 暗影神偷
 
 ![](images/msn-101/classes-and-jobs/thief/image_1747236409976_404.png)
 
-#### An assassin who subdues opponents like a shadow moving through the dark
+#### 一位像暗影般在黑暗中行動並制服對手的刺客
 
-Shadower is an assassin who can sneak up behind their enemies and take them out swiftly with a sharp dagger. They also fight alongside dark allies and use their unique mobility to slash enemies before they know what hit them. They have a variety of charms as well as a ruthless dagger strike, and can subdue enemies with consecutive attacks like flash.
+暗影神偷是一位能夠潛伏到敵人身後，並用鋒利的匕首迅速解決他們的刺客。他們也與黑暗盟友並肩作戰，並利用其獨特的機動性在敵人察覺之前將其斬殺。他們擁有多種符咒以及無情的匕首攻擊，能夠以閃電般的連續攻擊制服敵人。
 
-*   Main Stat: LUK (Luck)
-*   Weapons Used: Dagger
+*   主要屬性：LUK (幸運)
+*   使用武器：匕首
 
 ![](images/msn-101/classes-and-jobs/thief/image_1747236409976_309.png)

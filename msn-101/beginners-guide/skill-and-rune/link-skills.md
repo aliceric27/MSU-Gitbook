@@ -1,101 +1,101 @@
-# Link Skills
-## Table of Contents
-1.  **What Are Link Skills?**
-2.  **Link Skill Transfer**
-3.  **Link Skill Guide by Classes**
-## 1. What Are Link Skills?
+# 傳授技能
+## 目錄
+1.  **什麼是傳授技能？**
+2.  **傳授技能轉移**
+3.  **各職業傳授技能指南**
+## 1. 什麼是傳授技能？
 
-Every Job has a unique Link Skill, which can be shared with other characters in the same world to grant them powerful Stats.
+每個職業都有獨特的傳授技能，可以與同世界中的其他角色共享，賦予他們強大的屬性。
 
-The effects of Link Skills applies to the character who owns it. When a character reaches Level 70, their Link Skill becomes available for transfer to another character in the same world.
+傳授技能的效果適用於擁有它的角色。當角色達到70級時，他們的傳授技能即可轉移給同世界中的另一個角色。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236303792_275.png)
 
-*   When the linked character reaches Level 120, the Skill effect will be enhanced to Level 2.
-*   If you have multiple characters of the same class within the same world, you can stack their Link Skills up to 3 times.
-    *   For example, if you have 3 Adventurer Warrior characters, you can stack their Link Skills by transferring them to the same character.
-## 2. Link Skill Transfer
+*   當連結的角色達到120級時，技能效果將增強至2級。
+*   如果你在同一個世界中擁有多個相同職業的角色，你可以將他們的傳授技能疊加最多3次。
+    *   例如，如果你有3個冒險家戰士角色，你可以透過將他們的傳授技能轉移到同一個角色來疊加。
+## 2. 傳授技能轉移
 
-Once your character reaches Level 70, you can learn how to share Link Skills via the "Teaching Link Skills" quest.
+一旦你的角色達到70級，你就可以透過「傳授技能教學」任務學習如何共享傳授技能。
 
-※ If a character is unlinked, any Link Skills they are receiving or providing will be removed.
+※ 如果角色未連結，他們正在接收或提供的任何傳授技能都將被移除。
 
-*   Link Skills can be transferred to other characters within the same world.
-*   You can transfer Link Skills to other characters once you reach Level 70, even without completing the quest.
-*   The original character will retain their Link Skill even after transferring it to another character.
-*   Each Link Skill can be transferred up to 5 times a day. After the fifth transfer, you must wait until the daily reset at 00:00 (UTC+0) to transfer again.
-### 2.1. How to Transfer Link Skills
+*   傳授技能可以轉移給同世界中的其他角色。
+*   一旦達到70級，即使未完成任務，也可以將傳授技能轉移給其他角色。
+*   即使將傳授技能轉移給其他角色，原始角色仍將保留其傳授技能。
+*   每個傳授技能每天最多可以轉移5次。第五次轉移後，你必須等到每日重置時間00:00 (UTC+0)才能再次轉移。
+### 2.1. 如何轉移傳授技能
 
-Link Skill management can be accessed through the Beginners Skills tab by selecting the Link Management skill.
+可以透過初學者技能分頁中的連結管理技能來管理傳授技能。
 
-From here, you can:
+在這裡，你可以：
 
-*   View the current character's Link Skill and the character it is linked to.
-*   Check the stat bonuses currently applied from received Link Skills.
-*   See a list of Link Skills transferred to the current character (up to 12 can be transferred)
-*   Access all unlocked Link Skills within your account in the current world and use a button to assign them to eligible characters.
-## 3. Link Skill Guide by Classes
-### 3.1. Bowman
+*   查看目前角色的傳授技能以及它連結到的角色。
+*   檢查目前從接收到的傳授技能中獲得的屬性加成。
+*   查看轉移到目前角色的傳授技能清單（最多可以轉移12個）
+*   在目前世界中存取帳戶中所有已解鎖的傳授技能，並使用按鈕將它們分配給符合資格的角色。
+## 3. 各職業傳授技能指南
+### 3.1. 弓箭手
 
-| Description | Your curiosity and attention to detail grants you bonuses to Critical Rate. |
-| Effects |  |
-| Lv. 1 | Critical Rate: +3% |
-| Lv. 2 | Critical Rate: +4% |
-| Lv. 3 | Critical Rate: +6% |
-| Lv. 4 | Critical Rate: +7% |
-| Lv. 5 | Critical Rate: +9% |
-| Lv. 6 | Critical Rate: +10% |
+| 說明 | 你的好奇心和對細節的關注為你帶來爆擊率加成。 |
+| 效果 |  |
+| Lv. 1 | 爆擊率：+3% |
+| Lv. 2 | 爆擊率：+4% |
+| Lv. 3 | 爆擊率：+6% |
+| Lv. 4 | 爆擊率：+7% |
+| Lv. 5 | 爆擊率：+9% |
+| Lv. 6 | 爆擊率：+10% |
 
-_This Link Skill can be stacked once for each different Adventurer Bowman Job character in the same world, up to a maximum of 2 times._
+_這個傳授技能在同一個世界中，每個不同的冒險家弓箭手職業角色可以疊加一次，最多疊加2次。_
 
-### 3.2. Magician
+### 3.2. 法師
 
-| Description | Your studious efforts in researching and identifying enemy weaknesses have increased your ability to single out enemies and tear through their defenses, dealing increased damage. |
-| Effects |  |
-| Lv. 1 | When attacking, has a 15% chance to identify the weakness of the enemy with the highest Max HP among those struck, granting you the following bonuses against them:Damage per Stack: +1%Enemy DEF Ignored per Stack: +1%Effect Duration: 10 secStacks up to 3 times |
-| Lv. 2 | When attacking, has a 17% chance to identify the weakness of the enemy with the highest Max HP among those struck, granting you the following bonuses against them:Damage per Stack: +1%Enemy DEF Ignored per Stack: +1%Effect Duration: 10 secStacks up to 3 times |
-| Lv. 3 | When attacking, has a 19% chance to identify the weakness of the enemy with the highest Max HP among those struck, granting you the following bonuses against them:Damage per Stack: +2%Enemy DEF Ignored per Stack: +2%Effect Duration: 10 secStacks up to 3 times |
-| Lv. 4 | When attacking, has a 21% chance to identify the weakness of the enemy with the highest Max HP among those struck, granting you the following bonuses against them:Damage per Stack: +2%,Enemy DEF Ignored per Stack: +2%Effect Duration: 10 secStacks up to 3 times |
-| Lv. 5 | When attacking, has a 23% chance to identify the weakness of the enemy with the highest Max HP among those struck, granting you the following bonuses against them:Damage per Stack: +3%Enemy DEF Ignored per Stack: +3%Effect Duration: 10 secStacks up to 3 times |
-| Lv. 6 | When attacking, has a 25% chance to identify the weakness of the enemy with the highest Max HP among those struck, granting you the following bonuses against them:Damage per Stack: +3%Enemy DEF Ignored per Stack: +3%Effect Duration: 10 secStacks up to 3 times |
+| 說明 | 你在研究和識別敵人弱點方面的勤奮努力，增強了你找出敵人並突破其防禦的能力，造成更高的傷害。 |
+| 效果 |  |
+| Lv. 1 | 攻擊時，有15%的機率識別出被擊中敵人中最大HP最高的敵人的弱點，賦予你以下對抗他們的加成：每層傷害：+1% 每層無視敵人防禦：+1% 效果持續時間：10秒 最多疊加3次 |
+| Lv. 2 | 攻擊時，有17%的機率識別出被擊中敵人中最大HP最高的敵人的弱點，賦予你以下對抗他們的加成：每層傷害：+1% 每層無視敵人防禦：+1% 效果持續時間：10秒 最多疊加3次 |
+| Lv. 3 | 攻擊時，有19%的機率識別出被擊中敵人中最大HP最高的敵人的弱點，賦予你以下對抗他們的加成：每層傷害：+2% 每層無視敵人防禦：+2% 效果持續時間：10秒 最多疊加3次 |
+| Lv. 4 | 攻擊時，有21%的機率識別出被擊中敵人中最大HP最高的敵人的弱點，賦予你以下對抗他們的加成：每層傷害：+2%，每層無視敵人防禦：+2% 效果持續時間：10秒 最多疊加3次 |
+| Lv. 5 | 攻擊時，有23%的機率識別出被擊中敵人中最大HP最高的敵人的弱點，賦予你以下對抗他們的加成：每層傷害：+3% 每層無視敵人防禦：+3% 效果持續時間：10秒 最多疊加3次 |
+| Lv. 6 | 攻擊時，有25%的機率識別出被擊中敵人中最大HP最高的敵人的弱點，賦予你以下對抗他們的加成：每層傷害：+3% 每層無視敵人防禦：+3% 效果持續時間：10秒 最多疊加3次 |
 
-_This Link Skill can be stacked once for each different Adventurer Magician Job character in the same world, up to a maximum of 2 times._
+_這個傳授技能在同一個世界中，每個不同的冒險家法師職業角色可以疊加一次，最多疊加2次。_
 
-### 3.3. Pirate
+### 3.3. 海盜
 
-| Description | Your piratical tenacity grants you the boon of damage reduction and improved stats. While this skill is active, the STR and DEX values for your equipment will be swapped. |
-| Effects |  |
-| Lv. 1 | STR: +20DEX: +20INT: +20LUK: +20Max HP: +350Max MP: +350Damage Taken: -5% |
-| Lv. 2 | STR: +30DEX: 30INT: +30LUK: +30Max HP: +525Max MP: +525Damage Taken: -7% |
-| Lv. 3 | STR: +40DEX: +40INT: +40LUK: +40Max HP: +700Max MP: +700Damage Taken: -9% |
-| Lv. 4 | STR: +50DEX: +50INT: +50LUK: +50Max HP: +875Max MP: +875Damage Taken: -11% |
-| Lv. 5 | STR: +60DEX: +60INT: +60LUK: +60Max HP: +1050Max MP: +1050Damage Taken: -13% |
-| Lv. 6 | STR: +70DEX: +70INT: +70LUK: +70Max HP: +1225Max MP: +1225Damage Taken: -15% |
+| 說明 | 你的海盜韌性賦予你減傷和屬性提升的好處。此技能啟用時，你裝備的力量和敏捷數值將會互換。 |
+| 效果 |  |
+| Lv. 1 | 力量：+20 敏捷：+20 智力：+20 幸運：+20 最大HP：+350 最大MP：+350 受到傷害：-5% |
+| Lv. 2 | 力量：+30 敏捷：30 智力：+30 幸運：+30 最大HP：+525 最大MP：+525 受到傷害：-7% |
+| Lv. 3 | 力量：+40 敏捷：+40 智力：+40 幸運：+40 最大HP：+700 最大MP：+700 受到傷害：-9% |
+| Lv. 4 | 力量：+50 敏捷：+50 智力：+50 幸運：+50 最大HP：+875 最大MP：+875 受到傷害：-11% |
+| Lv. 5 | 力量：+60 敏捷：+60 智力：+60 幸運：+60 最大HP：+1050 最大MP：+1050 受到傷害：-13% |
+| Lv. 6 | 力量：+70 敏捷：+70 智力：+70 幸運：+70 最大HP：+1225 最大MP：+1225 受到傷害：-15% |
 
-_This Link Skill can be stacked once for each different Adventurer Pirate Job character in the same world, up to a maximum of 2 times._
+_這個傳授技能在同一個世界中，每個不同的冒險家海盜職業角色可以疊加一次，最多疊加2次。_
 
-### 3.4. Thief
+### 3.4. 盜賊
 
-| Description | Your cunning and training allow you to take full advantage of a weakened opponent. Not affected by cooldown resets or buff duration increases. |
-| Effects |  |
-| Lv. 1 | Upon debuffing an enemy:Damage: +3%Duration: 10 secCooldown: 20 sec |
-| Lv. 2 | Upon debuffing an enemy:Damage: +6%Duration: 10 secCooldown: 20 sec |
-| Lv. 3 | Upon debuffing an enemy:Damage: +9%Duration: 10 secCooldown: 20 sec |
-| Lv. 4 | Upon debuffing an enemy:Damage: +12%Duration: 10 secCooldown: 20 sec |
-| Lv. 5 | Upon debuffing an enemy:Damage: +15%Duration: 10 secCooldown: 20 sec |
-| Lv. 6 | Upon debuffing an enemy:Damage: +18%Duration: 10 secCooldown: 20 sec |
+| 說明 | 你的狡猾和訓練使你能夠充分利用被削弱的對手。不受冷卻時間重置或增益持續時間增加的影響。 |
+| 效果 |  |
+| Lv. 1 | 對敵人施加減益效果時：傷害：+3% 持續時間：10秒 冷卻時間：20秒 |
+| Lv. 2 | 對敵人施加減益效果時：傷害：+6% 持續時間：10秒 冷卻時間：20秒 |
+| Lv. 3 | 對敵人施加減益效果時：傷害：+9% 持續時間：10秒 冷卻時間：20秒 |
+| Lv. 4 | 對敵人施加減益效果時：傷害：+12% 持續時間：10秒 冷卻時間：20秒 |
+| Lv. 5 | 對敵人施加減益效果時：傷害：+15% 持續時間：10秒 冷卻時間：20秒 |
+| Lv. 6 | 對敵人施加減益效果時：傷害：+18% 持續時間：10秒 冷卻時間：20秒 |
 
-_This Link Skill can be stacked once for each different Adventurer Thief Job character in the same world, up to a maximum of 2 times._
+_這個傳授技能在同一個世界中，每個不同的冒險家盜賊職業角色可以疊加一次，最多疊加2次。_
 
-### 3.5. Warrior
+### 3.5. 戰士
 
-| Description | Muster your faith in the darkest of times to recover health. Does not activate in cities or while affected by statuses that prevent HP recovery. Not affected by effects which reset cooldowns, increase buff durations, or modify recovery skill potency. |
-| Effects |  |
-| Lv. 1 | Automatically activates when your health falls to 15% of Max HP or belowRestores 20% of Max HP every 1 sec for 3 secCooldown: 410 sec |
-| Lv. 2 | Automatically activates when your health falls to 15% of Max HP or belowRestores 23% of Max HP every 1 sec for 3 secCooldown: 370 sec |
-| Lv. 3 | Automatically activates when your health falls to 15% of Max HP or belowRestores 26% of Max HP every 1 sec for 3 secCooldown: 330 sec |
-| Lv. 4 | Automatically activates when your health falls to 15% of Max HP or belowRestores 29% of Max HP every 1 sec for 3 secCooldown: 290 sec |
-| Lv. 5 | Automatically activates when your health falls to 15% of Max HP or belowRestores 32% of Max HP every 1 sec for 3 secCooldown: 250 sec |
-| Lv. 6 | Automatically activates when your health falls to 15% of Max HP or belowRestores 35% of Max HP every 1 sec for 3 secCooldown: 210 sec |
+| 說明 | 在最黑暗的時刻凝聚你的信念來恢復生命力。在城鎮中或受到阻止HP恢復的狀態影響時不會啟動。不受重置冷卻時間、增加增益持續時間或修改恢復技能效力的效果影響。 |
+| 效果 |  |
+| Lv. 1 | 當你的生命力降至最大HP的15%或以下時自動啟動 每1秒恢復最大HP的20%，持續3秒 冷卻時間：410秒 |
+| Lv. 2 | 當你的生命力降至最大HP的15%或以下時自動啟動 每1秒恢復最大HP的23%，持續3秒 冷卻時間：370秒 |
+| Lv. 3 | 當你的生命力降至最大HP的15%或以下時自動啟動 每1秒恢復最大HP的26%，持續3秒 冷卻時間：330秒 |
+| Lv. 4 | 當你的生命力降至最大HP的15%或以下時自動啟動 每1秒恢復最大HP的29%，持續3秒 冷卻時間：290秒 |
+| Lv. 5 | 當你的生命力降至最大HP的15%或以下時自動啟動 每1秒恢復最大HP的32%，持續3秒 冷卻時間：250秒 |
+| Lv. 6 | 當你的生命力降至最大HP的15%或以下時自動啟動 每1秒恢復最大HP的35%，持續3秒 冷卻時間：210秒 |
 
-_This link skill can be stacked once for each different Adventurer Warrior Job character in the same world, up to a maximum of 3 times._
+_這個傳授技能在同一個世界中，每個不同的冒險家戰士職業角色可以疊加一次，最多疊加3次。_

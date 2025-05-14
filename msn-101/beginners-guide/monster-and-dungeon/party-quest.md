@@ -1,66 +1,66 @@
-# Party Quest
-## Table of Contents
-1.  **How to Enter a Party Quest**
-2.  **Learn about Party Quests**
-3.  **Cross World Party Quests**
-4.  **Quest Rewards**
-5.  **Exiting a Party Quest**
-## 1. How to Enter a Party Quest
+# 組隊任務
+## 目錄
+1.  **如何進入組隊任務**
+2.  **了解組隊任務**
+3.  **跨世界組隊任務**
+4.  **任務獎勵**
+5.  **離開組隊任務**
+## 1. 如何進入組隊任務
 
-To participate in a Party Quest, use the Dimensional Mirror and select the \[Party Quest Entry\].
+若要參與組隊任務，請使用次元之鏡並選取 \[組隊任務進入\]。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236349845_844.png)
 
-## 2. Learn about Party Quests
-*   Required Level: Level 60 or higher
-*   How to Participate: Talk to the NPC for each Party Quest to begin.
+## 2. 了解組隊任務
+*   等級需求：等級 60 以上
+*   參與方式：與各組隊任務的 NPC 對話即可開始。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236349845_442.png)
 
-### 2.1. Types of Party Quests
+### 2.1. 組隊任務類型
 
-| Cooking with Tangyoon | 60 or higher | 1 - 3 people |
-| Romeo and Juliet | 70 or higher | 4 people |
-| Nett's Pyramid | 80 or higher | 4 people |
-| Xerxes in Chryse | 110 or higher | 1 - 4 people |
-| Dimensional Crack | 120 or higher | 3 - 6 people |
-| Lord Pirate | 130 or higher | 3 - 6 people |
-| Escape | 140 or higher | 3 - 6 people |
-| Dragon Rider | 150 or higher | 3 - 6 people |
-| Kenta in Danger | 160 or higher | 2 - 6 people |
-| Resurrection of the Hoblin King | 170 or higher | 2 - 6 people |
+| 與湯寶寶一同料理 | 60 以上 | 1 - 3 人 |
+| 羅密歐與茱麗葉 | 70 以上 | 4 人 |
+| 金字塔 | 80 以上 | 4 人 |
+| 克里賽的薛西斯 | 110 以上 | 1 - 4 人 |
+| 次元裂縫 | 120 以上 | 3 - 6 人 |
+| 海怒斯 | 130 以上 | 3 - 6 人 |
+| 逃脫 | 140 以上 | 3 - 6 人 |
+| 龍騎士 | 150 以上 | 3 - 6 人 |
+| 危險的坎特 | 160 以上 | 2 - 6 人 |
+| 复活的妖精王 | 170 以上 | 2 - 6 人 |
 
-*   You can obtain special quest rewards from the Raffle Dashboard for each Party Quest.
-*   You can enter Party Quests up to 5 times per day.
-## 3. Cross World Party Quests
-*   Required Level: Level 70 or higher
-*   Number of Participants: 4 players
-### 3.1. How to Participate
-*   Enter the Cross World Party Quest map through the portal to start a quest.
-*   The schedule for the Cross World Party Quests changes periodically. Make sure to check the schedule before participating.
+*   你可以從每個組隊任務的抽獎儀表板中獲得特殊的任務獎勵。
+*   每天最多可以進入組隊任務 5 次。
+## 3. 跨世界組隊任務
+*   等級需求：等級 70 以上
+*   參與人數：4 名玩家
+### 3.1. 參與方式
+*   透過傳送門進入跨世界組隊任務地圖以開始任務。
+*   跨世界組隊任務的排程會定期變更。參與前請務必查看排程。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236349845_386.png)
 
-*   You can view the currently active quests at the Cross World Party Quest entry portal.
+*   你可以在跨世界組隊任務入口處查看目前進行中的任務。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236349845_627.png)
 
-*   Inventory items are not usable in these quests.
-*   Required items will be automatically provided and removed after the quest ends.
-*   Upon completion, your rank will be recorded. You can view the top 100 players on the Ranking Board.
-*   You must have a weapon equipped to enter.
-*   You cannot change channels once inside.
-*   You can enter up to 5 times per day per character.
-## 4. Quest Rewards
+*   這些任務中無法使用道具欄物品。
+*   所需物品將自動提供，並在任務結束後移除。
+*   完成後，你的排名將被記錄下來。你可以在排行榜上查看前 100 名玩家。
+*   你必須裝備武器才能進入。
+*   進入後無法變更頻道。
+*   每個角色每天最多可以進入 5 次。
+## 4. 任務獎勵
 
-Party Quest rewards will be added to your Raffle Dashboard.
+組隊任務獎勵將新增至你的抽獎儀表板。
 
-You can preview possible rewards in the \[Reward Dashboard\] > \[Other Content\] tab.
+你可以在 \[獎勵儀表板\] > \[其他內容\] 分頁中預覽可能的獎勵。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236349845_260.png)
 
-## 5. Exiting a Party Quest
+## 5. 離開組隊任務
 
-Use the Spiegelmann's Guest House portal to travel back to your original town.
+使用修菲凱曼的招待所傳送門返回你原來的城鎮。
 
-If you are in the Cross World Party Quest map, use the portal in the Waiting Map to return via Spiegelmann's Guest House.
+如果你在跨世界組隊任務地圖中，請使用等候地圖中的傳送門，透過修菲凱曼的招待所返回。

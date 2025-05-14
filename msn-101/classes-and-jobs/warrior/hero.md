@@ -1,12 +1,12 @@
-# Hero
+# 英雄
 
 ![](images/msn-101/classes-and-jobs/warrior/image_1747236386070_653.png)
 
-#### A warrior who has reached the pinnacle of swordsmanship
+#### 一位已達劍術巔峰的戰士
 
-Hero is a warrior so skilled with a sword that they can even slice through space. They attack enemies and build up combos to increase their power, and release the accumulated combo orbs to unleash devastating explosions. Finesse your way through exciting battles by relentlessly slashing your enemies.
+英雄是一位劍術高超到甚至可以斬裂空間的戰士。他們攻擊敵人並累積連擊以增強力量，並釋放累積的連擊珠以引發毀滅性的爆炸。透過不斷斬擊敵人，在刺激的戰鬥中巧妙地取得勝利。
 
-*   Main Stat: STR (Strength)
-*   Weapons Used: One or Two Handed Swords or Axes
+*   主要屬性：STR (力量)
+*   使用武器：單手或雙手劍或斧頭
 
 ![](images/msn-101/classes-and-jobs/warrior/image_1747236386070_177.png)

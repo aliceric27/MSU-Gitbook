@@ -1,58 +1,58 @@
-# NFT Collection
-## Table of Contents
-1.  **What is NFT Collection?**
-2.  **How to Add Items to NFT Collection**
-3.  **Unregistering from NFT Collection**
-## 1. What is NFT Collection?
+# NFT 收藏
+## 目錄
+1.  **什麼是 NFT 收藏？**
+2.  **如何將道具新增至 NFT 收藏**
+3.  **從 NFT 收藏中取消登錄**
+## 1. 什麼是 NFT 收藏？
 
-NFT Collection is a system that enables you to register minted in-game items you own. You can get special NFT Collection effects based on your NFT Collection Score and set combination.
+NFT 收藏是一個系統，讓你可以登錄你擁有的已鑄造遊戲內道具。你可以根據你的 NFT 收藏分數和套裝組合獲得特殊的 NFT 收藏效果。
 
-Only minted characters can register items in NFT Collection, and the NFT Collection effects will be applied to all characters in the account.
+只有已鑄造的角色才能在 NFT 收藏中登錄道具，且 NFT 收藏效果將套用於帳號中的所有角色。
 
-※ For detail information, please refer to \[[Manage Character Guide](https://docs.maplestoryn.io/msn-101/beginners-guide/get-started/manage-character)\].
+※ 詳細資訊請參考 \[[管理角色指南](https://docs.maplestoryn.io/msn-101/beginners-guide/get-started/manage-character)\]。
 
-## 2. How to Add Items to NFT Collection
+## 2. 如何將道具新增至 NFT 收藏
 
-Click \[NFT Collection\] in the N-shaped \[NFT ASSETS\] menu at the bottom of the game to open your NFT Collection.
+點擊遊戲底部 N 形 \[NFT 資產\] 選單中的 \[NFT 收藏\] 以開啟你的 NFT 收藏。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236285855_552.png)
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236285855_762.png)
 
-1) Open your character inventory and drag and drop or right-click your items to add them to your NFT Collection.
+1) 開啟你的角色道具欄，然後拖放或右鍵點擊你的道具，將它們新增至你的 NFT 收藏。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236285855_494.png)
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236285855_0.png)
 
-※ Items already registered in your NFT Collection cannot be registered again.
+※ 已登錄在你 NFT 收藏中的道具無法再次登錄。
 
-※ Items stored in the Wallet Inventory cannot be registered to your NFT Collection. If you want to register the items to your NFT Collection, move them to your Character Inventory.
+※ 儲存在錢包道具欄中的道具無法登錄至你的 NFT 收藏。如果你想將道具登錄至你的 NFT 收藏，請將它們移至你的角色道具欄。
 
-※ Depending on the type of the selected item, it will be registered as either Normal Equipment or Set Equipment.
+※ 根據所選道具的類型，它將被登錄為一般裝備或套裝裝備。
 
-※ For Set Equipment, you can get additional set effects by registering the entire equipment set.
+※ 對於套裝裝備，你可以透過登錄整個裝備套裝來獲得額外的套裝效果。
 
-2) To register multiple in-game items to your NFT Collection at once, click the “**Bulk Register**” button at the top right corner of the NFT Collection window to check the list of minted items and register them.
+2) 若要一次將多個遊戲內道具登錄至你的 NFT 收藏，請點擊 NFT 收藏視窗右上角的「**批次登錄**」按鈕，以查看已鑄造道具的列表並登錄它們。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236285855_663.png)
 
-3) Once the in-game item is registered to your NFT Collection, you will get NFT Collection score, and your NFT Collection level will increase based on the score you get.
+3) 遊戲內道具登錄至你的 NFT 收藏後，你將獲得 NFT 收藏分數，且你的 NFT 收藏等級將根據你獲得的分數而提升。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236285855_528.png)
 
-4) The NFT Collection effects you get are based on your NFT Collection level. To review your NFT Collection effects, click the “Effects by Level” button on the left side of the NFT Collection window.
+4) 你獲得的 NFT 收藏效果取決於你的 NFT 收藏等級。若要查看你的 NFT 收藏效果，請點擊 NFT 收藏視窗左側的「等級效果」按鈕。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236285855_637.png)
 
-## 3. How to Retrieve Items from NFT Collection
+## 3. 如何從 NFT 收藏中取回道具
 
-1) Right-click on a registered item to retrieve it from your NFT Collection.
+1) 在已登錄的道具上按右鍵，即可將其從你的 NFT 收藏中取回。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236285855_911.png)
 
-2) Once you retrieve an item from your NFT Collection, your NFT Collection score and NFT Collection level will decrease accordingly.
+2) 從你的 NFT 收藏中取回道具後，你的 NFT 收藏分數和 NFT 收藏等級將相應降低。
 
-※ Once an item is registered in NFT Collection, it can be retrieved after 10 days (240 hours).
+※ 道具一旦登錄至 NFT 收藏，可在 10 天（240 小時）後取回。
 
-※ Items registered in NFT Collection can be retrieved by other characters within the same account.
+※ 登錄在 NFT 收藏中的道具可由同一帳號內的其他角色取回。

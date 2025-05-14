@@ -1,70 +1,70 @@
-# Quests
-## Table of Contents
-1.  **Receiving Quests from NPCs**
-2.  **Receiving Quests via Notifier**
-3.  **Completing Quests**
-4.  **Claiming Quest Rewards**
-## 1. Receiving Quests from NPCs
+# 任務
+## 目錄
+1.  **從NPC接收任務**
+2.  **透過通知器接收任務**
+3.  **完成任務**
+4.  **領取任務獎勵**
+## 1. 從NPC接收任務
 
-An NPC in need of help will have a flashing lightbulb above their head.
+需要幫助的NPC頭上會有一個閃爍的燈泡。
 
-Click on the NPC with the flashing lightbulb, or press \[SPACE\] key near the NPC to ask them about their concerns.
+點擊有閃爍燈泡的NPC，或在NPC附近按下 \[空白鍵\] 來詢問他們的困擾。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236261317_555.png)
 
-If you want to help the NPC, click "Accept" to further proceed their quest.
+如果你想幫助NPC，點擊「接受」以進一步進行他們的任務。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236261317_580.png)
 
-## 2. Receiving Quests via Notifier
+## 2. 透過通知器接收任務
 
-The Notifier section on the left side of the game screen is a convenient way for your character to start major quests!
+遊戲畫面左側的通知器部分是你的角色開始主要任務的便捷方式！
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236261317_610.png)
 
-Instead of talking to an NPC, you can accept quests through the lightbulb shaped Available Quests icons in the Notifier section.
+不用和NPC對話，你可以透過通知器部分中燈泡形狀的可接取任務圖示來接受任務。
 
-You can also accept event quests and get information about ongoing events through the star-shaped Available Events icon.
+你也可以透過星形的可參加活動圖示接受活動任務並獲取有關正在進行的活動的資訊。
 
-Quests that you can accept from Available Quests/Events icon would provide you richer gameplay experience and help your adventure in MapleStory N.
+你可以從可接取任務/活動圖示接受的任務將為你提供更豐富的遊戲體驗，並幫助你在楓之谷 N 中冒險。
 
-Quests you get automatically through the Available Quests are mostly mandatory. It is strongly recommended that you accept and complete them.
+你透過可接取任務自動獲得的任務大多是強制性的。強烈建議你接受並完成它們。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236261317_410.png)
 
-Press shortcut key \[Default: Q\] to review information about quests you have accepted through the Available Quest or by visiting NPCs directly.
+按下快捷鍵 \[預設：Q\] 來查看你透過可接取任務或直接拜訪NPC所接受的任務資訊。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236261317_764.png)
 
-You can review information related to your quests in the quest window.
+你可以在任務視窗中查看與你的任務相關的資訊。
 
-| ② Quest List | Click on your desired quest category tab to review the quest list. |
-| ③ Quest Information | You can review the quest progress, content, quest rewards, and more. |
-| ④ FINISH QUEST | Finish quest that you have already completed. (This feature may not be available for some quests.) |
-| ⑤ NAVIGATION | Add quests to Navigation, so you will get directions to the location you need to complete the quest. (This feature may not be available for some quests.) |
-| ⑥ QUEST HELPER | Add quests to the Quest Helper to see the progression. |
-| ⑦ FORFEIT | If you decide you don't want to complete a quest, you can give up. You can re-accept and complete the quests later. |
+| ② 任務列表 | 點擊你想要的任務類別分頁以查看任務列表。 |
+| ③ 任務資訊 | 你可以查看任務進度、內容、任務獎勵等。 |
+| ④ 完成任務 | 完成你已經完成的任務。（某些任務可能無法使用此功能。） |
+| ⑤ 導航 | 將任務新增到導航中，這樣你就可以獲得前往完成任務所需地點的指引。（某些任務可能無法使用此功能。） |
+| ⑥ 任務小幫手 | 將任務新增到任務小幫手以查看進度。 |
+| ⑦ 放棄 | 如果你決定不想完成某個任務，可以放棄。你可以稍後重新接受並完成該任務。 |
 
-## 3. Completing Quests
-1.  Once you are done reviewing the quest requirements, you can click the "NAVIGATION" button and add the quest location you would like directions for.
-2.  Follow the arrows and enter the portal to the location you need to complete the quest.
-3.  Check the requirements to complete the quest such as monster hunts and item acquisition - get started!
-4.  As soon as you meet the quest requirements, you will get a quest completion pop-up.
-## 4. Claiming Quest Rewards
+## 3. 完成任務
+1.  查看完任務需求後，你可以點擊「導航」按鈕並新增你想要指引的任務地點。
+2.  跟隨箭頭並進入傳送門，前往完成任務所需的地點。
+3.  查看完成任務的需求，例如狩獵怪物和取得道具 - 開始吧！
+4.  一旦你滿足任務需求，就會彈出任務完成的提示。
+## 4. 領取任務獎勵
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236261317_470.png)
 
-Once you meet all of the quest requirements, you can claim the quest reward from the NPC.
+一旦你滿足所有任務需求，就可以從NPC那裡領取任務獎勵。
 
-If you have completed a quest for an NPC, they will show you a **MapleStory Book** icon above their head.
+如果你已為NPC完成任務，他們頭上會顯示一個**楓之谷書本**圖示。
 
-Just click on that NPC to claim your quest reward!
+只需點擊該NPC即可領取你的任務獎勵！
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236261317_861.png)
 
-*   You can also check the minimap to review any quests that can be accepted or finished.
+*   你也可以查看小地圖以檢視任何可以接受或完成的任務。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236261317_907.png)
 
-*   **"!"** indicates the location of an NPC with a quest that you can accept.
-*   **"?"** indicates the location of an NPC with a quest that you can finish.
+*   **「!」** 表示有可接取任務的NPC位置。
+*   **「?」** 表示有可完成任務的NPC位置。

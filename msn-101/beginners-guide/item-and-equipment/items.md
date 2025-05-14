@@ -1,75 +1,75 @@
-# Items
-*Items and Minting*
+# 道具
+*道具與鑄造*
 
-## Table of Contents
-1.  **Items in MapleStory N**
-2.  **How to Distinguish Items**
-3.  **Item Minting**
-## 1. Items in MapleStory N
+## 目錄
+1.  **楓之谷 N 中的道具**
+2.  **如何區分道具**
+3.  **道具鑄造**
+## 1. 楓之谷 N 中的道具
 
-While playing MapleStory N, you can obtain and use various types of items such as Equipment, Consumables, and Decoration items.
+在遊玩楓之谷 N 時，你可以獲得並使用各種類型的道具，例如裝備、消耗品和裝飾道具。
 
-However, depending on the status of each item, there may be differences in whether it can be minted or how it can be used.
+然而，根據每個道具的狀態，其是否可以鑄造或如何使用可能會有所不同。
 
-For a more enjoyable gameplay experience, be sure to check the specific characteristics of each item!
+為了獲得更愉快的遊戲體驗，請務必查看每個道具的具體特性！
 
-## 2. How to Distinguish Items
+## 2. 如何區分道具
 
-In MapleStory N, items are broadly categorized into Mintable, NFT, FT, Local and SBT items.
+在楓之谷 N 中，道具大致分為可鑄造、NFT、FT、本地和 SBT 道具。
 
-| Mintable Items |  |
-| NFT Items |  |
-| FT Itmes |  |
-| Local Items |  |
-| SBT Items |  |
+| 可鑄造道具 |  |
+| NFT 道具 |  |
+| FT 道具 |  |
+| 本地道具 |  |
+| SBT 道具 |  |
 
-### 2.1. Mintable Items
-*   **Mintable items** can be identified by the **cloud-shaped icon** at the bottom-right corner of the item image.
-*   **Equipment items** can be equipped but cannot be enhanced or traded before minting.
-*   **Decoration items** can be worn but cannot be traded before minting.
-*   **Consumable items** can be used but cannot be traded before minting.
-### 2.2. NFT Items
-*   NFT items are **non-consumable items** that have been successfully minted.
-*   Once minted, the item **no longer displays the cloud-shaped icon.**
-### 2.3. FT Items
-*   FT items are **consumable items** that have been successfully minted.
-*   As NFT items, FT items **do not display the cloud-shaped icon** once minted.
-*   When an FT item is minted, it is automatically moved to the Wallet Inventory.
-    *   To use an FT item, you must transfer it from the Wallet Inventory to the Character Inventory.
+### 2.1. 可鑄造道具
+*   **可鑄造道具**可以透過道具圖片右下角的**雲朵形圖示**來識別。
+*   **裝備道具**可以裝備，但在鑄造前無法強化或交易。
+*   **裝飾道具**可以穿戴，但在鑄造前無法交易。
+*   **消耗性道具**可以使用，但在鑄造前無法交易。
+### 2.2. NFT 道具
+*   NFT 道具是已成功鑄造的**非消耗性道具**。
+*   一旦鑄造完成，道具**不再顯示雲朵形圖示**。
+### 2.3. FT 道具
+*   FT 道具是已成功鑄造的**消耗性道具**。
+*   與 NFT 道具一樣，FT 道具一旦鑄造完成**也不會顯示雲朵形圖示**。
+*   當 FT 道具被鑄造時，它會自動移動到錢包道具欄。
+    *   若要使用 FT 道具，你必須將其從錢包道具欄轉移到角色道具欄。
 
-※ For more information, refer to the **\[**[**Character Inventory & Wallet Inventory Guide**](/msn-101/beginners-guide/item-and-equipment/character-inventory-and-wallet-inventory)**\]**.
+※ 更多資訊請參考 **\[**[**角色道具欄與錢包道具欄指南**](/msn-101/beginners-guide/item-and-equipment/character-inventory-and-wallet-inventory)**\]**。
 
-### 2.4. Local Items
-*   Local items can be identified by the **“L” icon** at the bottom-right of the item image.
-*   They can only be used within MapleStory N and **cannot be traded or enhanced.**
-### 2.5. SBT Items
-*   SBT items are **wallet-bound items** that cannot be traded.
-*   If your wallet holds SBT items of MapleStory Universe, they can also be used in MapleStory N.
-*   After opening the Wallet Inventory, you can transfer and copy SBT items to the Character Inventory, in which they will appear as **Local items**.
-*   Once copied to the Character Inventory, the same item cannot be copied again.
-    *   If the character is **unlinked**, the copied SBT item will be **deleted**. You cannot transfer SBT items via character trading.
-## 3. Item Minting
+### 2.4. 本地道具
+*   本地道具可以透過道具圖片右下角的 **「L」圖示**來識別。
+*   它們只能在楓之谷 N 中使用，且**無法交易或強化**。
+### 2.5. SBT 道具
+*   SBT 道具是**錢包綁定道具**，無法交易。
+*   如果你的錢包中持有楓之谷 Universe 的 SBT 道具，它們也可以在楓之谷 N 中使用。
+*   開啟錢包道具欄後，你可以將 SBT 道具轉移並複製到角色道具欄中，它們將在其中顯示為**本地道具**。
+*   一旦複製到角色道具欄，相同的道具無法再次複製。
+    *   如果角色**解除連結**，複製的 SBT 道具將被**刪除**。你無法透過角色交易轉移 SBT 道具。
+## 3. 道具鑄造
 
-In MapleStory N, you need to mint your character to mint your items.
+在楓之谷 N 中，你需要鑄造你的角色才能鑄造你的道具。
 
-Please make sure to mint your character to enjoy various contents of MapleStory Universe!
+請務必鑄造你的角色，以享受楓之谷 Universe 的各種內容！
 
-※ For more information on character minting, please refer to the **\[**[**Manage Character Guide**](/msn-101/beginners-guide/get-started/manage-character)**\]**.
+※ 關於角色鑄造的更多資訊，請參考 **\[**[**管理角色指南**](/msn-101/beginners-guide/get-started/manage-character)**\]**。
 
-You must mint the items first to enhance them or to sell them in the Marketplace.
+你必須先鑄造道具才能強化它們或在市場上出售它們。
 
-You can mint items easily by following the steps below:
+你可以按照以下步驟輕鬆鑄造道具：
 
-1) Click the “MINTING” button in your inventory.
+1) 點擊你道具欄中的「鑄造」按鈕。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236271048_873.png)
 
-2) Select the item you want to mint.
+2) 選擇你想要鑄造的道具。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236271048_290.png)
 
-3) Click the “Minting” button at the right window to proceed.
+3) 點擊右側視窗中的「鑄造」按鈕以繼續。
 
-※ When you mint an FT item, it will disappear from the character's inventory and be moved to the Wallet Inventory.
+※ 當你鑄造 FT 道具時，它將從角色的道具欄中消失並移動到錢包道具欄。
 
-※ For more information, please refer to the **\[**[**Character Inventory & Wallet Inventory Guide**](/msn-101/beginners-guide/item-and-equipment/character-inventory-and-wallet-inventory)**\]**.
+※ 更多資訊請參考 **\[**[**角色道具欄與錢包道具欄指南**](/msn-101/beginners-guide/item-and-equipment/character-inventory-and-wallet-inventory)**\]**。

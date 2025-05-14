@@ -1,168 +1,168 @@
-# Runes
-## Table of Contents
-1.  **Using Runes**
-2.  **Rune Curse**
-3.  **Types of Runes**
-## 1. Using Runes
+# 符文
+## 目錄
+1.  **使用符文**
+2.  **符文詛咒**
+3.  **符文種類**
+## 1. 使用符文
 
-Runes will spawn regularly in fields where players are hunting, and a message will appear in the center of it to notify players when they spawn. When your character is near a rune, tap the \[SPACE\] Bar (Pickup shortcut key) on your keyboard to use it.
+符文會定期在玩家狩獵的地圖中生成，生成時畫面中央會出現訊息通知玩家。當你的角色靠近符文時，按下鍵盤上的 \[空白鍵]（拾取快捷鍵）即可使用。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_106.png)
 
-You can benefit from the effects of the runes by tapping the arrow keys in the order shown at the top of the screen.
+依照畫面頂端顯示的箭頭順序按下方向鍵，就能獲得符文的效果。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_305.png)
 
-If you do not tap the arrow keys in the correct order within 10 seconds, you will have to wait a penalty time of about 3 seconds before you can try again.
+如果在10秒內沒有依照正確順序按下方向鍵，就必須等待約3秒的懲罰時間才能再次嘗試。
 
-Use a rune to get EXP +100% for 180 seconds. You will also get various additional effects depending on the type of rune you use. Check the upper right side of the screen to see which rune effects you have. You can see a list of all of the effects by mousing over the buff icon. Right click the buff icon to remove specific rune effects.
+使用符文可以獲得180秒內經驗值+100%的效果。根據使用的符文種類，還能獲得各種額外效果。檢查畫面右上角可以查看你擁有哪些符文效果。將滑鼠移到增益圖示上可以看到所有效果的清單。右鍵點擊增益圖示可以移除特定的符文效果。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_926.png)
 
-Rune Buffs
+符文增益
 
-### 1.1. Rune Effects You Can Remove by Right-Clicking
-*   Rune of Might
-*   Rune of Skill
-*   Rune of Purification
-*   Rune of Contact
-*   Rune of Ignition
-### 1.2. Rune Effects You Cannot Remove by Right-Clicking
-*   Base EXP +100% Effect
-*   Rune of Darkness
-*   Rune of Destruction
-*   Rune of Recovery
-*   Rune of Swiftness
-*   Rune of Thunder
+### 1.1. 可以透過右鍵點擊移除的符文效果
+*   力量符文
+*   技能符文
+*   淨化符文
+*   接觸符文
+*   引燃符文
+### 1.2. 無法透過右鍵點擊移除的符文效果
+*   基本經驗值+100%效果
+*   黑暗符文
+*   毀滅符文
+*   恢復符文
+*   敏捷符文
+*   雷電符文
 
-**Notes**
+**注意事項**
 
-*   Every rune has a 15-minute cooldown after you use it. During that time, you cannot get effects from other runes.
-*   The rune's buff only applies to the character who released the rune. It does not apply to party members.
-*   If your character's level is 10 or more levels lower than the monsters in the current field, you cannot use the rune in that field.
-*   Runes do not generate in some fields.
-*   Only one person can activate a rune at a time.
-## 2. Rune Curse
+*   每個符文使用後都有15分鐘的冷卻時間。在此期間，無法從其他符文獲得效果。
+*   符文的增益效果只對釋放符文的角色有效，不適用於隊伍成員。
+*   如果你的角色等級比目前地圖中的怪物低10級以上，則無法在該地圖使用符文。
+*   符文不會在某些地圖生成。
+*   一次只能有一個人啟動符文。
+## 2. 符文詛咒
 
-If a rune is left unused for too long, it will trigger a curse.
+如果符文長時間未使用，將會觸發詛咒。
 
-When a rune curse is triggered in the field, it will decrease the player's EXP obtained and item drop rate.
+當地圖中觸發符文詛咒時，會降低玩家獲得的經驗值和道具掉落率。
 
-A rune curse has four stages.
+符文詛咒有四個階段。
 
-*   **Stage 1 Curse Effect**: EXP obtained reduced by 50%, item and NESO drop rate reduced by 50%
-*   **Stage 2 Curse Effect**: EXP obtained reduced by 65%, item and NESO drop rate reduced by 65%
-*   **Stage 3 Curse Effect**: EXP obtained reduced by 80%, item and NESO drop rate reduced by 80%
-*   **Stage 4 Curse Effect**: EXP obtained reduced by 100%, item and NESO drop rate reduced by 100%
+*   **階段1詛咒效果**：獲得經驗值減少50%，道具和NESO掉落率減少50%
+*   **階段2詛咒效果**：獲得經驗值減少65%，道具和NESO掉落率減少65%
+*   **階段3詛咒效果**：獲得經驗值減少80%，道具和NESO掉落率減少80%
+*   **階段4詛咒效果**：獲得經驗值減少100%，道具和NESO掉落率減少100%
 
-To lift the rune curse, you must use a rune.
+要解除符文詛咒，必須使用一個符文。
 
-Once you use a rune, your EXP obtained and drop rates will return to their normal values.
+一旦使用符文，你獲得的經驗值和掉落率將恢復正常。
 
-*   While you are receiving a rune's effects, you will not be affected by the rune curse.
-## 3. Types of Runes
+*   當你受到符文效果影響時，將不會受到符文詛咒的影響。
+## 3. 符文種類
 
-There are a total of **10 types** of runes, and the effects of each rune are as follows.
+總共有**10種**符文，每種符文的效果如下。
 
-Using any rune automatically grants an EXP +100% bonus for 180 seconds.
+使用任何符文都會自動獲得180秒內經驗值+100%的獎勵。
 
-*   When you leave the hunting grounds, the rune's effects (except for the Liberated Rune Power effect) will disappear.
-### 3.1 Rune of Contact
+*   離開狩獵地圖時，符文的效果（解放符文之力效果除外）將會消失。
+### 3.1 接觸符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_233.png)
 
-**Effect:** The rune and the character are connected by a divine beam to attack monsters within range. If the character leaves the designated range, the divine beam will not deal damage.
+**效果：** 符文和角色之間會產生神聖光束連接，攻擊範圍內的怪物。如果角色離開指定範圍，神聖光束將不會造成傷害。
 
-**Duration:** 30 seconds
+**持續時間：** 30秒
 
-**In-Game Message:** Creates a divine beam to attack enemies. Grants the power of the liberated rune.
+**遊戲內訊息：** 產生神聖光束攻擊敵人。賦予解放符文之力。
 
-### 3.2. Rune of Darkness
+### 3.2. 黑暗符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_41.png)
 
-**Effect:** Summons 3 Elite Monsters. They will not be summoned if you already have an Elite Monster.
+**效果：** 召喚3隻精英怪物。如果已經有精英怪物存在，則不會召喚。
 
-**Duration:** None
+**持續時間：** 無
 
-**In-Game Message:** Summons an Elite Monster and grants an EXP +100% bonus.
+**遊戲內訊息：** 召喚精英怪物並賦予經驗值+100%獎勵。
 
-### 3.3. Destructive Rune
+### 3.3. 毀滅符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_93.png)
 
-**Effect:** Deals 5% of maximum HP as fixed damage per second against up to 15 enemies over 12 seconds. Increases Attack Power by 100% for 180 seconds.
+**效果：** 在12秒內，每秒對最多15名敵人造成最大HP 5%的固定傷害。在180秒內增加攻擊力100%。
 
-**Duration:** Fixed damage is 12 seconds, and Attack Power Bonus is 180 seconds.
+**持續時間：** 固定傷害為12秒，攻擊力加成為180秒。
 
-**In-Game Message:** Increases Attack Power and grants an EXP +100% bonus.
+**遊戲內訊息：** 增加攻擊力並賦予經驗值+100%獎勵。
 
-### 3.4. Rune of Ignition
+### 3.4. 引燃符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_224.png)
 
-**Effect:** When attacking an enemy, a powerful flame is created, dealing additional damage to surrounding enemies.
+**效果：** 攻擊敵人時，會產生強大的火焰，對周圍敵人造成額外傷害。
 
-**Duration:** 45 seconds
+**持續時間：** 45秒
 
-**In-Game Message:** When attacking, a powerful flame attacks nearby enemies, granting the power of the liberated rune.
+**遊戲內訊息：** 攻擊時，強大的火焰會攻擊附近的敵人，賦予解放符文之力。
 
-### 3.5. Rune of Might
+### 3.5. 力量符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_857.png)
 
-**Effect:** Increases Speed +200 and Jump +200 and greatly increases the character's size. If there is a platform above the character, tap the ↑ arrow and Jump key together to jump to the higher platform. When the enlarged character lands, it causes an earthquake that instantly defeats enemies within range.
+**效果：** 增加速度+200和跳躍力+200，並大幅增加角色體型。如果角色上方有平台，同時按下↑方向鍵和跳躍鍵即可跳到較高的平台。當變大的角色落地時，會引發地震，立即擊敗範圍內的敵人。
 
-**Duration:** 45 seconds
+**持續時間：** 45秒
 
-**In-Game Message:** Makes your character bigger and grants an EXP +100% bonus.
+**遊戲內訊息：** 使你的角色變大並賦予經驗值+100%獎勵。
 
-### 3.6. Rune of Purification
+### 3.6. 淨化符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_358.png)
 
-**Effect:** Creates a prism that absorbs energy when an enemy is defeated. If the prism is fully charged within 30 seconds, it will attack nearby enemies for a certain amount of time.
+**效果：** 創造一個稜鏡，在擊敗敵人時吸收能量。如果稜鏡在30秒內充滿能量，它將在一定時間內攻擊附近的敵人。
 
-**Duration:** 30 seconds
+**持續時間：** 30秒
 
-**In-Game Message:** Absorbs the energy of defeated enemies to create a purification prism, granting the power of the liberated rune.
+**遊戲內訊息：** 吸收被擊敗敵人的能量來創造淨化稜鏡，賦予解放符文之力。
 
-### 3.7. Rune of Skill
+### 3.7. 技能符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_506.png)
 
-**Effect:** Skill cooldown is fixed at 5 seconds. Some skills with very long cooldowns are not affected by this
+**效果：** 技能冷卻時間固定為5秒。某些冷卻時間非常長的技能不受此影響。
 
-**Duration:** 60 seconds
+**持續時間：** 60秒
 
-**In-Game Message:** Cooldown of skills with reduced cooldown is fixed at 5 seconds and grants an EXP +100% bonus.
+**遊戲內訊息：** 冷卻時間減少的技能冷卻時間固定為5秒，並賦予經驗值+100%獎勵。
 
-### 3.8. Rune of Thunder
+### 3.8. 雷電符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_350.png)
 
-**Effect:** Lightning strikes around the character, instantly defeating any normal enemies within range.
+**效果：** 角色周圍會落下閃電，立即擊敗範圍內的任何一般敵人。
 
-**Duration:** 45 seconds
+**持續時間：** 45秒
 
-**In-Game Message:** Attacks enemies with powerful lightning, granting the power of the liberated rune.
+**遊戲內訊息：** 用強大的閃電攻擊敵人，賦予解放符文之力。
 
-### 3.9. Swift Rune
+### 3.9. 敏捷符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_558.png)
 
-**Effect:** Increases character's Movement Speed +150, Jump +130, and Attack Speed +3 stages.
+**效果：** 增加角色移動速度+150，跳躍力+130，攻擊速度+3階段。
 
-**Duration:** 180 seconds
+**持續時間：** 180秒
 
-**In-Game Message:** All speeds increase and grant an EXP +100% bonus.
+**遊戲內訊息：** 所有速度增加並賦予經驗值+100%獎勵。
 
-### 3.10. Rune of Regeneration
+### 3.10. 再生符文
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236305775_543.png)
 
-**Effect:** Restores the character's HP and MP by 10% per second and reduces damage taken from monsters by 50%.
+**效果：** 每秒恢復角色HP和MP的10%，並減少受到怪物傷害50%。
 
-**Duration:** 180 seconds
+**持續時間：** 180秒
 
-**In-Game Message:** Increases Recovery, Status Resistance, and Knockback Resistance and grants an EXP +100% bonus.
+**遊戲內訊息：** 增加恢復力、狀態抗性和擊退抗性，並賦予經驗值+100%獎勵。

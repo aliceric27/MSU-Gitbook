@@ -1,87 +1,87 @@
-# MSU Explorer
-## Table of Content
-1.  **What is MSU Explorer?**
-2.  **MSU Explorer Main Dashboard**
-3.  **MSU Explorer Navigation Tabs**
-## 1. What is MSU Explorer?
+# MSU 瀏覽器
+## 目錄
+1.  **什麼是 MSU 瀏覽器？**
+2.  **MSU 瀏覽器主儀表板**
+3.  **MSU 瀏覽器導覽分頁**
+## 1. 什麼是 MSU 瀏覽器？
 
 ![](images/msn-101/learn-more/image_1747236433970_457.png)
 
-MSU Explorer is a platform where Maplers can view all on-chain data related to Henesys L1, the mainnet of MapleStory Universe.
+MSU 瀏覽器是一個平台，楓之谷玩家們可以在此查看與楓之谷宇宙 (MapleStory Universe) 主網 Henesys L1 相關的所有鏈上資料。
 
-MSU Explorer is officially supported by CrossAngle that provides various crypto asset-related services through Xangle. MSU Explorer therefore operates under CrossAngle Terms of Service, separate from those of MapleStory Universe.
+MSU 瀏覽器由 CrossAngle 正式支援，該公司透過 Xangle 提供各種加密資產相關服務。因此，MSU 瀏覽器在 CrossAngle 的服務條款下運作，與楓之谷宇宙 (MapleStory Universe) 的服務條款分開。
 
-For more details, please refer to the bottom-left section of MSU Explorer website.
+更多詳細資訊，請參閱 MSU 瀏覽器網站的左下角區塊。
 
-\[[Go to Terms of Service](https://msu-testnet-explorer.xangle.io/term-of-service)\]
+\[[前往服務條款](https://msu-testnet-explorer.xangle.io/term-of-service)\]
 
-Additionally, important usage notices that Maplers must follow while using MSU Explorer are provided in the form of a Disclaimer, located to the right of the Terms of Service link.
+此外，楓之谷玩家們在使用 MSU 瀏覽器時必須遵守的重要使用注意事項以免責聲明的形式提供，位於服務條款連結的右側。
 
-## 2. MSU Explorer Main Dashboard
+## 2. MSU 瀏覽器主儀表板
 
-On MSU Explorer’s main page, Maplers can view the latest information on Henesys L1 at a glance.
+在 MSU 瀏覽器的主頁面上，楓之谷玩家們可以一目了然地查看 Henesys L1 的最新資訊。
 
-### 2.1. Search Bar
+### 2.1. 搜尋列
 
-Maplers can search for detailed blockchain data by entering one of the following into the search bar:
+楓之谷玩家們可以透過在搜尋列中輸入下列任一項來搜尋詳細的區塊鏈資料：
 
-*   **Transaction Hash Value:** View details of the transaction, the related block, and associated logs.
-*   **Block Number:** Check block data, including all transactions and internal transactions.
-*   **Wallet Address:** View all related transactions, internal transactions, and token data (ERC-20, ERC-721, ERC-1155).
-*   **Token:** Check details about a specific token.
-*   **NFT:** View information about a particular NFT.
-### 2.2. Main Dashboard
+*   **交易雜湊值：** 查看交易的詳細資訊、相關區塊和相關日誌。
+*   **區塊編號：** 檢查區塊資料，包括所有交易和內部交易。
+*   **錢包地址：** 查看所有相關交易、內部交易和代幣資料 (ERC-20、ERC-721、ERC-1155)。
+*   **代幣：** 檢查特定代幣的詳細資訊。
+*   **NFT：** 查看特定 NFT 的資訊。
+### 2.2. 主儀表板
 
 ![](images/msn-101/learn-more/image_1747236433970_951.png)
 
-※ Please note that the image shows test environment and may not reflect the live data.
+※ 請注意，圖片顯示的是測試環境，可能無法反映即時資料。
 
-On the main dashboard, Maplers can view:
+在主儀表板上，楓之谷玩家們可以查看：
 
-| Daily Transaction | Average number of transactions in the last 3 day |
-| Daily Account Created | Average number of accounts created over the last 3 days |
-| Gas Price | Gas price of the latest transaction |
-| Base Fee | Average block base fee of the last 1 hour |
-| Gas Used | Average gas used per block over the last hour |
-| Internal Transactions | Total number of internal transactions on Henesys L1 |
-| New Accounts Created | Number of accounts created over the last 30 days |
-| Daily Gas Fees | Amount of fees paid on blocks over the last 24 hours |
-| ERC-20 Token Transfer | Total number of ERC-20 token transfers on Henesys L1 |
-| ERC-721 Token Transfer | Total number of ERC-721 token transfers on Henesys L1 |
-| ERC-1155 Token Transfer | Total number of ERC-1155 token transfers on Henesys L1 |
-| Balance | Top 10 MapleStory Universe accounts with the highest NXPC balance |
+| 每日交易量 | 最近 3 天的平均交易數量 |
+| 每日帳戶建立數 | 最近 3 天的平均帳戶建立數量 |
+| Gas 價格 | 最新交易的 Gas 價格 |
+| 基本費用 | 最近 1 小時的平均區塊基本費用 |
+| 已使用 Gas | 最近一小時每區塊平均使用的 Gas |
+| 內部交易 | Henesys L1 上的內部交易總數 |
+| 新建立帳戶數 | 最近 30 天內建立的帳戶數量 |
+| 每日 Gas 費用 | 最近 24 小時內區塊支付的費用金額 |
+| ERC-20 代幣轉帳 | Henesys L1 上的 ERC-20 代幣轉帳總數 |
+| ERC-721 代幣轉帳 | Henesys L1 上的 ERC-721 代幣轉帳總數 |
+| ERC-1155 代幣轉帳 | Henesys L1 上的 ERC-1155 代幣轉帳總數 |
+| 餘額 | NXPC 餘額最高的十大楓之谷宇宙 (MapleStory Universe) 帳戶 |
 
-Additionally, at the bottom of the main dashboard, Maplers can view the 10 most recent blocks and the 10 most recent transactions.
+此外，在主儀表板的底部，楓之谷玩家們可以查看最近 10 個區塊和最近 10 筆交易。
 
-Clicking on each entry allows Maplers to view its detailed information:
+點擊每個條目可讓楓之谷玩家們查看其詳細資訊：
 
-*   **Latest Blocks**: Displays the 10 most recent blocks, including gas used, number of transactions, and block rewards
-*   **Latest Transactions**: Displays the 10 most recent transactions, including transaction hash, amount of NXPC transferred, sender wallet address, and recipient wallet address
-## 3. MSU Explorer Navigation Tabs
+*   **最新區塊**：顯示最近 10 個區塊，包括已使用的 Gas、交易數量和區塊獎勵
+*   **最新交易**：顯示最近 10 筆交易，包括交易雜湊值、轉帳的 NXPC 金額、寄件人錢包地址和收件人錢包地址
+## 3. MSU 瀏覽器導覽分頁
 
 ![](images/msn-101/learn-more/image_1747236433970_684.png)
 
-※ Please note that the image shows test environment and may not reflect the live data.
+※ 請注意，圖片顯示的是測試環境，可能無法反映即時資料。
 
-On the left side of MSU Explorer web interface, Maplers can navigate using various functional tabs that provide detailed on-chain data about MapleStory Universe.
+在 MSU 瀏覽器網頁介面的左側，楓之谷玩家們可以使用各種功能分頁進行導覽，這些分頁提供了有關楓之谷宇宙 (MapleStory Universe) 的詳細鏈上資料。
 
-1.  **Home:** Navigates to the main homepage of MSU Explorer
-2.  **Blockchain:** Provides access to core blockchain data across four sub-tabs
-    1.  **Transactions:** View all transactions on Henesys L1 in reverse chronological order
-    2.  **Internal Transactions:** View all internal transactions executed via smart contracts, listed by latest first
-    3.  **Blocks:** Explore all blocks on Henesys L1 starting from the most recently generated
-    4.  **Deployed Contracts:** View smart contracts deployed on Henesys L1
-3.  **Tokens:** Displays information about supported tokens on Henesys L1
-    1.  **All Tokens #1:** Native governance token of MapleStory Universe – NXPC
-    2.  **All Tokens #2:** In-game utility token – NESO
-    3.  **Token Transfers:** Lists all token transfers on Henesys L1 in reverse chronological order
-4.  **NFTs:** Offers complete visibility into NFT-related activity across three sub-tabs
-    1.  **All NFTs & Transfers:** View all NFT types on Henesys L1 and their transfer history
-    2.  **NFT Trades:** Review all NFT trades that have occurred via the MSU Marketplace
-    3.  **NFT Mints:** Track all NFT minting events from within MapleStory N
-5.  **Accounts:** Lists all accounts connected to MapleStory Universe, ordered by NXPC token balance in descending order
-6.  **Analytics:** Visualize Henesys L1 network and token trends through four categories
-    1.  **User:** Charts the trend of Unique Active Wallets connected to MapleStory Universe
-    2.  **Network:** Shows historical data on the number of transactions over time
-    3.  **Token:** Displays holder trends for NESO, NXPC, and NFTs
-    4.  **Marketplace:** Tracks the number of unique accounts actively trading on the MSU Marketplace
+1.  **首頁：** 導覽至 MSU 瀏覽器的主頁
+2.  **區塊鏈：** 透過四個子分頁存取核心區塊鏈資料
+    1.  **交易：** 以時間倒序列出 Henesys L1 上的所有交易
+    2.  **內部交易：** 查看所有透過智慧合約執行的內部交易，按最新順序列出
+    3.  **區塊：** 從最新產生的區塊開始探索 Henesys L1 上的所有區塊
+    4.  **已部署合約：** 查看部署在 Henesys L1 上的智慧合約
+3.  **代幣：** 顯示 Henesys L1 上支援的代幣資訊
+    1.  **所有代幣 #1：** 楓之谷宇宙 (MapleStory Universe) 的原生治理代幣 – NXPC
+    2.  **所有代幣 #2：** 遊戲內實用代幣 – NESO
+    3.  **代幣轉帳：** 以時間倒序列出 Henesys L1 上的所有代幣轉帳
+4.  **NFT：** 透過三個子分頁提供 NFT 相關活動的完整可見性
+    1.  **所有 NFT 與轉帳：** 查看 Henesys L1 上的所有 NFT 類型及其轉帳歷史記錄
+    2.  **NFT 交易：** 檢閱所有透過 MSU 市集發生的 NFT 交易
+    3.  **NFT 鑄造：** 追蹤楓之谷 N (MapleStory N) 內的所有 NFT 鑄造事件
+5.  **帳戶：** 列出所有連接到楓之谷宇宙 (MapleStory Universe) 的帳戶，按 NXPC 代幣餘額遞減排序
+6.  **分析：** 透過四個類別視覺化 Henesys L1 網路和代幣趨勢
+    1.  **使用者：** 圖表顯示連接到楓之谷宇宙 (MapleStory Universe) 的唯一活躍錢包趨勢
+    2.  **網路：** 顯示交易數量隨時間變化的歷史資料
+    3.  **代幣：** 顯示 NESO、NXPC 和 NFT 的持有者趨勢
+    4.  **市集：** 追蹤在 MSU 市集上積極交易的唯一帳戶數量

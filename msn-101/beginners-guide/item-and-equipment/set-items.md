@@ -1,39 +1,39 @@
-# Set Items
-## Table of Contents
-1.  **What are Set Items?**
-2.  **Checking Set Effects**
-3.  **Set Effect Application**
-4.  **Lucky Items**
-## 1. What are Set Items?
+# 套裝道具
+## 目錄
+1.  **什麼是套裝道具？**
+2.  **查看套裝效果**
+3.  **套裝效果套用**
+4.  **幸運道具**
+## 1. 什麼是套裝道具？
 
-When you equip the required number of items from the same set, you can get various bonus effects.
+當你裝備同一套裝中所需數量的道具時，可以獲得各種額外效果。
 
-Set items bonuses are additionally applied on top of the base stats of the equipped item. You can get set items just like other normal items – by hunting bosses and field monsters, participating in events, and completing party quests.
+套裝道具的額外效果會在已裝備道具的基礎能力值之上額外套用。你可以像取得其他一般道具一樣取得套裝道具——透過狩獵頭目和野外怪物、參與活動以及完成組隊任務。
 
-## 2. Checking Set Effects
+## 2. 查看套裝效果
 
-When you equip a set item, you can check the set effects and a list of all items needed to complete the set. The number of set items can be more than the maximum bonus requirements.
+當你裝備套裝道具時，可以查看套裝效果以及完成該套裝所需的所有道具清單。套裝道具的數量可能多於最大額外效果需求。
 
-Note: You will not get additional effects even if you equip more set items than the number required for the maximum bonus.
+注意：即使你裝備的套裝道具數量超過最大額外效果所需數量，也不會獲得額外效果。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236279541_144.png)
 
-## 3. Set Effect Application
+## 3. 套裝效果套用
 
-If you equip items from multiple sets at the same time, each set effect Is applied altogether.
+如果你同時裝備多個套裝的道具，每個套裝效果都會一起套用。
 
-Additionally, if you equip the required number of pieces from the same set, all applicable bonuses will be applied.
+此外，如果你裝備同一套裝中所需數量的部件，所有適用的額外效果都將套用。
 
-**Example)** If you equip 3 items from the Boss Accessory Set and 6 items from the Royal Von Leon Magician Set, you will receive the following set bonuses:
+**範例)** 如果你裝備了 3 件頭目飾品套裝的道具和 6 件皇家凡雷恩法師套裝的道具，你將獲得以下套裝額外效果：
 
-*   Boss Accessory Set: **3-Set** Bonus
-*   Royal Von Leon Magician Set **4-Set** Bonus
-*   Royal Von Leon Magician Set **5-Set** Bonus
-*   Royal Von Leon Magician Set **6-Set** Bonus
-## 4. Lucky Items
+*   頭目飾品套裝：**3 件套裝**額外效果
+*   皇家凡雷恩法師套裝 **4 件套裝**額外效果
+*   皇家凡雷恩法師套裝 **5 件套裝**額外效果
+*   皇家凡雷恩法師套裝 **6 件套裝**額外效果
+## 4. 幸運道具
 
-Lucky items are the wildcards for set items!
+幸運道具是套裝道具中的百搭牌！
 
-If you have at least 3 items from the same set equipped, an additional Lucky item will count as one item from the exact set when equipped - granting you an even more powerful set bonus.
+如果你已裝備至少 3 件來自同一套裝的道具，額外的一件幸運道具在裝備時將被視為該套裝中的一件道具——賦予你更強大的套裝額外效果。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236279541_408.png)

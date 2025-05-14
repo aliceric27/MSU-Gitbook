@@ -1,12 +1,12 @@
-# Bow Master
+# 箭神
 
 ![](images/msn-101/classes-and-jobs/bowman/image_1747236402443_139.png)
 
-#### An archer who showers arrows upon enemies
+#### 一位向敵人傾瀉箭雨的弓箭手
 
-A Bow Master is an archer with no equal in ranged attacks. Enjoy the thrill of battle by unleashing rapid-fire attacks that inundate the enemies, giving them nowhere to run or hide.
+箭神是一位在遠程攻擊方面無人能及的弓箭手。透過釋放快速射擊來淹沒敵人，讓他們無處可逃、無處可躲，享受戰鬥的快感。
 
-*   Main Stat: DEX (Dexterity)
-*   Weapons Used: Bow
+*   主要屬性：DEX (敏捷)
+*   使用武器：弓
 
 ![](images/msn-101/classes-and-jobs/bowman/image_1747236402443_839.png)

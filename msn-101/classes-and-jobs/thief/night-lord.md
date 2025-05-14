@@ -1,12 +1,12 @@
-# Night Lord
+# 夜使者
 
 ![](images/msn-101/classes-and-jobs/thief/image_1747236408278_177.png)
 
-#### A thief who seems to possess limitless throwing stars
+#### 一位彷彿擁有無限飛鏢的盜賊
 
-Night Lord is a thief who is adept at using throwing stars. Overwhelm your enemies with a constant barrage of throwing stars while summoning even more with skills such as assassin's mark, charm, scrolls, etc. to deal even more damage, and dominate the battleground.
+夜使者是一位擅長使用飛鏢的盜賊。用持續不斷的飛鏢攻勢壓制敵人，同時使用刺客印記、符咒、卷軸等技能召喚更多飛鏢造成更大傷害，並主宰戰場。
 
-*   Main Stat: LUK (Luck)
-*   Weapons Used: Throwing Stars, Claw
+*   主要屬性：LUK (幸運)
+*   使用武器：飛鏢、拳套
 
 ![](images/msn-101/classes-and-jobs/thief/image_1747236408278_122.png)

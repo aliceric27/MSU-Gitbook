@@ -1,3 +1,3 @@
-# Learn More
+# 了解更多
 
 ![](images/msn-101/image_1747236419093_595.png)

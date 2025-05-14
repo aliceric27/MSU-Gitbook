@@ -1,74 +1,74 @@
-# Maple Achievement
-## Table of Contents
-1.  **What is Maple Achievement?**
-2.  **Achievement Progress**
-3.  **Achievement Updates**
-4.  **Achievement Points and Rank**
-5.  **Crest**
-## 1. What is Maple Achievement?
+# 楓之谷成就
+## 目錄
+1.  **什麼是楓之谷成就？**
+2.  **成就進度**
+3.  **成就更新**
+4.  **成就點數與排名**
+5.  **紋章**
+## 1. 什麼是楓之谷成就？
 
-Maple Achievement is a world-integrated system that records your gameplay accomplishments in MapleStory N. Characters of which Level 33 or higher can check their achievement status after completing the Begin Maple Achievements quest from the Quest Notifier. This quest can only be completed once per account. Once completed, you can check your achievement information from the menu at the bottom right of the screen.
+楓之谷成就是一個整合全伺服器的系統，它會記錄你在楓之谷 N 中的遊戲成就。等級 33 以上的角色在完成任務通知器中的「開始楓之谷成就」任務後，即可查看其成就狀態。此任務每個帳號只能完成一次。完成後，你可以從畫面右下角的選單中查看你的成就資訊。
 
-*   Achievement information is shared across all characters on your account.
-*   If you purchase a character from the Marketplace, progress or records made before the purchase will not count toward your achievement.
-    *   However, achievements can be completed using the purchased character if progress is made after acquisition.
+*   成就資訊在你帳號中的所有角色之間共享。
+*   如果你從市集購買角色，購買前所取得的進度或記錄將不計入你的成就。
+    *   然而，如果在取得角色後取得進展，則可以使用購買的角色完成成就。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236357626_632.png)
 
-## 2. Achievement Progress
+## 2. 成就進度
 
-You can see your overall achievement progress at a glance on the first page and browse your progress by category at the top when you click on each achievement menu.
+你可以在第一頁一目了然地查看你的整體成就進度，並在點擊每個成就選單時，於頂端按類別瀏覽你的進度。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236357626_400.png)
 
-The Achievement Progress shows the total number of available achievements and your current progress toward completing them.
+成就進度會顯示可達成成就的總數以及你目前完成這些成就的進度。
 
-### 2.1. View Achievements in Detail
+### 2.1. 詳細查看成就
 
-Click on an achievement to see more detailed progress information.
+點擊某個成就即可查看更詳細的進度資訊。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236357627_190.png)
 
-### 2.2. Global Completion Rate for Achievements
+### 2.2. 成就的全域完成率
 
-Hover over the trophy icon to see the Global Completion Rate for that achievement. The Global Completion Rate shows the percentage of people who have completed that specific achievement, so you can compare your progress.
+將滑鼠游標移到獎盃圖示上即可查看該成就的全域完成率。全域完成率會顯示已完成該特定成就的人數百分比，方便你比較自己的進度。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236357627_373.png)
 
-The lower percentage indicates a more rare or difficult achievement.
+百分比越低表示該成就越稀有或越困難。
 
-## 3. Achievement Updates
+## 3. 成就更新
 
-Click "Refresh" button on your Achievements page to update your progress on certain achievements. When you log in, if you see a notification at the bottom of the screen instructing you to update your achievements, simply click it to proceed.
+點擊成就頁面上的「重新整理」按鈕以更新特定成就的進度。登入時，如果你在畫面底部看到通知，指示你更新成就，只需點擊即可繼續。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236357627_856.png)
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236357627_793.png)
 
-*   New achievement can only be completed once per character.
-*   You can only update achievements while in town. You cannot perform other actions during the update process.
-*   Some achievements can only be completed by specific characters. If you are unable to complete certain achievements, try updating them using a different character.
-## 4. Achievement Points and Rank
+*   新成就每個角色只能完成一次。
+*   你只能在城鎮中更新成就。在更新過程中無法執行其他動作。
+*   某些成就只能由特定角色完成。如果你無法完成某些成就，請嘗試使用不同的角色更新它們。
+## 4. 成就點數與排名
 
-When you complete an achievement, you will earn points based on its difficulty of that achievement. When your achievement points reach a certain level, your achievement rank will also rise.
+完成成就後，你將根據該成就的難度獲得點數。當你的成就點數達到一定等級時，你的成就排名也會提升。
 
-Achievement ranks are classified as Diamond, Platinum, Gold, Silver, and Bronze, based on achievement points.
+成就排名根據成就點數分為鑽石、白金、黃金、白銀和青銅。
 
-The highest rank, Master, can be achieved only by ranking within the top 100 of the Diamond tier.
+最高排名「大師」只能透過在鑽石階級中排名前 100 名才能達成。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236357627_520.png)
 
-## 5. Crest
+## 5. 紋章
 
-Crest are in-game rewards earned by increasing your achievement rank or completing special achievements. You can view your Crest in the Crest tab under My Achievements, choose the one you wish to use and save it. When you use a Crest skill, the saved Crest’s visual effect will be displayed in-game.
+紋章是透過提升成就排名或完成特殊成就獲得的遊戲內獎勵。你可以在「我的成就」下的「紋章」分頁中查看你的紋章，選擇你想要使用的紋章並儲存它。當你使用紋章技能時，已儲存紋章的視覺效果將會顯示在遊戲中。
 
-*   You can only save Crests that are available based on your current rank.
-*   If your rank drops after rank calculation, previously equipped Crest may become locked and can no longer be selected or saved.
-*   If you have earned multiple Crests, you can choose which one to use.
-*   You can review your Maple Crest skills in the Basic Skills tab of your skill window.
+*   你只能儲存目前排名可用的紋章。
+*   如果你的排名在排名計算後下降，先前裝備的紋章可能會被鎖定且無法再選擇或儲存。
+*   如果你獲得了多個紋章，你可以選擇要使用哪一個。
+*   你可以在技能視窗的「基本技能」分頁中查看你的楓之谷紋章技能。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236357627_657.png)
 
-*   When you use Maple Crest skills, you can check the ranking along with the Crest effect.
+*   當你使用楓之谷紋章技能時，你可以連同紋章效果一起查看排名。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236357627_36.png)

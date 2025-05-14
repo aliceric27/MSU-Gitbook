@@ -1,12 +1,12 @@
-# Corsair
+# 槍神
 
 ![](images/msn-101/classes-and-jobs/pirate/image_1747236414628_901.png)
 
-#### A charismatic captain and marksman who rains down bullets and cannons
+#### 一位魅力四射的船長兼神射手，擅長傾瀉彈雨和砲火
 
-Corsair is a seasoned captain who wields a gun and commands a diverse crew. Capable of taking out enemies with a powerful single shot, Corsair can also fire rapidly in all directions. A loyal crew lends support by firing cannons from the battleship Nautilus to annihilate enemies.
+槍神是一位經驗豐富的船長，他使用槍械並指揮著各式各樣的船員。槍神能夠以強力的單發射擊消滅敵人，也可以朝四面八方快速射擊。忠誠的船員們會從鸚鵡螺號戰艦上發射加農砲來支援，殲滅敵人。
 
-*   Main Stat: DEX (Dexterity)
-*   Weapons Used: Gun
+*   主要屬性：DEX (敏捷)
+*   使用武器：槍
 
 ![](images/msn-101/classes-and-jobs/pirate/image_1747236414628_394.png)

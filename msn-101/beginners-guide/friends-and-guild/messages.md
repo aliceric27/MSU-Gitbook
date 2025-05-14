@@ -1,36 +1,36 @@
-# Messages
-## Table of Contents
-1.  **Sending Messages**
-2.  **Inbox**
-## 1. Sending Messages
+# 訊息
+## 目錄
+1.  **傳送訊息**
+2.  **收件匣**
+## 1. 傳送訊息
 
-The Messages feature allows you to exchange messages with other players in the game.
+訊息功能讓您可以在遊戲中與其他玩家交換訊息。
 
-After logging in, click on the Community menu at the bottom of the screen and then click \[Messages\].
+登入後，點擊畫面下方的社群選單，然後點擊 \[訊息\]。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236373117_361.png)
 
-*   Click the “Send” button to deliver your message.
-*   Messages can be up to 100 characters long.
-### 1.1. Messaging Restrictions
+*   點擊「傳送」按鈕以送出您的訊息。
+*   訊息長度最多可達 100 個字元。
+### 1.1. 訊息限制
 
-Each character can send up to 1 messages in three minutes. If you send 1 messages within three minutes, your message limit resets 3 minute after your last message.
+每個角色每三分鐘最多可以傳送 1 則訊息。如果您在三分鐘內傳送了 1 則訊息，您的訊息限制將在您最後一則訊息發出後的 3 分鐘重設。
 
-Additionally, each character can send up to 20 messages.
+此外，每個角色最多可以傳送 20 則訊息。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236373117_932.png)
 
-## 2. Inbox
-### 2.1. Received
+## 2. 收件匣
+### 2.1. 已收到
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236373117_740.png)
 
-*   Allows you to check messages sent by other characters.
-*   A \[+\] icon displays whenever you have an unread message, as shown in the image above.
-*   You can store up to 30 messages, excluding system messages such as invitations.
-*   Received messages are automatically deleted 30 days after receipt.
-### 2.2. Sent
-*   Allows you to check messages you sent to other characters.
-*   Sent messages are automatically deleted 30 days after they are sent.
-### 2.3. GM Messages
-*   Allows you to check messages sent by the administrator.
+*   讓您可以查看其他角色傳送的訊息。
+*   當您有未讀訊息時，會顯示一個 \[+\] 圖示，如上圖所示。
+*   您最多可以儲存 30 則訊息，不包括邀請等系統訊息。
+*   收到的訊息會在收到後 30 天自動刪除。
+### 2.2. 已傳送
+*   讓您可以查看您傳送給其他角色的訊息。
+*   已傳送的訊息會在傳送後 30 天自動刪除。
+### 2.3. GM 訊息
+*   讓您可以查看管理員傳送的訊息。

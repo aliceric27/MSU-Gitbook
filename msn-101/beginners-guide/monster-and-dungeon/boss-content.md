@@ -1,100 +1,100 @@
-# Boss Content
-## Table of Contents
-1.  **Check Boss Information**
-2.  **Boss Types**
-3.  **Boss Rewards**
-4.  **Practice Mode**
-## 1. Check Boss Information
+# 頭目內容
+## 目錄
+1.  **查看頭目資訊**
+2.  **頭目類型**
+3.  **頭目獎勵**
+4.  **練習模式**
+## 1. 查看頭目資訊
 
-You can open the **Boss** menu using the shortcut key \[Default: T\] to check basic information about boss monsters.
+你可以使用快捷鍵 \[預設：T\] 開啟**頭目**選單，查看頭目怪物的基本資訊。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236361043_133.png)
 
-Once you select a boss and its difficulty level, you can search for party members to fight with you. Alternatively, open the Maple Guide with the shortcut key \[Default: F1\] and click the Boss Content tab. Here, you can find recommended bosses by level range, as well as a list of reward items each boss drops.
+選擇頭目及其難度後，你可以搜尋隊友與你一同作戰。或者，使用快捷鍵 \[預設：F1\] 開啟楓之谷指南，然後點擊頭目內容分頁。在這裡，你可以找到按等級範圍推薦的頭目，以及每個頭目掉落的獎勵物品清單。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236361043_776.png)
 
-Some bosses require specific quests to be completed or special items to be prepared before you can start certain boss content. Make sure to check the boss UI before you start.
+有些頭目需要完成特定任務或準備特殊物品才能開始特定的頭目內容。開始前請務必查看頭目 UI。
 
-## 2. Boss Types
+## 2. 頭目類型
 
-Maple World features a wide variety of bosses, each with unique attack patterns and special abilities.
+楓之谷世界中有各式各樣的頭目，每個頭目都有獨特的攻擊模式和特殊能力。
 
-Bosses also have different level requirements and entry restrictions, so be sure to check those before you start.
+頭目也有不同的等級要求和進入限制，因此開始前請務必確認這些資訊。
 
-**Available Boss Content**
+**可挑戰的頭目內容**
 
-| Balrog | Easy |
-| Zakum | Easy / Normal / Chaos |
-| Papulatus | Easy / Normal / Chaos |
-| Magnus | Easy / Normal / Hard |
-| Hilla | Normal / Hard |
-| Horntail | Easy / Normal / Chaos |
-| Pierre | Normal / Chaos |
-| Von bon | Normal / Chaos |
-| Bloody Queen | Normal / Chaos |
-| Vellum | Normal / Chaos |
-| Von Leon | Easy / Normal / Hard |
-| Akarium | Easy / Normal |
-| OMNI-CLN | Normal |
-| Pink Bean | Normal / Chaos |
-| Cygnus | Easy / Normal |
-| Lotus | Normal |
-| Damien | Normal |
+| 巴洛古 | 簡單 |
+| 殘暴炎魔 | 簡單 / 普通 / 混沌 |
+| 皮卡啾 | 簡單 / 普通 / 混沌 |
+| 梅格耐斯 | 簡單 / 普通 / 困難 |
+| 希拉 | 普通 / 困難 |
+| 暗黑龍王 | 簡單 / 普通 / 混沌 |
+| 彼爾 | 普通 / 混沌 |
+| 斑斑 | 普通 / 混沌 |
+| 血腥皇后 | 普通 / 混沌 |
+| 貝倫 | 普通 / 混沌 |
+| 凡雷恩 | 簡單 / 普通 / 困難 |
+| 阿卡伊農 | 簡單 / 普通 |
+| OMNI-CLN | 普通 |
+| 皮卡丘 | 普通 / 混沌 |
+| 西格諾斯女皇 | 簡單 / 普通 |
+| 史烏 | 普通 |
+| 戴米安 | 普通 |
 
-## 3. Boss Rewards
+## 3. 頭目獎勵
 
-Boss rewards are displayed in the Reward Dashboard. After defeating a boss, the Raffle entry for that boss will be registered.
+頭目獎勵會顯示在獎勵儀表板中。擊敗頭目後，該頭目的抽獎登錄將會註冊。
 
-You can then check your potential rewards in the Raffle Dashboard.
+然後你可以在抽獎儀表板中查看你可能獲得的獎勵。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236361044_197.png)
 
-That's where the reward Raffle for each boss will be registered when you defeat them.
+這就是擊敗每個頭目後，其獎勵抽獎會註冊的地方。
 
-Once you defeat a boss, be sure to check the registered reward list on the Raffle Dashboard!
+擊敗頭目後，請務必到抽獎儀表板查看已註冊的獎勵清單！
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236361044_339.png)
 
-When your clear Boss content, you may have a chance to participate in a Raffle to earn rewards.
+當你完成頭目內容時，你可能有機會參與抽獎以獲得獎勵。
 
-*   If your entry is successful, you can check the available rewards and their quantities in the \[Raffle Entry\] tab of the Raffle Dashboard.
-*   Once the raffle is completed after a certain period, you can confirm whether you have received a reward in the \[Raffle Results\] tab.
-*   If your entry fails, it will be displayed as a failed attempt in the \[Raffle Entry\] tab, and you will not be able to receive any rewards.
+*   如果你的登錄成功，你可以在抽獎儀表板的 \[抽獎登錄\] 分頁中查看可用的獎勵及其數量。
+*   在一段時間後抽獎完成後，你可以在 \[抽獎結果\] 分頁中確認你是否獲得了獎勵。
+*   如果你的登錄失敗，它將在 \[抽獎登錄\] 分頁中顯示為失敗的嘗試，你將無法獲得任何獎勵。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236361044_453.png)
 
-## 4. Practice Mode
+## 4. 練習模式
 
-Some bosses offer Practice Mode, allowing you to learn their patterns in advance.
+有些頭目提供練習模式，讓你可以事先了解他們的攻擊模式。
 
-Please note that Practice Mode differs from normal boss content in terms of entry limits and rewards.
+請注意，練習模式在進入限制和獎勵方面與正常的頭目內容不同。
 
-Practice Mode features:
+練習模式特色：
 
-*   Unlimited entries
-*   Available regardless of your Boss Clear Count in normal/Hard/Chaos modes
-*   Still requires prerequisite quests for normal mode entry
-*   Does not progress quests related to the boss content
-*   No EXP or item rewards
-*   Special buffs: certain skills and items have no duration or cooldown limits
+*   無限次進入
+*   無論你在普通/困難/混沌模式下的頭目通關次數為何，皆可使用
+*   進入普通模式仍需完成前置任務
+*   不會推進與頭目內容相關的任務
+*   沒有經驗值或物品獎勵
+*   特殊增益效果：某些技能和物品沒有持續時間或冷卻時間限制
 
-A list of bosses available in Practice Mode:
+可在練習模式中挑戰的頭目清單：
 
-| Balrog | Easy | X |
-| Zakum | Easy / Normal / Chaos | Chaos |
-| Papulatus | Easy / Normal / Chaos | Chaos |
-| Magnus | Easy / Normal / Hard | Hard |
-| Hilla | Normal / Hard | Hard |
-| Horntail | Easy / Normal / Chaos | X |
-| Pierre | Normal / Chaos | Chaos |
-| Von bon | Normal / Chaos | Chaos |
-| Bloody Queen | Normal / Chaos | Chaos |
-| Vellum | Normal / Chaos | Chaos |
-| Von Leon | Easy / Normal / Hard | X |
-| Akarium | Easy / Normal | X |
-| OMNI-CLN | Normal | X |
-| Pink Bean | Normal / Chaos | Chaos |
-| Cygnus | Easy / Normal | Easy / Normal |
-| Lotus | Normal | Normal |
-| Damien | Normal | Normal |
+| 巴洛古 | 簡單 | X |
+| 殘暴炎魔 | 簡單 / 普通 / 混沌 | 混沌 |
+| 皮卡啾 | 簡單 / 普通 / 混沌 | 混沌 |
+| 梅格耐斯 | 簡單 / 普通 / 困難 | 困難 |
+| 希拉 | 普通 / 困難 | 困難 |
+| 暗黑龍王 | 簡單 / 普通 / 混沌 | X |
+| 彼爾 | 普通 / 混沌 | 混沌 |
+| 斑斑 | 普通 / 混沌 | 混沌 |
+| 血腥皇后 | 普通 / 混沌 | 混沌 |
+| 貝倫 | 普通 / 混沌 | 混沌 |
+| 凡雷恩 | 簡單 / 普通 / 困難 | X |
+| 阿卡伊農 | 簡單 / 普通 | X |
+| OMNI-CLN | 普通 | X |
+| 皮卡丘 | 普通 / 混沌 | 混沌 |
+| 西格諾斯女皇 | 簡單 / 普通 | 簡單 / 普通 |
+| 史烏 | 普通 | 普通 |
+| 戴米安 | 普通 | 普通 |

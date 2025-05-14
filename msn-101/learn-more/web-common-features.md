@@ -1,269 +1,269 @@
-# Web Common Features
+# 網頁通用功能
 
-**Web Common Features Guide**
+**網頁通用功能指南**
 
-## Table of Contents
-1.  **Navigation Bar**
-2.  **Footer**
-## 1. Navigation Bar
+## 目錄
+1.  **導覽列**
+2.  **頁尾**
+## 1. 導覽列
 
-All web pages provided by MapleStory Universe share a consistent set of common features that are applied across the platform.
+楓之谷宇宙 (MapleStory Universe) 提供的所有網頁都共享一組一致的通用功能，這些功能適用於整個平台。
 
-These shared features ensure a unified user experience and convenient navigation, regardless of which MapleStory Universe service page you are accessing.
+這些共享功能確保了統一的使用者體驗和便捷的導覽，無論您正在存取哪個楓之谷宇宙 (MapleStory Universe) 服務頁面。
 
-### 1.1. Service Selector Button
+### 1.1. 服務選擇器按鈕
 
 ![](images/msn-101/learn-more/image_1747236436709_150.png)
 
 ![](images/msn-101/learn-more/image_1747236436710_574.png)
 
-At the top-left corner of every MapleStory Universe webpage, you will find a **service selector button**, represented by nine dots arranged in a 3x3 grid.
+在每個楓之谷宇宙 (MapleStory Universe) 網頁的左上角，您都會找到一個**服務選擇器按鈕**，由九個點以 3x3 網格排列表示。
 
-When clicked, a dropdown menu appears showing a list of available services.
+點擊後，會出現一個下拉式選單，顯示可用服務的列表。
 
-You can conveniently navigate to their desired service by selecting from this list.
+您可以從此列表中選擇，方便地導覽至所需的服務。
 
 ![](images/msn-101/learn-more/image_1747236436710_231.png)
 
-### 1.2. Universe Pulse
+### 1.2. 宇宙脈動 (Universe Pulse)
 
 ![](images/msn-101/learn-more/image_1747236436710_377.png)
 
-Through the Universe Pulse feature, you can check the current blockchain transaction load status of the Henesys Mainnet.
+透過宇宙脈動 (Universe Pulse) 功能，您可以查看 Henesys 主網目前的區塊鏈交易負載狀態。
 
-When the transaction volume is high, the Universe Pulse level rises, which may result in delays in transaction process.
+當交易量很高時，宇宙脈動 (Universe Pulse) 等級會上升，這可能會導致交易處理延遲。
 
-#### 1.2.1. Universe Pulse Levels
+#### 1.2.1. 宇宙脈動 (Universe Pulse) 等級
 
-The level of congestion, or "Universe Pulse," is categorized into five levels:
+擁塞程度，或稱「宇宙脈動 (Universe Pulse)」，分為五個等級：
 
-1.  **Smooth:** Low congestion; expected transaction delay is 0–2 seconds.
-2.  **Steady:** Mild congestion; expected delay is 3–30 seconds.
-3.  **Slow:** Moderate congestion; expected delay is 31–60 seconds.
-4.  **Crawling:** High congestion; expected delay exceeds 60 seconds.
-5.  **Unavailable:** The network is too congested to use MapleStory Universe services.
+1.  **順暢：** 低度擁塞；預期交易延遲為 0-2 秒。
+2.  **穩定：** 輕度擁塞；預期延遲為 3-30 秒。
+3.  **緩慢：** 中度擁塞；預期延遲為 31-60 秒。
+4.  **龜速：** 高度擁塞；預期延遲超過 60 秒。
+5.  **不可用：** 網路過於擁塞，無法使用楓之谷宇宙 (MapleStory Universe) 服務。
 
-The congestion status updates every 30 seconds, and a countdown timer shows how much time remains until the next update.
+擁塞狀態每 30 秒更新一次，倒數計時器會顯示距離下次更新還剩下多少時間。
 
 ![](images/msn-101/learn-more/image_1747236436710_928.png)
 
-#### 1.2.2. Universe Pulse Categories
+#### 1.2.2. 宇宙脈動 (Universe Pulse) 類別
 
-Universe Pulse monitors congestion levels across various service areas in the MapleStory Universe service.
+宇宙脈動 (Universe Pulse) 監控楓之谷宇宙 (MapleStory Universe) 服務中各個服務區域的擁塞等級。
 
-You can check the congestion status and estimated transaction delay times for each of the following categories:
+您可以查看以下每個類別的擁塞狀態和預計交易延遲時間：
 
-| Common | Asset Access Permission Management |
-| MapleStory N | Character Minting NFT, Discard ItemNFT Item Minting, NESO MintingFT Item Minting, Discard FT ItemCollectionCharge Enhancement Essense |
-| Marketplace | TradeBid |
-| Swap&Warp | NESO <-> NXPC Swap |
-| Etc. | Wallet Activity |
+| 通用 | 資產存取權限管理 |
+| 楓之谷 N (MapleStory N) | 角色鑄造 NFT、丟棄物品 NFT 物品鑄造、NESO 鑄造 FT 物品鑄造、丟棄 FT 物品收藏充能強化精華 |
+| 市集 | 交易出價 |
+| 交換與傳送 (Swap&Warp) | NESO <-> NXPC 交換 |
+| 其他 | 錢包活動 |
 
-### 1.3. Notifications
+### 1.3. 通知
 
 ![](images/msn-101/learn-more/image_1747236436710_460.png)
 
-The Notifications feature allows you to view service-specific alerts related to the MapleStory Universe service.
+通知功能可讓您查看與楓之谷宇宙 (MapleStory Universe) 服務相關的特定服務警示。
 
-Notifications are stored for 7 days, after which they are automatically deleted on a daily basis.
+通知會儲存 7 天，之後會每天自動刪除。
 
-*   You can manually delete any alert by clicking the \[X\] button on the right side of each item.
-*   All notifications are listed in chronological order, with the most recent appearing at the top.
-#### 1.3.1. Notification Categories
+*   您可以點擊每個項目右側的 \[X\] 按鈕手動刪除任何警示。
+*   所有通知均按時間順序列出，最新的顯示在最上方。
+#### 1.3.1. 通知類別
 
-Notifications are divided into the following 6 categories:
+通知分為以下 6 個類別：
 
-1.  **All:** Displays all alerts across MapleStory Universe services.
-2.  **Account:** Shows account-related notifications.
-3.  **Marketplace:** Notifies you of marketplace activity (purchases, sales, offers, bids, etc.).
-4.  **Swap & Warp:** Displays alerts related to token swap and warp actions.
-5.  **MSU:** System-sent notifications about MapleStory Universe services.
-6.  **MSN:** System-sent notifications specific to MapleStory N.
-#### 1.3.2. Notification Management
+1.  **全部：** 顯示所有楓之谷宇宙 (MapleStory Universe) 服務的警示。
+2.  **帳戶：** 顯示與帳戶相關的通知。
+3.  **市集：** 通知您市集活動 (購買、銷售、出價、競標等)。
+4.  **交換與傳送 (Swap & Warp)：** 顯示與代幣交換和傳送操作相關的警示。
+5.  **MSU：** 系統發送的有關楓之谷宇宙 (MapleStory Universe) 服務的通知。
+6.  **MSN：** 系統發送的特定於楓之谷 N (MapleStory N) 的通知。
+#### 1.3.2. 通知管理
 
-Click the three-dot icon in the top right corner of the notification window to access notification deleting options.
+點擊通知視窗右上角的三點圖示以存取通知刪除選項。
 
 ![](images/msn-101/learn-more/image_1747236436710_938.png)
 
-1.  **Delete Individually:** Activates a selection mode where you can choose one or more notifications to delete in bulk.
-2.  **Delete All:** Deletes all notifications within the selected notification category at once.
-#### 1.3.3. Emergency Notifications
+1.  **個別刪除：** 啟動選擇模式，您可以選擇一個或多個通知進行批次刪除。
+2.  **全部刪除：** 一次刪除所選通知類別中的所有通知。
+#### 1.3.3. 緊急通知
 
-Emergency alerts are sent when there is critical information that you must be aware of while using the MapleStory Universe service.
+當您在使用楓之谷宇宙 (MapleStory Universe) 服務時，若有您必須知道的重要資訊，系統將會發送緊急警示。
 
-*   Emergency alerts are pinned at the top of all notification categories.
-*   They will remain pinned until the **“Confirm”** button is clicked.
-    *   You cannot delete a pinned emergency alert using the **\[X\]** button.
-    *   Only after confirming via the **“Confirm”** button can the alert be removed.
-### 1.4. My Page
+*   緊急警示會置頂於所有通知類別的頂部。
+*   在點擊「**確認**」按鈕之前，它們將保持置頂狀態。
+    *   您無法使用 **\[X\]** 按鈕刪除已置頂的緊急警示。
+    *   只有在透過「**確認**」按鈕確認後才能移除警示。
+### 1.4. 我的頁面
 
-By clicking your profile image on the top-right (next to Notifications), you can access a summary of your account details:
+點擊右上角的個人資料圖片 (在通知旁邊)，您可以存取您的帳戶詳細資訊摘要：
 
 ![](images/msn-101/learn-more/image_1747236436710_104.png)
 
-*   Profile Image
-*   MapleStory Universe Username
-*   Wallet Address
-*   NESO Balance
+*   個人資料圖片
+*   楓之谷宇宙 (MapleStory Universe) 使用者名稱
+*   錢包地址
+*   NESO 餘額
 
-You can also click buttons within the profile section to navigate to your full account details page.
+您也可以點擊個人資料區塊內的按鈕，導覽至您的完整帳戶詳細資訊頁面。
 
-#### 1.4.1. Overview
+#### 1.4.1. 總覽
 
-You can view the detailed information of your account.
+您可以查看您帳戶的詳細資訊。
 
-**Profile Card**
+**個人資料卡**
 
-*   **Profile Image**
-*   **MapleStory Universe username**
-*   **Wallet address**
-*   **Connected email address**
-*   **Account Status:** Indicates whether the account is Normal (not restricted) or Restricted
-*   **Verification & Withdrawal Limit:** Account’s verification status – Depending on the level of verification, the account may have different **“Token transfer availability**” and “**Withdrawal limit**”
+*   **個人資料圖片**
+*   **楓之谷宇宙 (MapleStory Universe) 使用者名稱**
+*   **錢包地址**
+*   **已連接的電子郵件地址**
+*   **帳戶狀態：** 指示帳戶是正常 (未受限制) 還是受限制
+*   **驗證與提款上限：** 帳戶的驗證狀態 – 根據驗證等級，帳戶可能有不同的「**代幣轉帳可用性**」和「**提款上限**」
 
-| Lv.1) Wallet connected | Unavailable | $1,000 |
-| Lv.2) ID verified | Available | $10,000 |
-| Lv.3) Residency verified | Available | $30,000 |
+| 等級1) 已連接錢包 | 不可用 | $1,000 |
+| 等級2) 已驗證身分證件 | 可用 | $10,000 |
+| 等級3) 已驗證居住地 | 可用 | $30,000 |
 
-*   **Social Account:** Your Discord account that is a member of MapleStory Universe Discord server and connected to the MapleStory Universe Web
+*   **社群帳戶：** 您的是楓之谷宇宙 (MapleStory Universe) Discord 伺服器成員並已連接到楓之谷宇宙 (MapleStory Universe) Web 的 Discord 帳戶
 
-**Last Login:** Most recent login time
+**上次登入：** 最近的登入時間
 
-*   You can click “View All” button on the right to view the entire list of login records.
+*   您可以點擊右側的「查看全部」按鈕以查看完整的登入記錄列表。
 
-**Item / NESO Overview**
+**物品 / NESO 總覽**
 
-*   **Total Item Minted:** Displays the total number of NFT items minted.
-*   **Total NESO Minted:** Shows the total amount of NESO minted by the user.
-*   **Total Trading Volume (NESO):** Indicates the cumulative total of both buying and selling amounts in NESO.
+*   **總鑄造物品數：** 顯示已鑄造的 NFT 物品總數。
+*   **總鑄造 NESO 數：** 顯示使用者已鑄造的 NESO 總量。
+*   **總交易量 (NESO)：** 表示 NESO 的買入和賣出總額。
 
-**Asset Status**
+**資產狀態**
 
-*   **Total NXPC Holdings:** Total NXPC held, along with its USD equivalent.
-*   **Total NESO Holdings:** Total NESO held, along with its USD equivalent.
-*   **Total Characters Owned:** Number of characters owned, including both on-chain and off-chain.
-*   **Total NFT Items Owned:** Number of NFT items held across both the wallet and characters, including on-chain and off-chain.
-*   **Total Consumable Items Owned:** Number of FT items (consumables) held across both the wallet and characters, including on-chain and off-chain.
-#### 1.4.2. Verification
+*   **總 NXPC 持有量：** 持有的總 NXPC 及其等值的美元金額。
+*   **總 NESO 持有量：** 持有的總 NESO 及其等值的美元金額。
+*   **總擁有角色數：** 擁有的角色數量，包括鏈上和鏈下。
+*   **總擁有 NFT 物品數：** 錢包和角色中持有的 NFT 物品數量，包括鏈上和鏈下。
+*   **總擁有消耗品數：** 錢包和角色中持有的 FT 物品 (消耗品) 數量，包括鏈上和鏈下。
+#### 1.4.2. 驗證
 
-In this tab, you can check the verification status of your account.
+在此分頁中，您可以查看您帳戶的驗證狀態。
 
-Your account will have different **Token transfer availability** and **Withdrawal limits** based on your verification level.
+您的帳戶將根據您的驗證等級擁有不同的**代幣轉帳可用性**和**提款上限**。
 
-You can view your daily withdrawal limit and remaining withdrawal capacity according to your verification level under the “Today’s withdrawal limit” section at the top.
+您可以在頂部的「今日提款上限」區塊查看根據您的驗證等級設定的每日提款上限和剩餘提款額度。
 
-*   **Available Withdrawal Amount / Daily Withdrawal Limit**
+*   **可用提款金額 / 每日提款上限**
 
-The available withdrawal amount resets daily at 00:00 (UTC +0).
+可用提款金額每日於 00:00 (UTC +0) 重設。
 
-| Lv.0) Wallet connected | To proceed, you must connect your MetaMask Wallet to the MapleStory Universe Web. | Unavailable | $1,000 |
-| Lv.1) ID verified | Argos KYC supports template OCR and accepts ID documents from over 210 countries.Typically, you can verify your identity using either a passport or driver’s license. | Available | $10,000 |
-| Lv.2) Residency verified | To verify residency, follow these steps to set your address:1. When the map appears, enter a rough location and move the map accordingly.2. Once the map is centered near your location, click the exact spot to set your address.3. If available, enter the detailed address manually. To reselect your location, click "Re-select Address" next to the 'Street1' field.You can submit one of the following documents for proof of address:Tax billBank statementUtility billLease agreement※ Make sure the document clearly shows your name and address. | Available | $30,000 |
+| 等級0) 已連接錢包 | 若要繼續，您必須將您的 MetaMask 錢包連接到楓之谷宇宙 (MapleStory Universe) Web。 | 不可用 | $1,000 |
+| 等級1) 已驗證身分證件 | Argos KYC 支援範本 OCR 並接受來自超過 210 個國家/地區的身分證件。通常，您可以使用護照或駕照來驗證您的身分。 | 可用 | $10,000 |
+| 等級2) 已驗證居住地 | 若要驗證居住地，請依照下列步驟設定您的地址：1. 地圖出現時，輸入大概位置並相應移動地圖。2. 地圖置中於您的位置附近後，點擊確切地點以設定您的地址。3. 如果可用，請手動輸入詳細地址。若要重新選擇您的位置，請點擊「街道1」欄位旁的「重新選擇地址」。您可以提交下列其中一份文件作為地址證明：稅單銀行對帳單水電費帳單租賃合約※ 請確保文件清楚顯示您的姓名和地址。 | 可用 | $30,000 |
 
-If you'd like to proceed to the next stage of account verification, please click the Proceed button.
+如果您想進入下一階段的帳戶驗證，請點擊「繼續」按鈕。
 
-*   For example, if your current account verification level is Lv.0, you'll see the **Proceed** button under the Lv.1 ID verification section. Click this button to start the verification process.
+*   例如，如果您目前的帳戶驗證等級為等級0，您會在等級1 身分證件驗證區塊下看到「**繼續**」按鈕。點擊此按鈕開始驗證程序。
 
-**\[**[**Why do I need to verify?**](https://support.msu.io/hc/en-us/categories/12689000323727)**\]**
+**\[**[**為什麼我需要驗證？**](https://support.msu.io/hc/en-us/categories/12689000323727)**\]**
 
-Clicking this button will redirect you to an FAQ page explaining why account verification is necessary.
+點擊此按鈕將會將您重新導向至常見問題頁面，說明為何需要帳戶驗證。
 
-#### 1.4.3. Settings
+#### 1.4.3. 設定
 
-You can review and update your account's personal information in the Settings tab.
+您可以在「設定」分頁中檢閱和更新您帳戶的個人資訊。
 
-**Profile**
+**個人資料**
 
-*   **Nickname:** Displays your current account username. You can update it by clicking the Change button.
-*   **Profile Image:** Your profile image can be set to one of your characters. If the character is transferred, it can no longer be used as your profile image.
-*   **Email Address:** If you're using MetaMask, your email can be verified and changed.
+*   **暱稱：** 顯示您目前的帳戶使用者名稱。您可以點擊「變更」按鈕進行更新。
+*   **個人資料圖片：** 您的個人資料圖片可以設定為您的其中一個角色。如果角色已轉移，則無法再用作您的個人資料圖片。
+*   **電子郵件地址：** 如果您正在使用 MetaMask，您的電子郵件可以進行驗證和變更。
 
-**Socials**
+**社群**
 
-*   **Discord:** Shows your linked Discord account.
-    *   If not linked, you will see a **Link** button. Click to connect your Discord account.
-    *   **Only one Discord account** can be linked per MapleStory Universe account.
-    *   If you unlink your Discord, a **24-hour cooldown** will apply before you can relink.
+*   **Discord：** 顯示您已連結的 Discord 帳戶。
+    *   如果尚未連結，您會看到一個「**連結**」按鈕。點擊以連接您的 Discord 帳戶。
+    *   每個楓之谷宇宙 (MapleStory Universe) 帳戶**只能連結一個 Discord 帳戶**。
+    *   如果您取消連結您的 Discord，在您可以重新連結之前會有 **24 小時的冷卻時間**。
 
-**Settings**
+**設定**
 
-*   **Allow MSU Asset Access Permission:** You can toggle between Allowed and Not Allowed.
-*   Granting access enables full use of the following MapleStory Universe service:
-    *   MapleStory N: On-chain actions like item enhancement and minting
-    *   MSU Marketplace: Trading items and characters
-    *   Swap & Warp: NESO <-> NXPC swapping and bridging services
-    *   If set to Not Allowed, these features will be inaccessible.
+*   **允許 MSU 資產存取權限：** 您可以在「允許」和「不允許」之間切換。
+*   授予存取權限即可完整使用下列楓之谷宇宙 (MapleStory Universe) 服務：
+    *   楓之谷 N (MapleStory N)：鏈上操作，例如物品強化和鑄造
+    *   MSU 市集：交易物品和角色
+    *   交換與傳送 (Swap & Warp)：NESO <-> NXPC 交換和橋接服務
+    *   如果設定為「不允許」，這些功能將無法存取。
 
-**Delete Account**
+**刪除帳戶**
 
-*   You may proceed with account deletion.
-*   Account deletion is subject to the following conditions:
-    *   Cannot delete if there are items stored in the MapleStory N NFT Collection.
-*   Upon deletion, the following data will be **removed**:
-    *   MSU Marketplace
-        *   Registered sales
-        *   Sent offers
-        *   Received offers
-        *   FT orders
-        *   Bid orders
-        *   Bookmarks
-        *   Saved filters
-        *   Bid favorites
+*   您可以繼續進行帳戶刪除。
+*   帳戶刪除須符合下列條件：
+    *   如果楓之谷 N (MapleStory N) NFT 收藏中有儲存物品，則無法刪除。
+*   刪除後，下列資料將被**移除**：
+    *   MSU 市集
+        *   已註冊的銷售
+        *   已傳送的出價
+        *   已收到的出價
+        *   FT 訂單
+        *   競標訂單
+        *   書籤
+        *   已儲存的篩選器
+        *   競標我的最愛
 
-※ In accordance with the MapleStory Universe Privacy Policy, deleted account data is stored temporarily for 30 days before being permanently erased.
+※ 根據楓之谷宇宙 (MapleStory Universe) 隱私權政策，已刪除的帳戶資料會暫時儲存 30 天，然後才會永久清除。
 
-※ During this period, you may restore your account but cannot re-register with the same wallet.
+※ 在此期間，您可以恢復您的帳戶，但無法使用相同的錢包重新註冊。
 
-※ Information required by law may still be retained after deletion for the legally mandated period.
+※ 法律要求的資訊在刪除後仍可能在法定期間內保留。
 
-## 2. Footer
+## 2. 頁尾
 
 ![](images/msn-101/learn-more/image_1747236436710_576.png)
 
-In the Footer, you can find detailed links and information related to the web services provided by MapleStory Universe.
+在頁尾中，您可以找到與楓之谷宇宙 (MapleStory Universe) 提供的網頁服務相關的詳細連結和資訊。
 
-※ Please note that MSU Explorer is officially supported by the digital asset data service provider CrossAngle, and therefore has a separate Footer from MapleStory Universe. The common Footer elements listed below do not apply to MSU Explorer.
+※ 請注意，MSU 瀏覽器由數位資產資料服務提供商 CrossAngle 正式支援，因此其頁尾與楓之谷宇宙 (MapleStory Universe) 不同。下列通用頁尾元素不適用於 MSU 瀏覽器。
 
-The Footer is composed of **five** **key sections:**
+頁尾由**五個主要區塊**組成：
 
-### 2.1. Service Logo & Official Social Links
+### 2.1. 服務標誌與官方社群連結
 
 ![](images/msn-101/learn-more/image_1747236436710_926.png)
 
-On the left side of Footer, you can see the logo of the web service you are currently visiting.
+在頁尾的左側，您可以看到您目前正在造訪的網頁服務的標誌。
 
-Below the logo, you will find links to the five official social media channels through which MapleStory Universe shares information with Maplers.
+標誌下方是五個官方社群媒體頻道的連結，楓之谷宇宙 (MapleStory Universe) 透過這些頻道與楓之谷玩家們分享資訊。
 
-### 2.2. Tabs equivalent to the Top Menu
+### 2.2. 等同於頂端選單的分頁
 
-You can navigate to different pages by clicking on the **same tabs available in the Top Menu**, also shown in the Footer.
+您可以點擊**頂端選單中相同的分頁** (也顯示在頁尾中) 來導覽至不同頁面。
 
-Example: In the MSU Marketplace, the Top Menu tabs such as **NFT Items, FT Items, Characters,** and **Bid** can also be accessed directly from the Footer.
+範例：在 MSU 市集中，頂端選單分頁 (例如 **NFT 物品、FT 物品、角色**和**競標**) 也可以直接從頁尾存取。
 
 ![](images/msn-101/learn-more/image_1747236436710_149.png)
 
 ![](images/msn-101/learn-more/image_1747236436710_868.png)
 
-### 2.3. Synergy App Select Dropdown
+### 2.3. Synergy App 選擇下拉式選單
 
-At the right corner of the Footer, you can find a dropdown menu that allows you to select Synergy App, redirecting you to the corresponding service’s webpage.
+在頁尾的右下角，您可以找到一個下拉式選單，讓您選擇 Synergy App，並將您重新導向至相應服務的網頁。
 
 ![](images/msn-101/learn-more/image_1747236436710_419.png)
 
-### 2.4. User Support Section
+### 2.4. 使用者支援區塊
 
 ![](images/msn-101/learn-more/image_1747236436710_596.png)
 
-1.  **WhitePaper:** You can check Nexpace whitepaper that encompasses all the aspects of the MapleStory Universe project and its vision forward.
-2.  **Support:** This link redirects you to the official MapleStory Universe Support webpage.
-3.  **Contact Us:** Clicking this link opens your default email application, pre-filled with the official email address of Nexpace, the service provider of MapleStory Universe.
-### 2.5. Policy Section
+1.  **白皮書：** 您可以查看 Nexpace 白皮書，其中涵蓋了楓之谷宇宙 (MapleStory Universe) 項目的所有方面及其未來願景。
+2.  **支援：** 此連結會將您重新導向至楓之谷宇宙 (MapleStory Universe) 官方支援網頁。
+3.  **聯絡我們：** 點擊此連結會開啟您的預設電子郵件應用程式，並預先填入楓之谷宇宙 (MapleStory Universe) 服務提供商 Nexpace 的官方電子郵件地址。
+### 2.5. 政策區塊
 
 ![](images/msn-101/learn-more/image_1747236436710_884.png)
 
-1.  **Terms of use:** You can view the terms and conditions of using MapleStory Universe.
-2.  **Privacy policy:** You can review the privacy policy regarding how MapleStory Universe handles personal information.
-3.  **Cookie Policy:** You can check the web cookie policy used by MapleStory Universe.
-4.  **Legal Document:** You can access the legal documents related to MapleStory Universe.
+1.  **使用條款：** 您可以查看使用楓之谷宇宙 (MapleStory Universe) 的條款與條件。
+2.  **隱私權政策：** 您可以檢閱有關楓之谷宇宙 (MapleStory Universe) 如何處理個人資訊的隱私權政策。
+3.  **Cookie 政策：** 您可以查看楓之谷宇宙 (MapleStory Universe) 使用的網頁 Cookie 政策。
+4.  **法律文件：** 您可以存取與楓之谷宇宙 (MapleStory Universe) 相關的法律文件。
 
-※ To ensure fair and seamless game service, MapleStory N additionally provides an Operation Policy, which can be found at the bottom right corner of the footer.
+※ 為確保公平流暢的遊戲服務，楓之谷 N (MapleStory N) 額外提供了營運政策，可在頁尾右下角找到。

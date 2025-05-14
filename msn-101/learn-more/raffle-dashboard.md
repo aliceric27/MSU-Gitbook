@@ -1,104 +1,104 @@
-# Raffle Dashboard
-## Table of Contents
-1.  **What is Raffle?**
-2.  **What is Raffle Dashboard?**
-3.  **Raffle Entry**
-4.  **Raffle Results**
-5.  **Raffle History**
-## 1. What is Raffle?
+# 抽獎儀表板
+## 目錄
+1.  **什麼是抽獎？**
+2.  **什麼是抽獎儀表板？**
+3.  **抽獎登錄**
+4.  **抽獎結果**
+5.  **抽獎歷史記錄**
+## 1. 什麼是抽獎？
 
-When clearing boss content or special content in MapleStory N, you may have a chance to participate in a raffle based on probability.
+在楓之谷 N 中完成頭目內容或特殊內容時，您可能有機會根據機率參與抽獎。
 
-A raffle is held among Maplers who successfully entered, and rewards are distributed based on the raffle results.
+抽獎會在成功登錄的楓之谷玩家們之間舉行，並根據抽獎結果分配獎勵。
 
-Challenge various bosses and special contents, and seize the thrilling opportunity to win in the raffle!
+挑戰各種頭目和特殊內容，抓住激動人心的抽獎機會贏取獎勵吧！
 
-## 2. What is Raffle Dashboard?
+## 2. 什麼是抽獎儀表板？
 
-Raffle Dashboard is a page where you can check reward details obtained after clearing boss or special content.
+抽獎儀表板是一個頁面，您可以在其中查看完成頭目或特殊內容後獲得的獎勵詳細資訊。
 
-The Raffle Dashboard is divided into two tabs: “Raffle Entry” and “Raffle Results.” In both tabs, you can view the following information:
+抽獎儀表板分為兩個分頁：「抽獎登錄」和「抽獎結果」。在這兩個分頁中，您可以查看下列資訊：
 
-*   Name and image of the cleared content
-*   Content difficulty (for Boss content)
-*   Clear Information
-*   Reward List
-    *   When you hover over an item in the reward list, a tooltip will appear showing detailed reward distribution information.
+*   已完成內容的名稱和圖片
+*   內容難度（適用於頭目內容）
+*   完成資訊
+*   獎勵清單
+    *   當您將滑鼠懸停在獎勵清單中的物品上時，會出現一個提示框，顯示詳細的獎勵分配資訊。
 
 ![](images/msn-101/learn-more/image_1747236423334_807.png)
 
-## 3. Raffle Entry
+## 3. 抽獎登錄
 
 ![](images/msn-101/learn-more/image_1747236423334_535.png)
 
-When you clear boss content or special content, you are automatically entered into the raffle. You can check your raffle participation results in the Raffle Entry tab within the Raffle Dashboard.
+當您完成頭目內容或特殊內容時，您將自動登錄抽獎。您可以在抽獎儀表板的「抽獎登錄」分頁中查看您的抽獎參與結果。
 
-### 3.1. Clear Information
+### 3.1. 完成資訊
 
-Click the “Clear Info” button located at the top right of each content tab to view the following information:
+點擊每個內容分頁右上角的「完成資訊」按鈕以查看下列資訊：
 
 ![](images/msn-101/learn-more/image_1747236423334_60.png)
 
-*   **Clear Time**: Time when the content was cleared
-*   **Raffle Time**: Time when the raffle takes place
-*   **Party Info**: Party roles and number of members
-*   **Tokens Submitted**: Number of tokens submitted for the raffle draw
-*   **Raffle Registration**: Number of available reward slots for the draw
+*   **完成時間**：完成內容的時間
+*   **抽獎時間**：抽獎進行的時間
+*   **隊伍資訊**：隊伍角色和成員數量
+*   **提交的代幣**：為抽獎提交的代幣數量
+*   **抽獎登錄**：抽獎可用的獎勵名額數量
 
-When clearing content, you may have a chance to enter a raffle to earn rewards.
+完成內容時，您可能有機會登錄抽獎以獲得獎勵。
 
-*   If you successfully enter, you can check the available rewards and their quantities in the Raffle Entry tab of the Raffle Dashboard.
-*   Once the raffle is completed after a certain amount of time, you can check the Raffle Results tab to see whether you received any rewards.
-*   If your entry is unsuccessful, it will appear as a failed entry in the Raffle Entry tab, and you will not be able to receive any rewards.
-### 3.2. Reward Type
+*   如果您成功登錄，您可以在抽獎儀表板的「抽獎登錄」分頁中查看可用的獎勵及其數量。
+*   抽獎在一定時間後完成後，您可以在「抽獎結果」分頁中查看您是否獲得任何獎勵。
+*   如果您的登錄不成功，它將在「抽獎登錄」分頁中顯示為失敗的登錄，您將無法獲得任何獎勵。
+### 3.2. 獎勵類型
 
-At the top of each reward item in the Reward List, you will see a green star emoji or a red lightning bolt emoji.
+在獎勵清單中每個獎勵物品的頂部，您會看到一個綠色星星表情符號或一個紅色閃電表情符號。
 
 ![](images/msn-101/learn-more/image_1747236423334_518.png)
 
-*   The **green star emoji** indicates a reward with low competition, meaning you have a higher chance of winning.
-*   The **red lightning bolt emoji** indicates a highly competitive reward, meaning you have a lower chance of winning.
+*   **綠色星星表情符號**表示競爭程度較低的獎勵，表示您有較高的獲獎機會。
+*   **紅色閃電表情符號**表示競爭激烈的獎勵，表示您有較低的獲獎機會。
 
-You can also view the time remaining until the raffle for each content.
+您還可以查看每個內容距離抽獎的剩餘時間。
 
-### 3.3. Raffle Progress Notes
+### 3.3. 抽獎進度注意事項
 
-You can check the remaining time until the next raffle for each content.
+您可以查看每個內容距離下次抽獎的剩餘時間。
 
 ![](images/msn-101/learn-more/image_1747236423334_976.png)
 
-*   Daily raffle occurs every day at 00:00 (UTC +0).
-*   Weekly raffle occurs every Thursday at 00:00 (UTC +0).
-*   While a raffle is in progress, the Raffle Dashboard will display "Raffle in progress", and you will not be able to use any Raffle Dashboard features during this time.
+*   每日抽獎於每日 00:00 (UTC+0) 進行。
+*   每週抽獎於每週四 00:00 (UTC+0) 進行。
+*   抽獎進行期間，抽獎儀表板將顯示「抽獎進行中」，在此期間您將無法使用任何抽獎儀表板功能。
 
-※ If you have content listed in the Raffle Entry tab, you cannot unlink your character regardless of the raffle result. If you wish to proceed with character unlink, you must first give up the raffle. Please note that consumed entries will not be restored, so be sure to check your Raffle Dashboard before proceeding with the character unlink.
+※ 如果您在「抽獎登錄」分頁中有列出的內容，則無論抽獎結果如何，都無法取消連結您的角色。如果您希望繼續取消角色連結，則必須先放棄抽獎。請注意，已消耗的登錄次數將不會恢復，因此在繼續取消角色連結之前，請務必檢查您的抽獎儀表板。
 
-## 4. Raffle Results
+## 4. 抽獎結果
 
 ![](images/msn-101/learn-more/image_1747236423334_86.png)
 
-Once the raffle time shown in the Raffle Entry tab has passed, the rewards for content you entered successfully will appear in the “Raffle Results” tab.
+一旦「抽獎登錄」分頁中顯示的抽獎時間過去，您成功登錄的內容的獎勵將出現在「抽獎結果」分頁中。
 
-If you win a reward, a message will appear at the bottom of the game screen. You can press the ‘O’ key to go directly to the Raffle Results tab.
+如果您贏得獎勵，遊戲畫面底部會出現一條訊息。您可以按「O」鍵直接前往「抽獎結果」分頁。
 
-1) If you won the raffle, your reward will appear in the Raffle Dashboard. If you did not win, a message saying “No rewards available” will be displayed.
+1) 如果您贏得抽獎，您的獎勵將出現在抽獎儀表板中。如果您沒有獲獎，將顯示「沒有可用的獎勵」訊息。
 
-2) In the Raffle Results tab, you can view the remaining time to claim rewards for each content.
+2) 在「抽獎結果」分頁中，您可以查看每個內容領取獎勵的剩餘時間。
 
-Unclaimed rewards will expire and cannot be recovered, so please make sure to claim them within the given period.
+未領取的獎勵將會過期且無法追回，因此請務必在指定期限內領取。
 
-*   Click the “**CLAIM ALL**” button to collect all rewards for that content.
-*   To receive rewards individually, click the reward item icons in the Reward List.
-*   To claim all available rewards at once, click the “CLAIM ALL” button in the top-right corner of the Raffle Results tab.
+*   點擊「**全部領取**」按鈕以收集該內容的所有獎勵。
+*   若要單獨領取獎勵，請點擊獎勵清單中的獎勵物品圖示。
+*   若要一次領取所有可用獎勵，請點擊「抽獎結果」分頁右上角的「全部領取」按鈕。
 
-※ If there are unclaimed rewards in the Raffle Results tab, you cannot unlink your character. Please claim all rewards via the Raffle Dashboard before unlinking.
+※ 如果「抽獎結果」分頁中有未領取的獎勵，則無法取消連結您的角色。請在取消連結之前透過抽獎儀表板領取所有獎勵。
 
-## 5. Raffle History
+## 5. 抽獎歷史記錄
 
 ![](images/msn-101/learn-more/image_1747236423334_743.png)
 
-Through the Raffle History tab inside the Raffle Results page, you can view your entire raffle participation and reward history.
+透過「抽獎結果」頁面內的「抽獎歷史記錄」分頁，您可以查看您的整個抽獎參與和獎勵歷史記錄。
 
-If a reward claim period has expired and the information is no longer visible in the Raffle Results tab, you can still view it in the Raffle History tab.
+如果獎勵領取期限已過且資訊不再顯示在「抽獎結果」分頁中，您仍然可以在「抽獎歷史記錄」分頁中查看。
 
-Click the “Close Raffle History” button at the top right to exit the tab.
+點擊右上角的「關閉抽獎歷史記錄」按鈕以退出該分頁。

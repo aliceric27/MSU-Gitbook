@@ -1,46 +1,46 @@
-# Ghost Park
-## Table of Contents
-1.  **Ghost Park**
-2.  **How to Enter Ghost Park**
-3.  **Entry Requirements**
-4.  **Setting Charm**
-5.  **Rules in Ghost Park**
-6.  **Rewards**
-## 1. Ghost Park
+# 鬼怪公園
+## 目錄
+1.  **鬼怪公園**
+2.  **如何進入鬼怪公園**
+3.  **進入條件**
+4.  **設定符咒**
+5.  **鬼怪公園規則**
+6.  **獎勵**
+## 1. 鬼怪公園
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236326105_222.png)
 
-*   Upon reaching Level 125, you gain access to Ghost Park.
-*   In Ghost Park, you can select the Charm Enhancement Level to receive bonus EXP, with up to 750% bonus EXP available through enhancement.
-*   The enhancement level can be freely adjusted, and the higher the level, the more bonus EXP you will receive.
-*   Additionally, each of the 7 types of Charms also activates a unique hindrance effect, so be sure to watch out for them!
-## 2. How to Enter Ghost Park
+*   達到 125 等後，即可進入鬼怪公園。
+*   在鬼怪公園中，您可以選擇符咒強化等級以獲得額外經驗值，透過強化最多可獲得 750% 的額外經驗值。
+*   強化等級可以自由調整，等級越高，您獲得的額外經驗值就越多。
+*   此外，7 種符咒中的每一種也會啟動獨特的阻礙效果，所以請務必留意！
+## 2. 如何進入鬼怪公園
 
-To enter Ghost Park, use one of the following methods:
+若要進入鬼怪公園，請使用下列任一方法：
 
-*   Portal located in **Korean Folk Town.**
-*   The Dimensional Mirror
-*   Quick Move available in each village.
+*   位於**韓國民俗村**的傳送門。
+*   次元之鏡
+*   各村莊提供的快速移動。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236326105_71.png)
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236326105_956.png)
 
-## 3. Entry Requirements
-*   You must be **Level 125 or higher** and be in a party to enter.
-*   Monsters in Ghost Park will match your character’s level, up to a maximum of Level 145.
-*   Each character can enter **once per day.**
-    *   Your daily entry count is consumed upon entering.
-## 4. Setting Charm
+## 3. 進入條件
+*   您必須**等級 125 或更高**且組隊才能進入。
+*   鬼怪公園中的怪物等級會與您的角色等級相符，最高不超過 145 等。
+*   每個角色每天可以進入**一次**。
+    *   您的每日進入次數會在進入時消耗。
+## 4. 設定符咒
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236326105_157.png)
 
-*   You can freely adjust the Charm Enhancement Level.
-*   Each type of Charm activates a unique hindrance effect. Increasing the Charm level will also increase the amount of EXP you gain.
+*   您可以自由調整符咒強化等級。
+*   每種類型的符咒都會啟動獨特的阻礙效果。提高符咒等級也會增加您獲得的經驗值。
 
-Below are the types of Charms and their corresponding hindrance effects:
+以下是符咒類型及其對應的阻礙效果：
 
-| Wrath | A random location is targeted and attacked after warning every few seconds. |
+| 憤怒 | 每隔幾秒鐘，會在警告後隨機鎖定一個位置並進行攻擊。 |
 | Regret | Monsters gain increased attack power shortly after respawning. |
 | Greed | Monsters gradually grow in size and gain more HP the longer they remain alive. |
 | Sloth | If your character stays still for too long, you will take damage. |
@@ -48,35 +48,35 @@ Below are the types of Charms and their corresponding hindrance effects:
 | Gluttony | The effects of the Rune of Recovery are reduced. |
 | Envy | Fox spirit magic orbs that deal contact damage are fired randomly from all directions. |
 
-## 5. Rules in Ghost Park
-*   Inside Ghost Park, the use of potion-type items is completely restricted.
-*   Additionally, the use of skills that recover HP, revive characters, allow certain movement, or cause movement while attacking is also restricted.
-*   However, you can restore HP by using Runes of Recovery that appear within Ghost Park.
+## 5. 鬼怪公園規則
+*   在鬼怪公園內，完全禁止使用藥水類物品。
+*   此外，也禁止使用可恢復 HP、復活角色、允許特定移動或在攻擊時造成移動的技能。
+*   然而，您可以透過使用鬼怪公園內出現的恢復符文來恢復 HP。
 
-※ If your character HP reaches 0 in Ghost Park, you will not lose any EXP.
+※ 如果您的角色 HP 在鬼怪公園中歸零，您將不會損失任何經驗值。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236326105_615.png)
 
-## 6. Rewards
-### 6.1. EXP Rewards
+## 6. 獎勵
+### 6.1. 經驗值獎勵
 
-In addition to the EXP boost from Charm Enhancements, there are other ways to gain extra EXP:
+除了符咒強化的經驗值加成外，還有其他方法可以獲得額外經驗值：
 
-1.  As your kill count increases, the bonus EXP also increases. You can check the current bonus rate through the UI at the top of the screen.
+1.  隨著您的擊殺數增加，額外經驗值也會增加。您可以透過畫面頂端的 UI 查看目前的加成率。
 *   The maximum bonus EXP from monster kills is 1,100%.
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236326105_307.png)
 
-1.  Additional EXP is also granted based on your HP status. You can check this bonus in the UI at the top of the screen.
+1.  也會根據您的 HP 狀態給予額外經驗值。您可以透過畫面頂端的 UI 查看此加成。
 *   The maximum bonus EXP from HP status is 400%.
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236326105_25.png)
 
-### 6.2. Title and Charm Rewards
+### 6.2. 稱號與符咒獎勵
 
-You can obtain medals by completing Spiegelmann's quests.
+您可以透過完成修菲凱曼的任務來獲得勳章。
 
-**Ghost Park Spiegelmann’s Quest**
+**鬼怪公園修菲凱曼的任務**
 
 | [Ghost Park] Normal Mode Challenge | "Hurray That's Good!” |
 | [Ghost Park] Normal Mode Super Challenge | "All Aboard the Funk Train” |

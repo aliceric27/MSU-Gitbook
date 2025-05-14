@@ -1,134 +1,134 @@
-# Random Portal
-*Random Portal – Inferno Wolf, Pollo, Fritto*
+# 隨機傳送門
+*隨機傳送門 – 烈焰戰狼、波洛、普利托*
 
-## Table of Contents
-1.  **What is Random Portal?**
-2.  **Inferno Wolf Portal**
-3.  **Bounty Hunter Portal**
-4.  **Bounty Hunter: Pollo**
-5.  **Bounty Hunter: Fritto**
-## 1. What is Random Portal?
+## 目錄
+1.  **什麼是隨機傳送門？**
+2.  **烈焰戰狼傳送門**
+3.  **賞金獵人傳送門**
+4.  **賞金獵人：波洛**
+5.  **賞金獵人：普利托**
+## 1. 什麼是隨機傳送門？
 
-Random Portals are special portals that may appear when you defeat enemies near your character’s level. Entering one can grant a huge amount of EXP and various in-game rewards.
+隨機傳送門是您在擊敗角色等級相近的敵人時可能出現的特殊傳送門。進入傳送門可以獲得大量經驗值和各種遊戲內獎勵。
 
 |  |  |
 
-*   Random Portals cannot be used while in a party.
-*   They disappear if not entered within approximately 90 seconds.
-*   Only field monsters within 20 levels of your character have a chance to trigger a Random Portal.
-## 2. Inferno Wolf Portal
+*   組隊時無法使用隨機傳送門。
+*   如果在大約 90 秒內未進入，它們將會消失。
+*   只有與您角色等級相差 20 級以內的區域怪物才有機會觸發隨機傳送門。
+## 2. 烈焰戰狼傳送門
 
-You can attack the Inferno Wolf for up to 20 seconds after entering the map.
+進入地圖後，您最多可以攻擊烈焰戰狼 20 秒。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236317208_502.png)
 
-*   Other players can also join the battle.
-*   All players in the world must attack the Inferno Wolf within 20 second window to reduce its HP. In-game rewards are only granted if the Inferno Wolf is successfully defeated.
+*   其他玩家也可以加入戰鬥。
+*   所有世界中的玩家必須在 20 秒內攻擊烈焰戰狼以降低其 HP。只有成功擊敗烈焰戰狼才能獲得遊戲內獎勵。
 
-The amount of EXP and rewards you earn will depend how much damage you deal. Once the Inferno Wolf is defeated, you can review your participation at \[Raffle Dashboard\] > \[Raffle Entry\]. After the raffle, rewards can be claimed at \[Raffle Dashboard\] > \[Raffle Results\].
+您獲得的經驗值和獎勵數量取決於您造成的傷害量。擊敗烈焰戰狼後，您可以在 \[抽獎儀表板\] > \[抽獎登錄\] 中查看您的參與情況。抽獎結束後，可以在 \[抽獎儀表板\] > \[抽獎結果\] 中領取獎勵。
 
-### 2.1. Inferno Wolf Types
+### 2.1. 烈焰戰狼類型
 
-There are 5 types of Inferno Wolves, each corresponding to different level ranges.
+烈焰戰狼有 5 種類型，每種類型對應不同的等級範圍。
 
-*   Level 59 and below
-*   Level 99 and below
-*   Level 139 and below
-*   Level 199 and below
-*   Level 250 and below
+*   59 等以下
+*   99 等以下
+*   139 等以下
+*   199 等以下
+*   250 等以下
 
-*   If you defeat the Inferno Wolf within the time limit, you will receive even better rewards from the Raffle.
-*   You can challenge the Inferno Wolf up to 5 times per day.
-## 3. Bounty Hunter Portal
+*   如果您在時限內擊敗烈焰戰狼，您將從抽獎中獲得更好的獎勵。
+*   您每天最多可以挑戰烈焰戰狼 5 次。
+## 3. 賞金獵人傳送門
 
-The first Bounty Hunter Portal of the day will randomly lead you to one of three Pollo events or four Fritto events.
+當天第一個賞金獵人傳送門會隨機將您帶到三個波洛活動或四個普利托活動中的其中一個。
 
 |  |  |
 
-After that, the portal alternates as follows:
+之後，傳送門會如下交替出現：
 
-*   If your previous entry was a Fritto event, the next portal will lead to a random Pollo event.
-*   If your previous entry was a Pollo event, the next Portal will lead to a random Fritto event.
+*   如果您上次進入的是普利托活動，下一個傳送門將會通往隨機的波洛活動。
+*   如果您上次進入的是波洛活動，下一個傳送門將會通往隨機的普利托活動。
 
-You can enter the Bounty Hunter Portals up to 10 times per day.
+您每天最多可以進入賞金獵人傳送門 10 次。
 
-## 4. Bounty Hunter: Pollo
-### 4.1. Protect Pollo
+## 4. 賞金獵人：波洛
+### 4.1. 保護波洛
 
-Protect Pollo by defeating the enemies attacking him for 3 minutes!
+在 3 分鐘內擊敗攻擊波洛的敵人來保護他！
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236317208_834.png)
 
-You will immediately gain EXP for each enemy defeated. However, if Pollo's HP reaches 0, the challenge will fail.
+每擊敗一個敵人，您都會立即獲得經驗值。然而，如果波洛的 HP 歸零，挑戰將會失敗。
 
-### 4.2. Guard the Castle Gates
+### 4.2. 守衛城堡大門
 
-Defend the village behind the gates by stopping the enemy attack for 5 minutes!
+在 5 分鐘內阻止敵人的攻擊，保衛城門後的村莊！
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236317208_955.png)
 
-Defeating monsters grants you immediate EXP. Use the arrow portals to quickly move between levels and defend the gates from the attackers.
+擊敗怪物會立即獲得經驗值。使用箭頭傳送門在各層之間快速移動，並抵禦攻擊者的入侵。
 
-Each time a monster slips through the gate, the life gauge decreases. If it reaches 0, the bounty hunt fails.
+每當有怪物溜過城門，生命值計量條就會減少。如果歸零，賞金狩獵就會失敗。
 
-### 4.3. Catch the Stormwing
+### 4.3. 捕捉風暴之翼
 
-Find and defeat Stormwing before time runs out!
+在時間用盡前找到並擊敗風暴之翼！
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236317208_755.png)
 
-You start with a 30 seconds, and each Stormwing you defeat adds 6 seconds to the timer.
+您一開始有 30 秒的時間，每擊敗一隻風暴之翼，計時器就會增加 6 秒。
 
-You can defeat up to 5 Stormwings, and will receive EXP for each one.
+您最多可以擊敗 5 隻風暴之翼，每隻都會獲得經驗值。
 
-Once you have defeated a total of 200 monsters, the hunt is complete and you will be moved to the exit map.
+一旦您總共擊敗了 200 隻怪物，狩獵即告完成，您將被移至出口地圖。
 
-## 5. Bounty Hunter: Fritto
-### 5.1. Eagle Hunt
+## 5. 賞金獵人：普利托
+### 5.1. 老鷹狩獵
 
-Use your cursor to aim at the eagles and score points!
+使用您的游標瞄準老鷹並得分！
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236317208_858.png)
 
-Each type of eagle has a different point value:
+每種類型的老鷹都有不同的分值：
 
-*   Golden Eagle: 200 points
-*   Common Eagle: 100 points
-*   Crow: 50 points
-*   Bald Eagle: -50 points
+*   金鷹：200 分
+*   普通老鷹：100 分
+*   烏鴉：50 分
+*   白頭鷹：-50 分
 
-The goal is to score up to 1,000 points with 20 shots within 30 seconds. You will earn in-game rewards based on your final score.
+目標是在 30 秒內用 20 發子彈獲得最高 1,000 分。您將根據最終得分獲得遊戲內獎勵。
 
-### 5.2. Dragon Egg Stealing
+### 5.2. 偷龍蛋
 
-Climb to the top floor and get the dragon egg!
+爬到頂樓並拿到龍蛋！
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236317208_796.png)
 
-Each floor has two portals:
+每層樓都有兩個傳送門：
 
-*   One takes you to the next floor.
-*   The other ends the bounty hunt.
+*   一個會帶您到下一層樓。
+*   另一個會結束賞金狩獵。
 
-The higher the floor you reach, the greater rewards you will earn.
+您到達的樓層越高，獲得的獎勵就越豐厚。
 
-### 5.3. Courtship Dance
+### 5.3. 求愛之舞
 
-Follow the arrow key prompts within 60 seconds!
+在 60 秒內依照箭頭鍵提示操作！
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236317208_296.png)
 
-Each time you press the correct key, you will have more to hit in the next stage. The higher your accuracy, the better your in-game reward.
+每次您按下正確的按鍵，下一階段需要按的按鍵就會更多。您的準確度越高，遊戲內獎勵就越好。
 
-*   The activity ends after 10 successful rounds.
-### 5.4. Treasure Catch
+*   成功完成 10 個回合後活動結束。
+### 5.4. 奪寶
 
-Chase the treasure pouch that Fritto stole from the Inferno Wolf's hideout for 60 seconds!
+在 60 秒內追逐普利托從烈焰戰狼巢穴偷走的寶藏袋！
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236317208_47.png)
 
-Use the arrow keys and jump key to catch falling treasures.
+使用方向鍵和跳躍鍵接住掉落的寶藏。
 
-You will earn different amounts of points depending on the treasure type.
+您會根據寶藏類型獲得不同數量的分數。
 
-You will leave the map when you either reach the maximum score of 2,000 points, or when the time runs out.
+當您達到最高分 2,000 分或時間用盡時，您將離開地圖。

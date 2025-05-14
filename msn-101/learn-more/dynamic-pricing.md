@@ -1,143 +1,143 @@
-# Dynamic Pricing
-## Table of Content
-1.  **What is Dynamic Pricing?**
-2.  **Dynamic Pricing Dashboard**
-3.  **Search**
-## 1. What is Dynamic Pricing?
+# 動態定價
+## 目錄
+1.  **什麼是動態定價？**
+2.  **動態定價儀表板**
+3.  **搜尋**
+## 1. 什麼是動態定價？
 
 ![](images/msn-101/learn-more/image_1747236425322_997.png)
 
-Real-world economic principles apply to item upgrades, with prices fluctuating based on real-time demand and updating every 60 seconds for efficient price discovery.
+現實世界的經濟原則適用於物品升級，價格會根據即時需求波動，並每 60 秒更新一次以實現有效的價格發現。
 
-When many Maplers seek to upgrade a particular item, its upgrade price increases automatically. Less popular items remain more affordable.
+當許多楓之谷玩家們試圖升級特定物品時，其升級價格會自動上漲。較不受歡迎的物品則保持較低的價格。
 
-This provides strategic gameplay as players can either pursue meta items at higher prices or find value in underutilized items.
+這提供了策略性的遊戲玩法，玩家可以選擇以更高的價格追求熱門物品，或在未被充分利用的物品中找到價值。
 
-Prices are calculated using a specific pricing formula based on demand, and all pricing changes are transparently displayed on the MapleStory N website via the **Dynamic Pricing Dashboard**.
+價格是使用基於需求的特定定價公式計算的，所有價格變動都會透過**動態定價儀表板**透明地顯示在楓之谷 N 網站上。
 
-**\[**[**Go to Dynamic Pricing Dashboard**](https://msu.io/maplestoryn/gamestatus/dynamicpricing)**\]**
+**\[**[**前往動態定價儀表板**](https://msu.io/maplestoryn/gamestatus/dynamicpricing)**\]**
 
-※ The same dynamic pricing system applies to all worlds in MapleStory N.
+※ 同樣的動態定價系統適用於楓之谷 N 中的所有世界。
 
-## 2. Dynamic Pricing Dashboard
+## 2. 動態定價儀表板
 
-The Dynamic Pricing main page provides the following information, allowing Maplers to easily view all key data related to dynamic pricing at a glance:
+動態定價主頁提供下列資訊，讓楓之谷玩家們可以輕鬆一覽所有與動態定價相關的關鍵數據：
 
-### 2.1. Total Item Enhancement Data
+### 2.1. 總物品強化數據
 
 ![](images/msn-101/learn-more/image_1747236425322_166.png)
 
-1.  **Total Enhancement Count:** Displays the total number of item enhancements completed in a day / 30 days.
-2.  **Total Enhancement Cost:** Displays the total price of item enhancements completed in a day / 30 days.
+1.  **總強化次數：** 顯示一天/30 天內完成的物品強化總次數。
+2.  **總強化成本：** 顯示一天/30 天内完成的物品強化總價格。
 
-※ The previous day’s data is updated daily at 4:00 AM (UTC +0), and there may be differences from the latest data.
+※ 前一天的數據每日於上午 4:00 (UTC+0) 更新，可能與最新數據有所差異。
 
-### 2.2. Enhancement Counts by Item Group
+### 2.2. 按物品群組劃分的強化次數
 
-This section displays the number of enhancement attempts and percentage changes by item group over 1 day and 7 days.
+此區塊顯示按物品群組劃分的 1 天和 7 天內的強化嘗試次數和百分比變化。
 
-An item group consists of the following aspects, ensuring all grouped items share the same enhancement attributes:
+一個物品群組包含下列方面，確保所有分組的物品共享相同的強化屬性：
 
-*   Equipment level
-*   Equipment parts
-*   Equipment types
+*   裝備等級
+*   裝備部位
+*   裝備類型
 
-The main purpose is to consolidate fragmented demand across many individual items into a meaningful scale of demand.
+主要目的是將許多個別物品的零散需求整合為有意義的需求規模。
 
-Detailed price information for a specific item can be checked in either of the following ways:
+特定物品的詳細價格資訊可以透過下列任一方式查看：
 
-1.  Select an item group
-2.  Search for an item using the “Search” bar
+1.  選擇一個物品群組
+2.  使用「搜尋」列搜尋物品
 
-※ The previous day’s data is updated daily at 4:00 AM (UTC +0), and may differ from real-time data.
+※ 前一天的數據每日於上午 4:00 (UTC+0) 更新，可能與即時數據有所不同。
 
-You can apply filters in the “Enhancement Counts by Item Group” section to narrow the displayed dynamic pricing data:
+您可以在「按物品群組劃分的強化次數」區塊中套用篩選器，以縮小顯示的動態定價數據範圍：
 
-*   **Enhancement Type:** Choose between “Star Force” and “Potential”.
-*   **Equipment Level:** Set a range between level 0 and 250.
-*   **Equipment Parts:** Select one or more equipment parts you want to analyze.
-*   **Equipment Type:** Select one or more item sets (or “Normal” if not a set) you want to analyze.
+*   **強化類型：** 在「星力」和「潛能」之間選擇。
+*   **裝備等級：** 設定介於 0 到 250 級之間的範圍。
+*   **裝備部位：** 選擇您想分析的一個或多個裝備部位。
+*   **裝備類型：** 選擇您想分析的一個或多個物品套裝（如果不是套裝則選擇「一般」）。
 
-After applying filters, you can view the following information:
+套用篩選器後，您可以查看下列資訊：
 
-*   **Item Group:** Information of an item, such as item level range, item set, and item part.
-*   **1D Enhance:** Number of enhancements completed on the previous day
-*   **1D Change:** Day-over-day change in enhancement count (percentage)
-*   **7D Enhance:** Totalenhancements completed over the past 7 days.
-*   **7D Change:** Change in the number of enhancements over the past 7 –days compared to the 7 days before that.
-## 3. Search
+*   **物品群組：** 物品的資訊，例如物品等級範圍、物品套裝和物品部位。
+*   **1 天強化：** 前一天完成的強化次數
+*   **1 天變化：** 強化次數的每日變化（百分比）
+*   **7 天強化：** 過去 7 天內完成的總強化次數。
+*   **7 天變化：** 與前 7 天相比，過去 7 天內強化次數的變化。
+## 3. 搜尋
 
-Maplers can search for an item in the“Search” bar.
+楓之谷玩家們可以在「搜尋」列中搜尋物品。
 
 ![](images/msn-101/learn-more/image_1747236425322_260.png)
 
-The Search feature in Dynamic Pricing supports **partial matches**, allowing Maplers to enter part of an item name to find matching results.
+動態定價中的搜尋功能支援**部分匹配**，讓楓之谷玩家們可以輸入物品名稱的一部分來尋找匹配的結果。
 
-※ Only enhanceable items can be searched on the “Dynamic Pricing Dashboard”.
+※ 只有可強化的物品才能在「動態定價儀表板」上搜尋。
 
-By clicking on an item, Maplerscan check detailed enhancement information for that item in MapleStory N.
+透過點擊一個物品，楓之谷玩家們可以查看該物品在楓之谷 N 中的詳細強化資訊。
 
 ![](images/msn-101/learn-more/image_1747236425322_199.png)
 
 ![](images/msn-101/learn-more/image_1747236425322_250.png)
 
-### 3.1. Dynamic Pricing Information
+### 3.1. 動態定價資訊
 
-Maplers can choose between “**Star Force”** and “**Potential”** to view detailed Dynamic Pricing Information:
+楓之谷玩家們可以在「**星力**」和「**潛能**」之間選擇以查看詳細的動態定價資訊：
 
-*   Star Force
+*   星力
 
 ![](images/msn-101/learn-more/image_1747236425322_696.png)
 
-Choose a step of Star Force enhancement to view the specific dynamic pricing information.
+選擇一個星力強化階段以查看特定的動態定價資訊。
 
 ![](images/msn-101/learn-more/image_1747236425322_463.png)
 
-*   Potential
+*   潛能
 
 ![](images/msn-101/learn-more/image_1747236425322_113.png)
 
-Choose a cube type to view dynamic pricing for Potential enhancements.
+選擇一種方塊類型以查看潛能強化的動態定價。
 
 ![](images/msn-101/learn-more/image_1747236425322_79.png)
 
-After setting the enhancement type, Maplers can select the price calculation period – **20 minutes, 1 hour, 1 day, 1 week, or 1 month** – and view the following information:
+設定強化類型後，楓之谷玩家們可以選擇價格計算期間 – **20 分鐘、1 小時、1 天、1 週或 1 個月** – 並查看下列資訊：
 
-*   **Close Price:** Final price of an item’s enhancement within the set period above
-*   **Lowest Price:** Lowest price of an item’s enhancement within the set period above
-*   **Highest Price:** Highest price of an item’s enhancement within the set period above
-*   **Enhancement Count:** Total number of item’s enhancement within the set period above
+*   **收盤價：** 上述設定期間內物品強化的最終價格
+*   **最低價：** 上述設定期間內物品強化的最低價格
+*   **最高價：** 上述設定期間內物品強化的最高價格
+*   **強化次數：** 上述設定期間內物品強化的總次數
 
-You can set a graph to see the pricing trends at a glance.
+您可以設定圖表以一目了然地查看價格趨勢。
 
 ![](images/msn-101/learn-more/image_1747236425322_348.png)
 
-#### 3.1.1 Enhancement Cost Info in MapleStory N
+#### 3.1.1 楓之谷 N 中的強化成本資訊
 
-You may view the dynamic pricing data directly in MapleStory N.
+您可以直接在楓之谷 N 中查看動態定價數據。
 
-Please follow the steps below:
+請依照下列步驟操作：
 
-1.  Open the “Equipment Enhancement” UI.
-2.  Drag an enhanceable item into the UI.
-3.  Click the “Cost Info” button at the bottom to view enhancement cost details in a popup.
+1.  開啟「裝備強化」使用者介面。
+2.  將可強化的物品拖曳到使用者介面中。
+3.  點擊底部的「成本資訊」按鈕，在彈出視窗中查看強化成本詳細資訊。
 
 ![](images/msn-101/learn-more/image_1747236425322_406.png)
 
 ![](images/msn-101/learn-more/image_1747236425322_271.png)
 
-### 3.2. Starforce Enhancement Close Price
+### 3.2. 星力強化收盤價
 
-You can see the Star Force Enhancement Close Price for each step of Star Force.
+您可以看到每個星力階段的星力強化收盤價。
 
 ![](images/msn-101/learn-more/image_1747236425322_828.png)
 
-※ These prices are based on data updated every 20 minutes and may differ from real-time in-game values.
+※ 這些價格是根據每 20 分鐘更新的數據，可能與遊戲內的即時數值有所不同。
 
-### 3.3. Potential Enhancement Close Price
+### 3.3. 潛能強化收盤價
 
-You can see the graph that shows Potential Enhancement Close Price for each type of cube.
+您可以看到顯示每種類型方塊的潛能強化收盤價的圖表。
 
 ![](images/msn-101/learn-more/image_1747236425322_710.png)
 
-※ These prices are based on data updated every 20 minutes and may differ from real-time in-game values.
+※ 這些價格是根據每 20 分鐘更新的數據，可能與遊戲內的即時數值有所不同。

@@ -1,32 +1,32 @@
-# Equipment Items
-## Table of Contents
-1.  **Equipment Information**
-2.  **Item Quality**
-## 1. Equipment Information
-*   If you hover your mouse over an equipment item, you can check the equipment information with a tooltip
-*   The tooltip contains the following information:
+# 裝備道具
+## 目錄
+1.  **裝備資訊**
+2.  **道具品質**
+## 1. 裝備資訊
+*   如果你將滑鼠游標懸停在裝備道具上，可以透過提示框查看裝備資訊。
+*   提示框包含以下資訊：
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236275982_443.png)
 
-1.  Star Force: The number of yellow stars indicates the level of Star Force Enhancement.
-2.  Item Name: This indicates the name of the item.
-3.  Unique Number: This number is a unique identifier of the item.
-4.  Potential Rank: This indicates the rank of the item Potential.
-5.  Required Level: This indicates the minimum level a character needs to equip the item.
-6.  Item Type: This indicates the type of the item.
-7.  Stats (Basic + Enhanced): White numbers indicate the basic stats of the item, and the blue numbers indicate the enhanced stats on the item.
-8.  Potential Stats: This is the bonus stats that the item possesses from Potential Enhancement.
-9.  Bonus Potential Stats: This is the bonus stats that the item possesses from Bonus Potential Enhancement.
-10.  Representative History: This signifies the History of the item.
-11.  Set Item Options: When the item belongs to a set, this shows the set item bonus stats.
+1.  星力：黃色星星的數量表示星力強化的等級。
+2.  道具名稱：這表示道具的名稱。
+3.  唯一編號：此編號是道具的唯一識別碼。
+4.  潛能等級：這表示道具潛能的等級。
+5.  需求等級：這表示角色裝備該道具所需的最低等級。
+6.  道具類型：這表示道具的類型。
+7.  能力值（基本 + 強化）：白色數字表示道具的基本能力值，藍色數字表示道具的強化能力值。
+8.  潛在能力值：這是道具透過潛能強化擁有的額外能力值。
+9.  附加潛在能力值：這是道具透過附加潛能強化擁有的額外能力值。
+10. 代表性歷史記錄：這表示道具的歷史記錄。
+11. 套裝道具選項：當道具屬於某一套裝時，這會顯示套裝道具的額外能力值。
 
-*   If the item tooltip is not displayed in detail as shown above, uncheck the checkbox for "Short Tooltips" in \[Options\] > \[Game\] > \[Item Options\].
+*   如果道具提示框未如上圖所示詳細顯示，請取消勾選 \[選項\] > \[遊戲\] > \[道具選項\] 中的「簡易提示框」核取方塊。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236275983_31.png)
 
-## 2. Item Quality
-*   The quality of an in-game item is determined by the sum of its stats.
-*   The item quality is divided into 7 levels, and you can distinguish the level of the item with colors.
-*   The item quality is not an absolute standard for evaluating equipment, but rather a reference. It is recommended that you select equipment based on each Job's main stat or whether the equipment has your preferred stats.
+## 2. 道具品質
+*   遊戲內道具的品質取決於其能力值的總和。
+*   道具品質分為 7 個等級，你可以用顏色區分道具的等級。
+*   道具品質並非評估裝備的絕對標準，而是一個參考。建議你根據各職業的主要能力值或裝備是否擁有你偏好的能力值來選擇裝備。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236275983_909.png)

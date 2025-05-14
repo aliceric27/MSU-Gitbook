@@ -1,71 +1,71 @@
-# Star Force
+# 星力
 
-**Table of Contents**
+**目錄**
 
-1.  **What is Star Force Enhancement?**
-2.  **Equipment Enhancement: Star Force Enhancement**
-3.  **Performing Star Force Enhancement**
-4.  **Star Force Enhancement Cost**
-## 1. What is Star Force Enhancement?
+1.  **什麼是星力強化？**
+2.  **裝備強化：星力強化**
+3.  **進行星力強化**
+4.  **星力強化費用**
+## 1. 什麼是星力強化？
 
-Star Force is a system that allows you to further enhance your minted equipment items and upgrading their stats.
+星力是一個系統，可以讓你進一步強化已鑄造的裝備物品並提升其屬性。
 
-Each item can be enhanced up to the number of empty stars (☆) shown at the top of the item tooltip. When an enhancement succeeds, a star is filled in as a ★, and the Star Force level of the item increases by +1, boosting its stats.
+每個物品都可以強化到物品提示頂端顯示的空星（☆）數量。強化成功時，一顆星星會變成★，物品的星力等級會+1，並提升其屬性。
 
-If enhancement fails, the Star Force level may either stay the same or decrease by -1. When the level decreases, the item stats will decrease accordingly.
+如果強化失敗，星力等級可能會維持不變或-1。等級下降時，物品屬性也會相應降低。
 
-## 2. Equipment Enhancement: Star Force Enhancement
+## 2. 裝備強化：星力強化
 
-You can access Enhancement UI by clicking \[Equipment Enhancement\] in the \[NFT ASSETS\] at the bottom of the game screen, or by clicking the “ENHANCE” button in your Character Inventory.
+你可以透過點擊遊戲畫面下方的 \[NFT資產] 中的 \[裝備強化]，或點擊角色物品欄中的「強化」按鈕來進入強化使用者介面。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236292299_457.png)
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236292299_877.png)
 
-At the Enhancement UI, **drag-and-drop** or **right-click** the item you want to enhance and register it.
+在強化使用者介面中，**拖放**或**右鍵點擊**要強化的物品並註冊它。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236292299_372.png)
 
-※ Only **minted items** can be enhanced. For more information on item minting, please refer to the [**\[Items Guide\]**](https://docs.maplestoryn.io/msn-101/beginners-guide/item-and-equipment/items).
+※ 只有**已鑄造的物品**才能強化。有關物品鑄造的更多資訊，請參閱 [**\[物品指南\]**](https://docs.maplestoryn.io/msn-101/beginners-guide/item-and-equipment/items)。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236292299_753.png)
 
-You can perform Star Force Enhancement, Potential Enhancement, and Bonus Stats Enhancement at the Enhancement UI.
+你可以在強化使用者介面中進行星力強化、潛能強化和附加能力值強化。
 
-Within the Star Force Enhancement UI, you can check the following information:
+在星力強化使用者介面中，你可以查看以下資訊：
 
-1.  **Type of enhancement you selected**
-2.  **Item you selected for enhancement** — be sure to double-check that the correct item is selected before proceeding.
-3.  **Current Star Force level of the selected item**
-4.  **Chance of Success** details for the current Star Force level
-5.  Options to check **Star Catch** and **Major Failure Prevention**
-6.  Information on stat obtained upon successful enhancement
-7.  **Number of Owned Power Crystals** and the **Required Power Crytals** for the selected item — note that this cost updates every minute.
-## 3. Performing Star Force Enhancement
+1.  **你選擇的強化類型**
+2.  **你選擇用於強化的物品** — 在繼續之前，請務必再次確認已選擇正確的物品。
+3.  **所選物品目前的星力等級**
+4.  **目前星力等級的成功機率**詳細資訊
+5.  勾選**星星捕手**和**防止嚴重失敗**的選項
+6.  強化成功後獲得的屬性資訊
+7.  **擁有的能量水晶數量**以及所選物品**所需的能量水晶** — 請注意，此費用每分鐘更新一次。
+## 3. 進行星力強化
 
-When you start Enhancement, you can choose the desired enhancement type, and select the item you would like to enhance.
+開始強化時，你可以選擇所需的強化類型，並選擇要強化的物品。
 
-Star Force Enhancement consumes **Power Crystals**, and the number of crystals required varies depending on the current Star Force level of the equipment item. Additionally, the cost for each stage is **updated every minute** based on enhancement demand.
+星力強化會消耗**能量水晶**，所需的晶石數量取決於裝備物品目前的星力等級。此外，每個階段的費用會根據強化需求**每分鐘更新一次**。
 
-Before enhancing, make sure to check both the Power Crystals you own and required for the enhancement displayed at the bottom of the UI.
+強化前，請務必檢查你擁有的能量水晶以及強化所需能量水晶（顯示在使用者介面底部）。
 
-If you do not have enough Power Crystals, click the “**Exchange**” button next to **Owned Power Crystals** to convert your NESO into Power Crystals at a **1:1 ratio.**
+如果你沒有足夠的能量水晶，請點擊**擁有能量水晶**旁邊的「**交換**」按鈕，以**1:1的比例**將你的NESO轉換為能量水晶。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236292299_194.png)
 
-※ NESOLET cannot exchanged into Power Crystals. You must first mint your NESOLET into NESO to exchange for Power Crystals.
+※ NESOLET無法交換成能量水晶。你必須先將NESOLET鑄造成NESO才能交換能量水晶。
 
-※ For instructions on how to mint NESO, please refer to the \[[**NEXO & NXPC Guide**](/msn-101/learn-more/neso-and-nxpc)\].
+※ 有關如何鑄造NESO的說明，請參閱\[[**NEXO & NXPC 指南**](/msn-101/learn-more/neso-and-nxpc)\]。
 
-Once everything is ready, click the “Enhance” button to begin the enhancement.
+一切準備就緒後，點擊「強化」按鈕開始強化。
 
-When the enhancement starts, Star Catch will begin. If you successfully complete Star Catch, your chance of enhancement success will increase.
+強化開始時，星星捕手將會啟動。如果你成功完成星星捕手，你的強化成功機率將會提高。
 
-Stop the horizontally moving star when it enters the yellow zone to get Star Catch benefit. If you prefer not to use Star Catch, you can check “Disable Star Catching” in the Enhancement UI before starting.
+當水平移動的星星進入黃色區域時將其停止，即可獲得星星捕手的好處。如果你不想使用星星捕手，可以在開始強化前在強化使用者介面中勾選「停用星星捕手」。
 
-※ If Disable Star Catching is on, you will not receive the bonus success rate granted by successful Star Catching.
+※ 如果停用星星捕手，你將無法獲得成功星星捕手所賦予的額外成功率。
 
-When enhancement is completed, it may succeed or fail based on the pre-announced probability.
+強化完成後，可能會根據預先公佈的機率成功或失敗。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236292299_653.png)
 
@@ -73,18 +73,18 @@ When enhancement is completed, it may succeed or fail based on the pre-announced
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236292299_549.png)
 
-During Star Force Enhancement, there is a chance of a **Major Failure**, starting from 12 Stars and above. In the event of a Major Failure, the Star Force level will drop to 10.
+在星力強化過程中，從12星開始，有機率發生**嚴重失敗**。如果發生嚴重失敗，星力等級將降至10。
 
-*   Between 12 to 17 Star Force level, you can check the Major Failure Prevention checkbox to prevent this from occurring.
-*   Enabling Major Failure Prevention will increase enhancement cost.
-## 4. Star Force Enhancement Cost
+*   在12到17星力等級之間，你可以勾選「防止嚴重失敗」核取方塊以防止這種情況發生。
+*   啟用「防止嚴重失敗」會增加強化費用。
+## 4. 星力強化費用
 
-The cost of Star Force Enhancement is determined by unique mechanics of MapleStory N, which is called Dynamic Pricing system. The more demand on enhancement for a specific item group among players occurs, the higher the enhancement cost. The lower the demand for enhancement, the lower the enhancement cost.
+星力強化的費用由楓之谷N的獨特機制決定，稱為動態定價系統。玩家對特定物品群組的強化需求越高，強化費用就越高。強化需求越低，強化費用就越低。
 
-You can check the current enhancement cost of the selected equipment in the Required Power Crystals section at the bottom, and you can check the enhancement cost information of the equipment by clicking the “Cost Info” button on the right side of the section.
+你可以在底部「所需能量水晶」部分查看所選裝備目前的強化費用，也可以點擊該部分右側的「費用資訊」按鈕查看裝備的強化費用資訊。
 
-The enhancement cost refreshes every minute, and you can check the remaining time until the refreshment in the Required Power Crystals section.
+強化費用每分鐘刷新一次，你可以在「所需能量水晶」部分查看距離刷新還有多少時間。
 
-Information on Star Force Enhancement costs can be found not only in-game, but also on the MapleStory N official website at \[Game Status\] > \[[Dynamic Pricing](https://dynamic%20pricing/)\] section.
+星力強化費用的資訊不僅可以在遊戲內找到，也可以在楓之谷N官方網站的\[遊戲狀態\] > \[動態定價\]部分找到。
 
-※ For more details, please refer to the \[[**Dynamic Pricing Guide**](https://docs.maplestoryn.io/msn-101/learn-more/dynamic-pricing)\].
+※ 有關更多詳細資訊，請參閱\[[**動態定價指南**](https://docs.maplestoryn.io/msn-101/learn-more/dynamic-pricing)\]。

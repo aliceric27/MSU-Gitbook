@@ -1,12 +1,12 @@
-# Marksman
+# 神射手
 
 ![](images/msn-101/classes-and-jobs/bowman/image_1747236405598_322.png)
 
-#### A sniper who never misses
+#### 一位從不錯失目標的狙擊手
 
-Marksman is a skilled tactician who has mastered the crossbow. Marksman is known for using powerful heavy arrows that can be fired continuously, as well as enhanced arrows that can snipe enemies from a great distance.
+神射手是一位精通弩弓的熟練戰術家。神射手以使用可連續發射的強力重箭以及可從遠距離狙擊敵人的強化箭矢而聞名。
 
-*   Main Stat: DEX (Dexterity)
-*   Weapons Used: Crossbow
+*   主要屬性：DEX (敏捷)
+*   使用武器：弩
 
 ![](images/msn-101/classes-and-jobs/bowman/image_1747236405598_986.png)

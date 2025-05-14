@@ -1,43 +1,43 @@
-# Chat Window
-## Table of Contents
-1.  **How to Use Chat Window**
-2.  **Filter and Tab Settings**
-## 1. How to Use Chat Window
+# 聊天視窗
+## 目錄
+1.  **如何使用聊天視窗**
+2.  **篩選與分頁設定**
+## 1. 如何使用聊天視窗
 
-The chat window is located at the bottom-left of the game screen.
+聊天視窗位於遊戲畫面的左下角。
 
-Press the Enter key to input a message. You can move the chat window to any location within the game screen by clicking and dragging the upper-left corner of the chat window.
+按下 Enter 鍵即可輸入訊息。你可以點擊並拖曳聊天視窗的左上角，將聊天視窗移動到遊戲畫面中的任何位置。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236375753_741.png)
 
-### 1.1. Popping Out Chat Window
+### 1.1. 彈出聊天視窗
 
-You can pop the chat window out of the game screen while playing in windowed mode.
+在視窗模式下遊玩時，你可以將聊天視窗彈出遊戲畫面外。
 
-*   Go to \[Settings\] > \[Options\] > \[Social\] > \[Chat Box\] > ”Displays chat box as a separate window in windowed mode”
+*   前往 \[設定\] > \[選項\] > \[社交\] > \[聊天框\] > 「在視窗模式下將聊天框顯示為獨立視窗」
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236375753_74.png)
 
-*   Click the "Display chat window outside the game window” icon located at the bottom–right corner of the chat window.
+*   點擊聊天視窗右下角的「將聊天視窗顯示在遊戲視窗外」圖示。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236375753_294.png)
 
-Click the \[?\] icon to view a list of available "/commands" that can be used in the chat window.
+點擊 \[?\] 圖示可以查看可在聊天視窗中使用的「/指令」列表。
 
-## 2. Filter and Tab Settings
+## 2. 篩選與分頁設定
 
-Right-click on a chat window tab to rename the tab, change the applied filters, delete the tab, or manage other settings.
+在聊天視窗分頁上按一下右鍵，即可重新命名分頁、變更套用的篩選器、刪除分頁或管理其他設定。
 
-※ Tab names can only be entered in English.
+※ 分頁名稱只能以英文輸入。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236375753_795.png)
 
-*   You can save and manage the Friends filter by selecting friend groups from the Friends List (shortcut key \[Default: R\]).
+*   你可以透過從好友列表（快捷鍵 \[預設：R\]）中選擇好友群組來儲存和管理好友篩選器。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236375753_471.png)
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236375753_301.png)
 
-*   Click the “+” button to create and add a custom tab with your desired settings.
+*   點擊「+」按鈕以建立並新增具有您想要設定的自訂分頁。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236375753_887.png)

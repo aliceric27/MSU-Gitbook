@@ -1,38 +1,38 @@
-# Grand Athenaeum
-## Table of Contents
-1.  **Grand Athenaeum**
-2.  **How to go to Grand Athenaeum**
-3.  **How to Use Grand Athenaeum**
-## 1. Grand Athenaeum
-*   The Grand Athenaeum is a place where you can step into the role of a character from a storybook and experience tales you have not lived as if they were your own.
-*   Once your character reaches level 100, you can begin by accepting the quest “\[Grand Athenaeum\] Visit the Grand Athenaeum” from the lightbulb-shaped Available Quests icon on the left side of the screen.
+# 偉大圖書館
+## 目錄
+1.  **偉大圖書館**
+2.  **如何前往偉大圖書館**
+3.  **如何使用偉大圖書館**
+## 1. 偉大圖書館
+*   偉大圖書館是一個可以讓你扮演故事書中角色，體驗那些你未曾親身經歷、卻又宛如己出的故事的地方。
+*   角色達到 100 等後，可以透過畫面左側燈泡形狀的「可接任務」圖示，接取「\[偉大圖書館\] 拜訪偉大圖書館」任務即可開始。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236344118_850.png)
 
-## 2. How to go to Grand Athenaeum
-*   You can travel to the Grand Athenaeum using **Quick Move** or through the **Dimensional Mirror**.
+## 2. 如何前往偉大圖書館
+*   你可以使用**快速移動**或透過**次元之鏡**前往偉大圖書館。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236344118_684.png)
 
-## 3. How to Enjoy Grand Athenaeum
-*   There are 6 episodes recorded in the Grand Athenaeum.
-*   Talk to the NPC Skylark Rita to view the available episodes, then click the "ENTER" button to experience the story.
+## 3. 如何暢遊偉大圖書館
+*   偉大圖書館中記錄了 6 個章節。
+*   與 NPC 雲雀莉塔對話以查看可用的章節，然後點擊「進入」按鈕體驗故事。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236344118_561.png)
 
-| Episode | Description |
+| 章節 | 描述 |
 | --- | --- |
-| Episode 1. The White Mage | Centuries ago, a genius magician mysteriously vanished, leaving behind only one phrase: “The ultimate light can only be found in the ultimate darkness...” Now, his help is needed to solve the strange phenomena occurring across Maple World... |
-| Episode 2. Empress In Training | A story from the time when Cygnus was still an ordinary girl, not yet the Empress. |
-| Episode 3. The Black Witch | Dunamis, a knight trying to prevent the Empress's assassination, has gone missing. Can the Empress be protected? And now, a knight infiltrates the Black Wings’ hideout in search of him... |
-| Episode 4. Winter Bard | Centuries ago, names vanished like snow in a blizzard. All that remains are a worn-out instrument and a sorrowful song. |
-| Episode 5. Shadow Alchemist | A village of shadows built on false security— Within it, those who repeat false duties under false truths. |
-| Episode 6. Sharenian Knights | Why do beautiful things fade so easily? A wistful tale that disappeared along with an ancient kingdom… |
+| 第 1 章 白色法師 | 數百年前，一位天才法師神秘消失，只留下一句話：「極致的光明只能在極致的黑暗中找到…」如今，需要他的幫助來解決楓之谷世界各地發生的奇異現象… |
+| 第 2 章 女皇養成班 | 西格諾斯女皇尚未登基，仍是平凡少女時期的故事。 |
+| 第 3 章 黑色魔女 | 試圖阻止女皇遇刺的騎士杜那米斯失蹤了。女皇能受到保護嗎？現在，一位騎士潛入黑色翅膀的藏身處尋找他… |
+| 第 4 章 冬日吟遊詩人 | 數百年前，名字如同暴風雪中的雪花般消失。僅存的只有一把破舊的樂器和一首悲傷的歌曲。 |
+| 第 5 章 暗影煉金術師 | 一個建立在虛假安全感上的暗影村莊——在其中，人們在虛假的真理下重複著虛假的職責。 |
+| 第 6 章 雪歸島騎士團 | 為何美麗的事物總是輕易消逝？一個隨著古老王國一同消失的惆悵故事… |
 
-*   If you want to return to the main world during an episode, talk to NPC Skylark Rita on the map.
+*   如果你想在章節進行中返回主要世界，請與地圖上的 NPC 雲雀莉塔對話。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236344118_780.png)
 
-*   Even if you do not complete the episode, your progress will be saved, and you can continue where you left off the next time.
+*   即使你沒有完成該章節，你的進度也會被儲存，下次可以從上次離開的地方繼續。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236344118_771.png)

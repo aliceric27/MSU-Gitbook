@@ -1,60 +1,60 @@
-# Monster Park
-## Table of Contents
-1.  **How to Enter Monster Park**
-2.  **Monster Park Entry Requirements**
-3.  **Monster Park Usage Guide**
-4.  **Monster Park Progression**
-5.  **Monster Park Rewards**
-## 1. How to Enter Monster Park
+# 怪物公園
+## 目錄
+1.  **如何進入怪物公園**
+2.  **怪物公園進入條件**
+3.  **怪物公園使用指南**
+4.  **怪物公園進程**
+5.  **怪物公園獎勵**
+## 1. 如何進入怪物公園
 
-To enter Monster Park, use one of the following methods:
+若要進入怪物公園，請使用下列任一方法：
 
-*   The Monster Park Shuttle
-*   The Dimensional Mirror
-*   Quick Move available in each village
+*   怪物公園接駁車
+*   次元之鏡
+*   各村莊提供的快速移動
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236321564_536.png)
 
-## 2. Monster Park Entry Requirements
+## 2. 怪物公園進入條件
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236321564_686.png)
 
-### 2.1. Beginner Dungeon
+### 2.1. 初級副本
 
-Only characters between Level 105 and Level 114 can enter.
+只有等級介於 105 到 114 級的角色才能進入。
 
-### 2.2. Intermediate Dungeon
+### 2.2. 中級副本
 
-Only characters between Level 115 and Level 159 can enter.
+只有等級介於 115 到 159 級的角色才能進入。
 
-### 2.3. Advanced Dungeon
+### 2.3. 高級副本
 
-Only characters Level 160 and above can enter.
+只有等級 160 以上的角色才能進入。
 
-## 3. Monster Park Usage Guide
-*   You can enter 2 times per day per world. The entry count resets every day at 00:00 (UTC +0).
-*   You can check the available maps and the level range of monsters that appear in each dungeon.
-## 4. Monster Park Progression
+## 3. 怪物公園使用指南
+*   每個世界每天可以進入 2 次。進入次數於每日 00:00 (UTC +0) 重置。
+*   您可以查看可用的地圖以及每個副本中出現的怪物等級範圍。
+## 4. 怪物公園進程
 
-When you enter the Monster Park map, the remaining time will be displayed at the top of the screen. You must clear all stages within 10 minutes to earn rewards.
+當您進入怪物公園地圖時，剩餘時間會顯示在畫面頂端。您必須在 10 分鐘內清除所有階段才能獲得獎勵。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236321564_194.png)
 
-*   To progress to the next stage, you must eliminate all monsters in the current stage.
-*   There are 6 stages in total, with a boss monster appearing in the final stage (Stage 6).
-*   If your HP reaches 0 in Monster Park, your clear count will not decrease.
-## 5. Monster Park Rewards
-### 5.1. EXP Rewards
+*   若要進入下一階段，您必須消滅目前階段的所有怪物。
+*   總共有 6 個階段，最後一個階段 (第 6 階段) 會出現頭目怪物。
+*   如果您在怪物公園中 HP 歸零，您的通關次數不會減少。
+## 5. 怪物公園獎勵
+### 5.1. 經驗值獎勵
 
-In Monster Park, EXP is accumulated each time you hunt a monster, and the accumulated EXP is awarded once you clear the final stage.
+在怪物公園中，每次狩獵怪物都會累積經驗值，累積的經驗值會在您清除最後階段後發放。
 
-*   If you leave Monster Park before clearing the final stage, you will not receive any of the EXP you earned.
-*   Please note, EXP Rewards are not affected by any buffs that increase EXP acquisition, such as EXP Coupons.
-### 5.2. Raffle Rewards
+*   如果您在清除最後階段前離開怪物公園，將不會獲得任何已獲得的經驗值。
+*   請注意，經驗值獎勵不受任何增加經驗值獲取的增益效果影響，例如經驗值券。
+### 5.2. 抽獎獎勵
 
-Monster Park rewards are registered on the Raffle Dashboard after completing the content, and the rewards are the same for every day of the week.
+怪物公園獎勵在完成內容後會登記在抽獎儀表板上，且每週各天的獎勵都相同。
 
-For detailed information about the Raffle Dashboard, please refer to the \[[**Raffle Dashboard Guide**](https://docs.maplestoryn.io/msn-101/learn-more/raffle-dashboard)\].
+有關抽獎儀表板的詳細資訊，請參閱 \[【**抽獎儀表板指南**】](https://docs.maplestoryn.io/msn-101/learn-more/raffle-dashboard)\].
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236321564_693.png)
 

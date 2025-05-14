@@ -1,39 +1,39 @@
-# Party
-## Table of Contents
-1.  **Check Party Information**
-2.  **Invite to Party**
-3.  **Find Party**
-4.  **Accept Party**
-## 1. Check Party Information
+# 隊伍
+## 目錄
+1.  **查看隊伍資訊**
+2.  **邀請加入隊伍**
+3.  **尋找隊伍**
+4.  **接受隊伍邀請**
+## 1. 查看隊伍資訊
 
-You can check party information by pressing the in-game shortcut key \[Default: P\].
+你可以透過按下遊戲內快捷鍵 \[預設：P\] 來查看隊伍資訊。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236366284_964.png)
 
-*   You can view the HP of your party members and yourself by checking "Display" button in the Party tab.
-*   The party leader is marked with a ⭐, and party members are marked with a \*.
-## 2. Invite to Party
+*   你可以透過勾選隊伍分頁中的「顯示」按鈕來查看你和隊友的 HP。
+*   隊長會以 ⭐ 標示，隊員則以 \* 標示。
+## 2. 邀請加入隊伍
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236366284_8.png)
 
-*   If you right-click on another character who is not in a party and click the “Invite to Party” button, you can create your own party and invite them to it.
-*   If you click the “Invite to Party” button in the Party tab, you can invite characters currently connected to the same world or receive recommendations for characters on the same map as party members.
-*   When you become the party leader, you can give the party leader position to a party member using the “Make Party Leader” button.
+*   如果你在其他未加入隊伍的角色身上按一下右鍵，然後點擊「邀請加入隊伍」按鈕，你就可以建立自己的隊伍並邀請他們加入。
+*   如果你點擊隊伍分頁中的「邀請加入隊伍」按鈕，你可以邀請目前連接到相同世界的角色，或接收相同地圖上角色的隊員推薦。
+*   當你成為隊長後，你可以使用「設為隊長」按鈕將隊長職位交給隊員。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236366284_733.png)
 
-*   The party leader can invite other members to the party or kick party members.
-## 3. Find Party
+*   隊長可以邀請其他成員加入隊伍或踢除隊員。
+## 3. 尋找隊伍
 
-Click the “Find Party” button to view a list of parties on the same map.
+點擊「尋找隊伍」按鈕以查看相同地圖上的隊伍列表。
 
-You can apply to join the party you want by clicking the “Apply” button.
+你可以透過點擊「申請」按鈕來申請加入你想要的隊伍。
 
-## 4. Accept Party
+## 4. 接受隊伍邀請
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236366284_256.png)
 
-When you accept a party invitation from another character, you will join their party.
+當你接受其他角色的隊伍邀請時，你將加入他們的隊伍。
 
-*   Each party can accommodate up to 6 party members.
-*   If you do not want to be invited to parties, you can uncheck “Party Matching” in \[Settings\] > \[Options\] > \[Social\] > \[Party & Community\].
+*   每個隊伍最多可容納 6 名隊員。
+*   如果你不想收到隊伍邀請，可以在 \[設定\] > \[選項\] > \[社交\] > \[隊伍與社群\] 中取消勾選「隊伍配對」。

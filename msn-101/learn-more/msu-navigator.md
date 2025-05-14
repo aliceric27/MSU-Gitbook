@@ -1,326 +1,326 @@
-# MSU Navigator
-## Table of Contents
-1.  **What is MSU Navigator?**
-2.  **MSU Navigator Main Dashboard**
-3.  **MSU Navigator Search Function**
-4.  **My Page**
-## 1. What is MSU Navigator?
+# MSU 導航器
+## 目錄
+1.  **什麼是 MSU 導航器？**
+2.  **MSU 導航器主儀表板**
+3.  **MSU 導航器搜尋功能**
+4.  **我的頁面**
+## 1. 什麼是 MSU 導航器？
 
-MSU Navigator is a hub where Maplers can search and view all on-chain and off-chain items, characters, and user information within the MapleStory Universe.
+MSU 導航器是一個中心，楓之谷玩家們可以在此搜尋和查看楓之谷宇宙 (MapleStory Universe) 中所有鏈上和鏈下物品、角色和使用者資訊。
 
 ![](images/msn-101/learn-more/image_1747236430774_898.png)
 
-In MSU Navigator, you can view not only your own information but also the character and item details of other users.
+在 MSU 導航器中，您不僅可以查看自己的資訊，還可以查看其他使用者的角色和物品詳細資訊。
 
-**Character Information**
+**角色資訊**
 
-*   Link/Unlink status
-*   Minted / Mintable status
+*   連結/取消連結狀態
+*   已鑄造/可鑄造狀態
 
-**Item Information**
+**物品資訊**
 
-*   All items in the wallet inventory (including SBT local copies)
-*   Minted items in character inventory
-*   Mintable items in character inventory
-*   NFT items registered in NFT Collection
+*   錢包道具欄中的所有物品 (包括 SBT 本地副本)
+*   角色道具欄中已鑄造的物品
+*   角色道具欄中可鑄造的物品
+*   在 NFT 收藏中註冊的 NFT 物品
 
-※ Local items obtained through field hunting in MapleStory N cannot be searched or viewed in MSU Navigator.
+※ 在楓之谷 N (MapleStory N) 中透過野外狩獵獲得的本地物品無法在 MSU 導航器中搜尋或查看。
 
-※ SBT items granted as rewards cannot be searched in the MSU Navigator or viewed on the main dashboard. However, they can be checked in the Owned Items list.
+※ 作為獎勵授予的 SBT 物品無法在 MSU 導航器中搜尋或在主儀表板上查看。但是，可以在「擁有的物品」列表中查看它們。
 
-## 2. MSU Navigator Main Dashboard
+## 2. MSU 導航器主儀表板
 
-On the main dashboard of MSU Navigator, you can view the overall status of all on-chain and off-chain items.
+在 MSU 導航器的主儀表板上，您可以查看所有鏈上和鏈下物品的整體狀態。
 
-### 2.1. Top Menu
-*   **Search Bar:** Enter item name, character name, or username to search for relevant information.
-*   **My Page:** Directs you to your Owner Detail Page, where you can view all items and characters held in your wallet.
-    *   For more details, please refer to \[**Section 4: My Page**\].
-### 2.2. Main Dashboard Overview
+### 2.1. 頂端選單
+*   **搜尋列：** 輸入物品名稱、角色名稱或使用者名稱以搜尋相關資訊。
+*   **我的頁面：** 將您導向您的擁有者詳細資訊頁面，您可以在其中查看您錢包中持有的所有物品和角色。
+    *   更多詳細資訊，請參閱 [\[第 4 節：我的頁面\]](#4-my-page)。
+### 2.2. 主儀表板總覽
 
-Under the Info tab, the following metrics are displayed:
+在「資訊」分頁下，會顯示下列指標：
 
-#### 2.2.1. Info Tab
-*   **Unique Active Wallets:** Number of accounts that have logged into any MSU service at least once
-*   **Transactions:** Total on-chain transactions across MapleStory Universe services
-*   **MSU Marketplace Volume:** Cumulative trading volume to date
+#### 2.2.1. 資訊分頁
+*   **唯一活躍錢包：** 至少登入過任何 MSU 服務一次的帳戶數量
+*   **交易：** 楓之谷宇宙 (MapleStory Universe) 服務中的鏈上交易總數
+*   **MSU 市集交易量：** 迄今為止的累計交易量
 
 ![](images/msn-101/learn-more/image_1747236430774_341.png)
 
-#### 2.2.2. Highest Price Equipment Item
+#### 2.2.2. 最高價裝備物品
 
 ![](images/msn-101/learn-more/image_1747236430774_521.png)
 
-You can view the **top** **5 highest-priced equipment items**.
+您可以查看**價格最高的 5 個裝備物品**。
 
-*   The ranking period can be selected from **7 Days, 30 Days,** or **All**.
-*   For each equipment item, you can view its image, name, unique ID, NESO price, and USD equivalent.
-*   Clicking an item will redirect you to its **detail page**.
+*   排名期間可以選擇 **7 天、30 天**或**全部**。
+*   對於每個裝備物品，您可以查看其圖片、名稱、唯一 ID、NESO 價格及其等值的美元金額。
+*   點擊物品將會將您重新導向至其**詳細資訊頁面**。
 
-For more information on the detail page, please refer to **\[Section 3: MSU Navigator Search Function\]**.
+有關詳細資訊頁面的更多資訊，請參閱 **[\[第 3 節：MSU 導航器搜尋功能\]](#3-msu-navigator-search-function)**。
 
-#### 2.2.3. Highest Price Decoration Item
+#### 2.2.3. 最高價裝飾物品
 
 ![](images/msn-101/learn-more/image_1747236430774_264.png)
 
-You can view the **top 5 highest-priced decoration items**.
+您可以查看**價格最高的 5 個裝飾物品**。
 
-*   The ranking period can be selected from **7 Days, 30 Days,** or **All**.
-*   For each decoration item, you can view its image, name, unique ID, NESO price, and USD equivalent.
-*   Clicking an item will redirect you to its **detail page**.
+*   排名期間可以選擇 **7 天、30 天**或**全部**。
+*   對於每個裝飾物品，您可以查看其圖片、名稱、唯一 ID、NESO 價格及其等值的美元金額。
+*   點擊物品將會將您重新導向至其**詳細資訊頁面**。
 
-For more information on the detail page, please refer to **\[Section 3: MSU Navigator Search Function\]**.
+有關詳細資訊頁面的更多資訊，請參閱 **[\[第 3 節：MSU 導航器搜尋功能\]](#3-msu-navigator-search-function)**。
 
-#### 2.2.4. Character Rankings
+#### 2.2.4. 角色排名
 
 ![](images/msn-101/learn-more/image_1747236430774_622.png)
 
-You can view the **top** **5 highest-level characters**.
+您可以查看**等級最高的 5 個角色**。
 
-*   For each character, you can view its ranking, name, job, and level.
-*   To view rankings beyond the Top 5, click the “View All” button in the Character Rankings section to be directed to **\[MapleStory N Web > Rankings\]** page.
-*   Clicking on a character will redirect you to their **detail page**.
+*   對於每個角色，您可以查看其排名、名稱、職業和等級。
+*   若要查看前 5 名以外的排名，請點擊「角色排名」區塊中的「查看全部」按鈕，即可導向至 **[\[楓之谷 N (MapleStory N) Web > 排名\]** 頁面。
+*   點擊角色將會將您重新導向至其**詳細資訊頁面**。
 
-For more information on the detail page, please refer to **\[Section 3: MSU Navigator Search Function\]**.
+有關詳細資訊頁面的更多資訊，請參閱 **[\[第 3 節：MSU 導航器搜尋功能\]](#3-msu-navigator-search-function)**。
 
-## 3. MSU Navigator Search Function
+## 3. MSU 導航器搜尋功能
 
-There are two search bars on MSU Navigator main dashboard. Both search bars serve the same function.
+MSU 導航器主儀表板上有兩個搜尋列。兩個搜尋列的功能相同。
 
-You can enter an item name, character name, specific item info (item name + unique ID), or username to search for the information you wish to view.
+您可以輸入物品名稱、角色名稱、特定物品資訊 (物品名稱 + 唯一 ID) 或使用者名稱來搜尋您想查看的資訊。
 
 ![](images/msn-101/learn-more/image_1747236430774_504.png)
 
 ![](images/msn-101/learn-more/image_1747236430774_512.png)
 
-### 3.1. Important reminder when searching
-1.  **Popular Searches:** View the most-viewed item names, specific items, and character names from the past 7 days by clicking the search bar. Use this to discover which items and characters are currently trending among users.
-2.  **Autocomplete:** Enter two or more characters into the search bar. A list of autocomplete suggestions will appear, and selecting a suggestion will immediately trigger a search, allowing you to find what you’re looking for without typing the full name.
-3.  **Item Type vs. Specific Item:** A specific item refers to an item that includes its unique ID and represents an individual instance owned by a user.. _**Example:**_ Among many Dominator Pendants, Dominator Pendant#1 owned by User A is a specific item.
-    a. To search by item type: enter only the item name.
-    b. To search by specific item: enter both the item name and its unique ID.
+### 3.1. 搜尋時的重要提醒
+1.  **熱門搜尋：** 點擊搜尋列，即可查看過去 7 天內瀏覽次數最多的物品名稱、特定物品和角色名稱。使用此功能來發現目前在使用者中最熱門的物品和角色。
+2.  **自動完成：** 在搜尋列中輸入兩個或更多字元。將會出現自動完成建議列表，選擇建議將立即觸發搜尋，讓您無需輸入完整名稱即可找到所需內容。
+3.  **物品類型 vs. 特定物品：** 特定物品是指包含其唯一 ID 並代表由使用者擁有的個別實例的物品。_**範例：**_ 在眾多支配者墜飾中，使用者 A 擁有的支配者墜飾#1 是一個特定物品。
+    a. 若要依物品類型搜尋：僅輸入物品名稱。
+    b. 若要依特定物品搜尋：同時輸入物品名稱及其唯一 ID。
 
-※ You must enter at least 2 characters to search.
+※ 您必須至少輸入 2 個字元才能搜尋。
 
-※ You much enter the exact item name. Partial matches or typos will not return results.
+※ 您必須輸入確切的物品名稱。部分匹配或拼寫錯誤將不會傳回結果。
 
 ![](images/msn-101/learn-more/image_1747236430774_41.png)
 
-### 3.2. Item Name Search - NFT
+### 3.2. 物品名稱搜尋 - NFT
 
-Searching by NFT item name (without the unique ID) will direct you to its detail page, where you can view:
+依 NFT 物品名稱搜尋 (不含唯一 ID) 將會將您導向至其詳細資訊頁面，您可以在其中查看：
 
 ![](images/msn-101/learn-more/image_1747236430774_721.png)
 
-**Item Details**
+**物品詳細資訊**
 
-| Item Circulation and Trading Volume Overview | Circulating Supply: The amount of items that are circulating in the market and are tradeable by the public.Max Supply: Maximum Supply of the Item24h volume(NESO) |
-| Play Rewards | Display of the in-game reward allocation and remaining unclaimed (yet to be farmed) quantity using a bar graph |
+| 物品流通與交易量總覽 | 流通供應量：市場上流通且可供大眾交易的物品數量。最大供應量：物品的最大供應量 24 小時交易量 (NESO) |
+| 遊玩獎勵 | 使用長條圖顯示遊戲內獎勵分配和剩餘未領取 (尚未獲得) 的數量 |
 
-For NFT items, you can also view the following additional information:
+對於 NFT 物品，您還可以查看下列額外資訊：
 
-**1\. Dynamic Pricing Formula chart** (for enhancement-eligible equipment only):
+**1\. 動態定價公式圖表** (僅適用於符合強化資格的裝備)：
 
-*   This chart displays price fluctuations caused by Dynamic Pricing.
-*   You can check the cost of enhancement, the number of enhancements, and other related data for each enhancement level.
-*   It also allows you to select and view specific enhancement levels and time periods for detailed analysis.
+*   此圖表顯示由動態定價引起的價格波動。
+*   您可以查看每個強化等級的強化成本、強化次數和其他相關資料。
+*   它還允許您選擇和查看特定的強化等級和時間段以進行詳細分析。
 
 ![](images/msn-101/learn-more/image_1747236430774_249.png)
 
-**2\. Trade Information:**
+**2\. 交易資訊：**
 
-*   You can view the complete trade history of the searched item listed in chronological order.
-*   Each record includes the price, buyer and seller usernames, wallet addresses, and date and time of the transaction.
+*   您可以按時間順序查看所搜尋物品的完整交易歷史記錄。
+*   每筆記錄包括價格、買方和賣方使用者名稱、錢包地址以及交易日期和時間。
 
-※ If the item has no trade history, a message stating "No trade history available." will be displayed.
+※ 如果物品沒有交易歷史記錄，將會顯示「沒有可用的交易歷史記錄」訊息。
 
 ![](images/msn-101/learn-more/image_1747236430774_623.png)
 
-#### 3.2.1. Top Button Functions
+#### 3.2.1. 頂端按鈕功能
 
-When performing a search, the following common information and actions are available via the top buttons.
+執行搜尋時，可透過頂端按鈕取得下列通用資訊和操作。
 
-*   The following information is **commonly displayed across all detail pages.**
+*   下列資訊**通常會顯示在所有詳細資訊頁面。**
 
 ![](images/msn-101/learn-more/image_1747236430774_465.png)
 
-| Marketplace |  | Clicking this button opens MSU Marketplace in a new tab, where you can check the current listings for the item. |
-| Add to Watchlist |  | Clicking this button adds the item to your Watchlist.Keep track of items you're interested in by adding them to your Watchlist for ongoing updates. |
-| Share |  | Clicking this button reveals the following sharing options:(1) Copy Link – copies the current page’s URL (2) Share on X – share the item on X (formerly Twitter) (3) Share on Facebook – share the item on Facebook |
-| Explorer |  | Clicking this button opens MSU Explorer in a new tab, where you can view detailed information about the associated wallet address. |
+| 市集 |  | 點擊此按鈕會在新的分頁中開啟 MSU 市集，您可以在其中查看該物品目前的上架情況。 |
+| 加入觀察清單 |  | 點擊此按鈕會將該物品加入您的觀察清單。透過將您感興趣的物品加入觀察清單以持續追蹤更新。 |
+| 分享 |  | 點擊此按鈕會顯示下列分享選項：(1) 複製連結 – 複製目前頁面的 URL (2) 在 X 上分享 – 在 X (先前為 Twitter) 上分享該物品 (3) 在 Facebook 上分享 – 在 Facebook 上分享該物品 |
+| 瀏覽器 |  | 點擊此按鈕會在新的分頁中開啟 MSU 瀏覽器，您可以在其中查看相關錢包地址的詳細資訊。 |
 
-※ The Explorer button is only available when searching by username. ※ For FT items, the Add to Watchlist button is not available. ※ For Character NFTs, the Marketplace button is not available.
+※ 「瀏覽器」按鈕僅在依使用者名稱搜尋時可用。※ 對於 FT 物品，「加入觀察清單」按鈕不可用。※ 對於角色 NFT，「市集」按鈕不可用。
 
-### 3.3. Specific Item Search - NFT
+### 3.3. 特定物品搜尋 - NFT
 
-When you search by NFT item name along with its unique ID, you’ll be directed to the specific item’s detail page, where you can view the following information:
+當您依 NFT 物品名稱及其唯一 ID 搜尋時，您將被導向至該特定物品的詳細資訊頁面，您可以在其中查看下列資訊：
 
 ![](images/msn-101/learn-more/image_1747236430774_73.png)
 
-**Item Details**
+**物品詳細資訊**
 
-| Item Circulation and Trading Volume Overview | Circulating Supply: The amount of items that are circulating in the market and are tradeable by the publicMax Supply: Maximum Supply of the ItemToken Standard |
+| 物品流通與交易量總覽 | 流通供應量：市場上流通且可供大眾交易的物品數量最大供應量：物品的最大供應量代幣標準 |
 
-When searching for a specific item (not just by item type), you’ll be directed to the item's unique detail page, where you can view the following additional information:
+搜尋特定物品 (而不僅僅是依物品類型搜尋) 時，您將被導向至該物品的唯一詳細資訊頁面，您可以在其中查看下列額外資訊：
 
-1.  **Info**
-    1.  Equip Requirements
-    2.  Item Stats & Enhancement Info
-    3.  Item Description
-    4.  Set Info (if the item belongs to a set)
-2.  **History**
-    1.  View achievement history including achievement name, character name, and timestamp, sorted in chronological order.
-3.  **Activity**
-    1.  View the item’s activity list
-    2.  View its trade history, transfer records, and minting history in chronological order.
-    3.  You can filter the activity list by the following criteria (Multiple filters can be selected simultaneously):
-        1.  All: View All
-        2.  Sale: Trade History
-        3.  Transfer: Transfer History
-        4.  Mint: Minting History
-### 3.4. Item Name Search - FT
+1.  **資訊**
+    1.  裝備需求
+    2.  物品能力值與強化資訊
+    3.  物品描述
+    4.  套裝資訊 (如果該物品屬於套裝)
+2.  **歷史記錄**
+    1.  查看成就歷史記錄，包括成就名稱、角色名稱和時間戳記，按時間順序排序。
+3.  **活動**
+    1.  查看物品的活動列表
+    2.  按時間順序查看其交易歷史記錄、轉移記錄和鑄造歷史記錄。
+    3.  您可以依下列條件篩選活動列表 (可同時選取多個篩選器)：
+        1.  全部：查看全部
+        2.  銷售：交易歷史記錄
+        3.  轉移：轉移歷史記錄
+        4.  鑄造：鑄造歷史記錄
+### 3.4. 物品名稱搜尋 - FT
 
-When searching by an FT item name, you’ll be directed to the item detail page, where you can view the following information:
+依 FT 物品名稱搜尋時，您將被導向至該物品的詳細資訊頁面，您可以在其中查看下列資訊：
 
 ![](images/msn-101/learn-more/image_1747236430774_775.png)
 
-**Item Details**
+**物品詳細資訊**
 
-| Item Circulation and Trading Volume Overview | Circulating Supply: The amount of items that are circulating in the market and are tradeable by the public.Max Supply: Maximum Supply of the Item24h volume(NESO) |
-| Play Rewards | Display of the in-game reward allocation and remaining unclaimed (yet to be farmed) quantity using a bar graph |
+| 物品流通與交易量總覽 | 流通供應量：市場上流通且可供大眾交易的物品數量。最大供應量：物品的最大供應量 24 小時交易量 (NESO) |
+| 遊玩獎勵 | 使用長條圖顯示遊戲內獎勵分配和剩餘未領取 (尚未獲得) 的數量 |
 
-For FT items, you can view the following additional information:
+對於 FT 物品，您可以查看下列額外資訊：
 
-1.  **Price History**
-    *   Displays the previous day’s high, low, average price, and trading volume for the FT item.
-        *   This data is updated daily at 00:00 (UTC +0).
-    *   Below the price information shows a visual chart of the daily trading volume and average price.
-        *   Hover over any date to view detailed price history for that day.
-        *   You can set the display period to either 7 days or 30 days.
-        *   The bar graph represents daily trading volume, and the line graph represents the daily average price.
-### 3.5. Character Name Search
+1.  **價格歷史記錄**
+    *   顯示該 FT 物品前一日的最高價、最低價、平均價和交易量。
+        *   此資料每日於 00:00 (UTC +0) 更新。
+    *   價格資訊下方顯示每日交易量和平均價格的視覺化圖表。
+        *   將滑鼠懸停在任何日期上即可查看該日的詳細價格歷史記錄。
+        *   您可以將顯示期間設定為 7 天或 30 天。
+        *   長條圖代表每日交易量，折線圖代表每日平均價格。
+### 3.5. 角色名稱搜尋
 
-When searching by character name, you will be directed to the character detail page, where the following information is available:
+依角色名稱搜尋時，您將被導向至角色詳細資訊頁面，其中提供下列資訊：
 
 ![](images/msn-101/learn-more/image_1747236430774_821.png)
 
-| Ranking | Level RankingJob Ranking |
-| Token Standard | Token Standard of the character |
+| 排名 | 等級排名職業排名 |
+| 代幣標準 | 角色的代幣標準 |
 
-For Character NFTs, you can view the following additional information:
+對於角色 NFT，您可以查看下列額外資訊：
 
-1.  **Info**
-    *   View the character's Basic Information:
-        1.  Stat (Info)
-        2.  Hyper Stat (Info)
-        3.  Ability (Info)
-        4.  Skill (Skill)
-        5.  Medals (Collection)
-        6.  Quests (Quest)
-    *   Below the basic info section, you can check the character’s equipped items. Hover over each item to see its tooltip.
-        1.  EQUIP: Displays equipped gear items as images
-        2.  DEC.: Displays equipped decoration items
-        3.  PET: Displays equipped pets
-2.  **Holding Items**
-    *   Check the character’s inventory items, organized by inventory tab.
-    *   You can filter the items by:
-        1.  All – Show all items
-        2.  Minted – Show only minted items
-        3.  Mintable – Show only mintable items
-3.  **History**
-    *   View the character’s **account history**, categorized by type.
-    *   Use the **dropdown menu in the top-left corner** to filter by specific sub-categories:
+1.  **資訊**
+    *   查看角色的基本資訊：
+        1.  能力值 (資訊)
+        2.  超級屬性 (資訊)
+        3.  潛能 (資訊)
+        4.  技能 (技能)
+        5.  勳章 (收藏)
+        6.  任務 (任務)
+    *   在基本資訊區塊下方，您可以查看角色已裝備的物品。將滑鼠懸停在每個物品上即可查看其提示文字。
+        1.  裝備：以圖片顯示已裝備的裝備物品
+        2.  裝飾：顯示已裝備的裝飾物品
+        3.  寵物：顯示已裝備的寵物
+2.  **持有物品**
+    *   查看角色的道具欄物品，依道具欄分頁整理。
+    *   您可以依下列條件篩選物品：
+        1.  全部 – 顯示所有物品
+        2.  已鑄造 – 僅顯示已鑄造的物品
+        3.  可鑄造 – 僅顯示可鑄造的物品
+3.  **歷史記錄**
+    *   查看角色的**帳戶歷史記錄**，依類型分類。
+    *   使用**左上角的下拉式選單**依特定子類別篩選：
 
-| Item | RewardStar ForcePotentialBonus Stat |
-| Adventure | Regional QuestParty Quest |
-| Battle | FieldBossMu Lung Dojo |
-| Blockchain | MintingExchange Currency |
-| Social | - |
+| 物品 | 獎勵星力潛能附加能力值 |
+| 冒險 | 地區任務組隊任務 |
+| 戰鬥 | 原野頭目武陵道場 |
+| 區塊鏈 | 鑄造交換貨幣 |
+| 社群 | - |
 
-1.  **Activity**
-    *   View the activity list of the selected character:
-        1.  All – View All
-        2.  Mint – Minting history
-        3.  Sale – Trade history
-### 3.6. Username Search
+1.  **活動**
+    *   查看所選角色的活動列表：
+        1.  全部 – 查看全部
+        2.  鑄造 – 鑄造歷史記錄
+        3.  銷售 – 交易歷史記錄
+### 3.6. 使用者名稱搜尋
 
-When searching by username, you will be directed to the user account detail page, where the following information can be viewed:
+依使用者名稱搜尋時，您將被導向至使用者帳戶詳細資訊頁面，其中可查看下列資訊：
 
 ![](images/msn-101/learn-more/image_1747236430774_703.png)
 
-**Account Details**
+**帳戶詳細資訊**
 
-| On-chain Info | Total Item Minted: Total number of items minted to dateTotal NESO Minted: Total amount of NESO claimed to dateTotal Trading Volume |
+| 鏈上資訊 | 總鑄造物品數：迄今為止已鑄造的物品總數總 NESO 鑄造量：迄今為止已領取的 NESO 總量總交易量 |
 
-When searching by username, you can also view the following detailed information:
+依使用者名稱搜尋時，您還可以查看下列詳細資訊：
 
-1.  **Character**
-    1.  Displays a card-style list of all characters owned by the account.
-    2.  Hovering over a character image shows a detailed tooltip.
-    3.  **Search Bar:** Use the search bar on the left to find a specific character by name.
-    4.  **Status:** You can filter the characters by:
-        1.  All – Show all characters
-        2.  Minted – Show only minted characters
-        3.  Mintable – Show only mintable characters
-2.  **Items**
-    *   Displays a card-style list of all items owned by the account.
-    *   Hovering over an item image shows a detailed tooltip.
-    *   Use the dropdown on the top-left to select item types:
-        1.  NFT Items
-        2.  FT Items
-        3.  Issued Items
-    *   **Search Bar:** Use the search bar on the left to search items by name.
-    *   You can use the dropdown menu below the search bar to filter and view items by specific sub-categories.
-    *   **Status:** You can filter the items by:
-        1.  All – Show all items
-        2.  Minted – Show only minted items
-        3.  Mintable – Show only mintable items
-    *   **Item Location:** You can filter the location of the items by:
-        1.  All – Show items from all inventories
-        2.  Wallet Inventory – Show only wallet-stored items
-        3.  Character – Show only items stored in character inventories
-            *   If selected, a dropdown will appear to choose a specific character
-3.  **Watchlist**
-    *   Displays the account’s Watchlist, showing items added via the Add to Watchlist feature.
-    *   Items appear as cards sorted by most recent registration.
-    *   Use the top-left dropdown to filter by Watchlist type.
-## 4. My Page
+1.  **角色**
+    1.  以卡片樣式列表顯示該帳戶擁有的所有角色。
+    2.  將滑鼠懸停在角色圖片上會顯示詳細的提示文字。
+    3.  **搜尋列：** 使用左側的搜尋列依名稱尋找特定角色。
+    4.  **狀態：** 您可以依下列條件篩選角色：
+        1.  全部 – 顯示所有角色
+        2.  已鑄造 – 僅顯示已鑄造的角色
+        3.  可鑄造 – 僅顯示可鑄造的角色
+2.  **物品**
+    *   以卡片樣式列表顯示該帳戶擁有的所有物品。
+    *   將滑鼠懸停在物品圖片上會顯示詳細的提示文字。
+    *   使用左上角的下拉式選單選取物品類型：
+        1.  NFT 物品
+        2.  FT 物品
+        3.  已發行物品
+    *   **搜尋列：** 使用左側的搜尋列依名稱搜尋物品。
+    *   您可以使用搜尋列下方的下拉式選單依特定子類別篩選和檢視物品。
+    *   **狀態：** 您可以依下列條件篩選物品：
+        1.  全部 – 顯示所有物品
+        2.  已鑄造 – 僅顯示已鑄造的物品
+        3.  可鑄造 – 僅顯示可鑄造的物品
+    *   **物品位置：** 您可以依下列條件篩選物品的位置：
+        1.  全部 – 顯示所有道具欄中的物品
+        2.  錢包道具欄 – 僅顯示錢包中儲存的物品
+        3.  角色 – 僅顯示角色道具欄中儲存的物品
+            *   如果選取，將會出現下拉式選單以選擇特定角色
+3.  **觀察清單**
+    *   顯示帳戶的觀察清單，其中包含透過「加入觀察清單」功能新增的物品。
+    *   物品會以卡片形式出現，並依最新註冊順序排序。
+    *   使用左上角的下拉式選單依觀察清單類型篩選。
+## 4. 我的頁面
 
-On the My Page, you can view detailed information about your account. (Equal structure as in **\[Section 3.6. Username Search\]**)
+在「我的頁面」中，您可以查看您帳戶的詳細資訊。(結構與 **[\[3.6. 使用者名稱搜尋\]](#36-username-search)** 中的相同)
 
-**Account Details**
+**帳戶詳細資訊**
 
-| On-chain Info | Total Item Minted: Total number of items minted to dateTotal NESO Minted: Total amount of NESO claimed to dateTotal Trading Volume |
+| 鏈上資訊 | 總鑄造物品數：迄今為止已鑄造的物品總數總 NESO 鑄造量：迄今為止已領取的 NESO 總量總交易量 |
 
-When searching by username, you can also view the following detailed information:
+依使用者名稱搜尋時，您還可以查看下列詳細資訊：
 
-1.  **Character**
-    1.  Displays a card-style list of all characters owned by your account.
-    2.  Hovering over a character image shows a detailed tooltip.
-    3.  **Search Bar:** Use the search bar on the left to find a specific character by name.
-    4.  **Status:** You can filter the characters by:
-        1.  All – Show all characters
-        2.  Minted – Show only minted characters
-        3.  Mintable – Show only mintable characters
-2.  **Items**
-    *   Displays a card-style list of all items owned by your account.
-    *   Hovering over an item image shows a detailed tooltip.
-    *   Use the dropdown on the top-left to select item types:
-        1.  NFT Items
-        2.  FT Items
-        3.  Issued Items
-    *   **Search Bar:** Use the search bar on the left to search items by name.
-    *   You can use the dropdown menu below the search bar to filter and view items by specific sub-categories.
-    *   **Status:** You can filter the items by:
-        1.  All – Show all items
-        2.  Minted – Show only minted items
-        3.  Mintable – Show only mintable items
-    *   **Item Location:** You can filter the location of the items by:
-        1.  All – Show items from all inventories
-        2.  Wallet Inventory – Show only wallet-stored items
-        3.  Character – Show only items stored in character inventory
-            *   If selected, a dropdown will appear to choose a specific character
-3.  **Watchlist**
-    *   Displays your account’s Watchlist, showing items added via the Add to Watchlist feature.
-    *   Items appear as cards sorted by most recent registration.
-    *   Use the top-left dropdown to filter by Watchlist type.
+1.  **角色**
+    1.  以卡片樣式列表顯示您帳戶擁有的所有角色。
+    2.  將滑鼠懸停在角色圖片上會顯示詳細的提示文字。
+    3.  **搜尋列：** 使用左側的搜尋列依名稱尋找特定角色。
+    4.  **狀態：** 您可以依下列條件篩選角色：
+        1.  全部 – 顯示所有角色
+        2.  已鑄造 – 僅顯示已鑄造的角色
+        3.  可鑄造 – 僅顯示可鑄造的角色
+2.  **物品**
+    *   以卡片樣式列表顯示您帳戶擁有的所有物品。
+    *   將滑鼠懸停在物品圖片上會顯示詳細的提示文字。
+    *   使用左上角的下拉式選單選取物品類型：
+        1.  NFT 物品
+        2.  FT 物品
+        3.  已發行物品
+    *   **搜尋列：** 使用左側的搜尋列依名稱搜尋物品。
+    *   您可以使用搜尋列下方的下拉式選單依特定子類別篩選和檢視物品。
+    *   **狀態：** 您可以依下列條件篩選物品：
+        1.  全部 – 顯示所有物品
+        2.  已鑄造 – 僅顯示已鑄造的物品
+        3.  可鑄造 – 僅顯示可鑄造的物品
+    *   **物品位置：** 您可以依下列條件篩選物品的位置：
+        1.  全部 – 顯示所有道具欄中的物品
+        2.  錢包道具欄 – 僅顯示錢包中儲存的物品
+        3.  角色 – 僅顯示角色道具欄中儲存的物品
+            *   如果選取，將會出現下拉式選單以選擇特定角色
+3.  **觀察清單**
+    *   顯示您帳戶的觀察清單，其中包含透過「加入觀察清單」功能新增的物品。
+    *   物品會以卡片形式出現，並依最新註冊順序排序。
+    *   使用左上角的下拉式選單依觀察清單類型篩選。

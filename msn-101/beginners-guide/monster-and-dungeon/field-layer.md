@@ -1,33 +1,33 @@
-# Field Layer
-## Table of Contents
-1.  **What is a Field Layer?**
-2.  **Checking Layer Information via the World Map**
-3.  **Checking Layer Information via the Reward Dashboard**
-4.  **Quickly Checking Layer Rewards**
+# 區域階層
+## 目錄
+1.  **什麼是區域階層？**
+2.  **透過世界地圖查看階層資訊**
+3.  **透過獎勵儀表板查看階層資訊**
+4.  **快速查看階層獎勵**
 
-## 1. What is a Field Layer?
+## 1. 什麼是區域階層？
 
-In MapleStory N, field rewards are distributed based on a specific system called layers.
+在楓之谷 N 中，區域獎勵是根據稱為「階層」的特定系統分配的。
 
-Field Layers are divided according to the average monster level and can be checked through the World Map or Reward Dashboard. You can open the Reward Dashboard by clicking the star-shaped Reward menu at the bottom of the screen and selecting the Reward Dashboard tab.
+區域階層根據平均怪物等級劃分，可透過世界地圖或獎勵儀表板查看。您可以透過點擊畫面底部的星形獎勵選單並選取獎勵儀表板分頁來開啟獎勵儀表板。
 
-| Since rewards are limited and replenish periodically, your chances of receiving rewards are higher when you hunt in layers with more rewards accumulated. |
+| 由於獎勵有限且會定期補充，因此在累積較多獎勵的階層中狩獵時，獲得獎勵的機會較高。 |
 
-## 2. Checking Layer Information via the World Map
+## 2. 透過世界地圖查看階層資訊
 
-When you select a specific field, you can view:
+當您選取特定區域時，您可以查看：
 
-*   The layer number it belongs to
-*   The reward information available in that layer
+*   其所屬的階層編號
+*   該階層中可獲得的獎勵資訊
 
-Each field on the World Map is color-coded, with each color representing a different layer.
+世界地圖上的每個區域都以顏色編碼，每種顏色代表不同的階層。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236333475_359.png)
 
-## 3. Checking Layer Information via the Reward Dashboard
-### 3.1. Opening the Reward Dashboard
+## 3. 透過獎勵儀表板查看階層資訊
+### 3.1. 開啟獎勵儀表板
 
-You can access the Reward Dashboard via the star-shaped Reward menu at the bottom of the screen. In the Field tab, you will see a list of field categories and their corresponding layers by level.
+您可以透過畫面底部的星形獎勵選單存取獎勵儀表板。在「區域」分頁中，您會看到依等級劃分的區域類別及其對應階層的清單。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236333475_49.png)
 
@@ -35,27 +35,27 @@ You can access the Reward Dashboard via the star-shaped Reward menu at the botto
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236333475_282.png)
 
-*   When selecting a layer, you can:
-*   View the fields included in that layer
-*   See reward details including:
-    *   Drop rate
-    *   Recharge interval
-    *   Remaining quantity
-    *   Recharge amount per cycle
-### 3.2. Understanding the Reward Dashboard Buttons
+*   選取階層時，您可以：
+*   查看該階層中包含的區域
+*   查看獎勵詳細資訊，包括：
+    *   掉落率
+    *   補充間隔
+    *   剩餘數量
+    *   每個週期的補充數量
+### 3.2. 了解獎勵儀表板按鈕
 
-On each layer’s Reward Dashboard, the following buttons are available:
+在每個階層的獎勵儀表板上，可以使用下列按鈕：
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236333475_706.png)
 
-*   **Guide:** Opens the World Map and shows the location of the selected layer.
-*   **Schedule:** Displays the rotation reward schedule for the currently selected layer.
-*   **Widget:** Displays the reward information for the currently selected layer as a widget (only one widget can be active at a time). Once displayed, the widget remains visible on the game screen even if you close the Reward Dashboard.
+*   **指南：** 開啟世界地圖並顯示所選階層的位置。
+*   **排程：** 顯示目前所選階層的輪替獎勵排程。
+*   **小工具：** 將目前所選階層的獎勵資訊顯示為小工具（一次只能啟用一個小工具）。顯示後，即使您關閉獎勵儀表板，小工具仍會顯示在遊戲畫面上。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236333475_861.png)
 
-## 4. Quickly Checking Layer Rewards
+## 4. 快速查看階層獎勵
 
-If you want to quickly check the reward information for the field layer your character is currently in, click the "REWARD" button on the minimap in the top-left corner of the screen.
+如果您想快速查看角色目前所在區域階層的獎勵資訊，請點擊畫面左上角小地圖上的「獎勵」按鈕。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236333475_107.png)

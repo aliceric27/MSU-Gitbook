@@ -1,71 +1,71 @@
-# History
-## Table of Contents
-1.  **What is History?**
-2.  **History Mission**
-3.  **Item History**
-## 1. What is History?
+# 歷史紀錄
+## 目錄
+1.  **什麼是歷史紀錄？**
+2.  **歷史任務**
+3.  **物品歷史紀錄**
+## 1. 什麼是歷史紀錄？
 
-The History system allows you to record and review specific events or moments that your character has completed using minted items.
+歷史紀錄系統可讓您記錄並檢視您的角色使用已鑄造物品完成的特定事件或時刻。
 
-※ Only minted characters can use History.
+※ 只有已鑄造的角色才能使用歷史紀錄。
 
-For more information on minting characters and items, please refer to the \[[Manage Character Guide](/msn-101/beginners-guide/get-started/manage-character)\] and \[[Items Guide](/msn-101/beginners-guide/item-and-equipment/items)\].
+有關鑄造角色和物品的更多資訊，請參閱 \[【管理角色指南】](/msn-101/beginners-guide/get-started/manage-character)\] 和 \[【物品指南】](/msn-101/beginners-guide/item-and-equipment/items)\].
 
-There are two types of History:
+歷史紀錄有兩種類型：
 
-### 1.1 History Mission
+### 1.1 歷史任務
 
-Tracks specific events or milestones that your character can experience. You can manage their achievement progress here.
+追蹤您的角色可以體驗的特定事件或里程碑。您可以在此管理其成就進度。
 
-### 1.2 Item History
+### 1.2 物品歷史紀錄
 
-Allows you to view and manage the History of each minted item, including selecting a Representative History.
+讓您可以檢視和管理每個已鑄造物品的歷史紀錄，包括選擇代表性歷史紀錄。
 
-## 2. History Mission
+## 2. 歷史任務
 
-History Missions are available to characters with minted items, and they can be completed on a per-character basis.
+歷史任務適用於擁有已鑄造物品的角色，並且可以按每個角色完成。
 
-To access, open the N-shaped \[NFT ASSETS\] menu and select \[History Mission\].
+若要存取，請開啟 N 形的 \[NFT 資產\] 選單並選取 \[歷史任務\]。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236353331_888.png)
 
-*   You can review your Character's Progress History, Pending Achievements History, and Recent Achievements History in the \[My History\] tab in the History Mission UI.
-*   Use the tabs on the left to browse categories of available missions and monitor progress.
+*   您可以在歷史任務 UI 的 \[我的歷史紀錄\] 分頁中檢視您角色的進度歷史紀錄、待處理成就歷史紀錄和最近成就歷史紀錄。
+*   使用左側的分頁瀏覽可用任務的類別並監控進度。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236353331_581.png)
 
-*   Click the "☆" button to pin active missions to the History Mission Notifier.
+*   點擊「☆」按鈕將進行中的任務釘選到歷史任務通知器。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236353331_448.png)
 
-*   Hover over the progress bar at the bottom of an ongoing mission to see that missions progress in a numeric format.
+*   將滑鼠游標移到進行中任務底部的進度列上，即可查看該任務的數字格式進度。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236353331_482.png)
 
-*   Once you complete a mission, the icon in the History Mission UI will change, and the time that you completed the mission will be recorded.
-*   Click the "+” button for completed missions to view items and their respective history.
-    *   History is only recorded for minted items that are equipped at the moment you completed the History Mission.
-    *   In certain History Missions, the history is only recorded on items that meet the conditions at the moment the mission is achieved.
+*   完成任務後，歷史任務 UI 中的圖示將會變更，並且您完成任務的時間將會被記錄下來。
+*   點擊已完成任務的「+」按鈕以檢視物品及其各自的歷史紀錄。
+    *   只有在您完成歷史任務時裝備的已鑄造物品才會記錄歷史紀錄。
+    *   在某些歷史任務中，只有在達成任務時符合條件的物品才會記錄歷史紀錄。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236353331_972.png)
 
-## 3. Item History
+## 3. 物品歷史紀錄
 
-You can view the History of each minted item, and select the Representative History, which is shown in the item tooltip.
+您可以檢視每個已鑄造物品的歷史紀錄，並選取代表性歷史紀錄，該紀錄會顯示在物品提示框中。
 
-To open Item History, either click the “Check Item History” button at the bottom left of the History Mission UI or click the “History” button in your character inventory.
+若要開啟物品歷史紀錄，請點擊歷史任務 UI 左下角的「查看物品歷史紀錄」按鈕，或點擊角色道具欄中的「歷史紀錄」按鈕。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236353331_76.png)
 
-*   Open your character inventory, then right-click or drag-and-drop an item you want to view or manage to access its Item History.
-*   You can view the current item's Representative History in the Representative History section.
-*   You can view the full History for each item in Possession History section.
+*   開啟您的角色道具欄，然後在您想檢視或管理的物品上按一下右鍵或拖放，以存取其物品歷史紀錄。
+*   您可以在代表性歷史紀錄區塊中檢視目前物品的代表性歷史紀錄。
+*   您可以在持有歷史紀錄區塊中檢視每個物品的完整歷史紀錄。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236353331_939.png)
 
-*   You can set up the Representative History for an item by clicking Set Representative History at the bottom of the Item History UI.
-    *   Click the "+" button in Possession History to set the Representative History, and click the "-" button in Representative History to undo it.
-    *   You can set up to 5 Representative History, and you can change the order in which the Representative Histories are displayed to whatever you would like.
-    *   You can only review the History for items that have been minted.
+*   您可以透過點擊物品歷史紀錄 UI 底部的「設定代表性歷史紀錄」來設定物品的代表性歷史紀錄。
+    *   點擊持有歷史紀錄中的「+」按鈕以設定代表性歷史紀錄，然後點擊代表性歷史紀錄中的「-」按鈕以復原。
+    *   您最多可以設定 5 個代表性歷史紀錄，並且可以隨意變更代表性歷史紀錄的顯示順序。
+    *   您只能檢視已鑄造物品的歷史紀錄。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236353331_273.png)

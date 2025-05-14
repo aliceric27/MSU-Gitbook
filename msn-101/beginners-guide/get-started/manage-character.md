@@ -1,137 +1,137 @@
-# Manage Character
-*Manage Character in MapleStory N*
+# 管理角色
+*在楓之谷 N 中管理角色*
 
-## Table of Contents
-1.  **Creating a Character**
-2.  **Deleting a Character**
-3.  **Minting a Character**
-4.  **Linking a Character**
-5.  **Unlinking a Character**
-## 1. Creating a Character
-### 1.1. Create a Character After Selecting a World
+## 目錄
+1.  **創建角色**
+2.  **刪除角色**
+3.  **鑄造角色**
+4.  **連結角色**
+5.  **解除連結角色**
+## 1. 創建角色
+### 1.1. 選擇世界後創建角色
 
-When you start MapleStory N, you can select the world in which you want to create your character.
+當你啟動楓之谷 N 時，你可以選擇要在哪個世界創建你的角色。
 
-On the character selection screen that appears after choosing a world, click the **Create Character** button to create your character.
+選擇世界後出現的角色選擇畫面中，點擊 **創建角色** 按鈕來創建你的角色。
 
-*   You can create up to 20 characters per world by default.
-*   The maximum number of characters you can create per day is 3.
+*   預設情況下，每個世界最多可以創建 20 個角色。
+*   每天最多可以創建 3 個角色。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_400.png)
 
-### 1.2. Selecting a Character Class
+### 1.2. 選擇角色職業
 
-Choose the class you want to play your character and join the adventure to mint your new story with MapleStory N! Detailed information about each class and job can be found through \[[Classes & Jobs Guide](https://docs.maplestoryn.io/msn-101/classes-and-jobs)\].
+選擇你想要玩的角色職業，並加入冒險，與楓之谷 N 一起鑄造你的新故事！關於各職業的詳細資訊，可以透過 \[[職業與轉職指南](https://docs.maplestoryn.io/msn-101/classes-and-jobs)\] 查看。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_903.png)
 
-### 1.3. Character Customization
+### 1.3. 角色客製化
 
-When creating a character, you can select their gender and customize their face, hair color, and other details.
+創建角色時，你可以選擇角色的性別並客製化其臉型、髮色和其他細節。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_177.png)
 
-*   When creating a character, a random name will be assigned.
+*   創建角色時，將會隨機指派一個名稱。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_570.png)
 
-*   You can set your character's name after completing character minting.
-*   If you want to know more about name settings, check \[[3\. Minting a Character](https://docs.maplestoryn.io/msn-101/beginners-guide/get-started/manage-character#id-3.-minting-a-character)\].
-## 2. Deleting a Character
+*   你可以在完成角色鑄造後設定你的角色名稱。
+*   如果你想進一步了解名稱設定，請查看 \[[3\. 鑄造角色](https://docs.maplestoryn.io/msn-101/beginners-guide/get-started/manage-character#id-3.-minting-a-character)\]。
+## 2. 刪除角色
 
-To delete a character, click the "Delete Character" button and complete the confirmation process.
+若要刪除角色，請點擊「刪除角色」按鈕並完成確認程序。
 
-*   Characters that have been minted cannot be deleted. If you want to delete a character permanently, make sure to delete it before you mint it.
-### 2.1. Select the Character and Click the "Delete Character" Button
+*   已鑄造的角色無法刪除。如果你想永久刪除角色，請務必在鑄造前將其刪除。
+### 2.1. 選擇角色並點擊「刪除角色」按鈕
 
-Select the character to be deleted from the character selection screen, then click the "Delete Character" button at the bottom of the screen. Don't forget! A character cannot be deleted after minting process - make sure which character you would like to mint or delete.
+從角色選擇畫面中選取要刪除的角色，然後點擊畫面底部的「刪除角色」按鈕。別忘了！角色在鑄造程序後無法刪除 - 請務必確認你要鑄造或刪除哪個角色。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_526.png)
 
-### 2.2. Deletion Authentication
+### 2.2. 刪除驗證
 
-To protect players, a window will display and request the user input randomly generated text. Please enter the text correctly to complete the deletion.
+為了保護玩家，將會顯示一個視窗並要求使用者輸入隨機產生的文字。請正確輸入文字以完成刪除。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_814.png)
 
-※ Please be sure to consider your decision carefully, as characters cannot be recovered once deleted.
+※ 請務必仔細考慮你的決定，因為角色一旦刪除即無法復原。
 
-## 3. Minting a Character
+## 3. 鑄造角色
 
-If you create a character and play MapleStory N, you can mint your character once certain conditions are met.
+如果你創建角色並遊玩楓之谷 N，當滿足特定條件後，你就可以鑄造你的角色。
 
-Minting a character allows you to set your desired character name and engage in on-chain activities in MapleStory N, as well as participate in various features within MapleStory Universe.
+鑄造角色可讓你設定你想要的角色名稱，並在楓之谷 N 中進行鏈上活動，以及參與楓之谷 Universe 中的各種功能。
 
-### 3.1. Character Minting Requirements
+### 3.1. 角色鑄造需求
 
-You can mint your character by completing the “To the MapleStory Universe World!” quest after meeting the following conditions:
+在滿足以下條件後，你可以透過完成「前往楓之谷 Universe 世界！」任務來鑄造你的角色：
 
-1.  Reach level 60
-2.  Complete “To the MapleStory Universe World!” quest
-    *   Complete 3rd Job Advancement
-    *   Complete at least 2 out of 4 Theme Dungeon quests:
-        *   Ellinel Fairy Academy
-        *   Gold Beach
-        *   Riena Strait
-        *   Elodin
-    *   Defeat the boss monster “Easy Balrog”
-    *   Use Rune 5 times
-### 3.2. How to Mint Your Character
+1.  達到 60 等
+2.  完成「前往楓之谷 Universe 世界！」任務
+    *   完成三轉轉職
+    *   完成以下 4 個主題副本任務中的至少 2 個：
+        *   妖精學園愛里涅
+        *   黃金海灘
+        *   列娜海峽
+        *   艾洛丁
+    *   擊敗頭目怪物「簡單巴洛古」
+    *   使用符文 5 次
+### 3.2. 如何鑄造你的角色
 
-After meeting the requirements and completing the quests, you can mint your character. Please follow the steps below:
+滿足需求並完成任務後，你就可以鑄造你的角色。請依照以下步驟操作：
 
-1.  On the character selection screen, select a character that meets the conditions and click the "Mint" button.
+1.  在角色選擇畫面中，選擇一個符合條件的角色，然後點擊「鑄造」按鈕。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_601.png)
 
-1.  Enter your desired character name and click the "Continue" button.
+1.  輸入你想要的角色名稱，然後點擊「繼續」按鈕。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_113.png)
 
-1.  Click the "Minting" button to complete the process.
+1.  點擊「鑄造」按鈕以完成程序。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_790.png)
 
-After minting your character, you will be able to access the following features:
+鑄造角色後，你將可以使用以下功能：
 
-*   Item Minting
-*   Neso Minting
-*   Item Enhancement
-    *   Star Force Enhancement
-    *   Potential Enhancement (Cube)
-    *   Bonus Stats Enhancement
-*   Use Wallet Inventory
-*   Access History
-*   Use NFT Collection
-*   Link/Unlink Character
-### 3.3. Important Notes on Character Minting
-*   Minted characters cannot be deleted.
-*   Character name can only be set using English letters and numbers.
-*   Character name set at the time of minting is shared across all worlds. If the name already exists, it cannot be used.
-*   If a deemed name is considered offensive or inappropriate for other Maplers, it may be changed without notice.
-## 4. Linking a Character
+*   道具鑄造
+*   楓幣鑄造
+*   道具強化
+    *   星力強化
+    *   潛能強化（方塊）
+    *   附加能力值強化
+*   使用錢包道具欄
+*   存取歷史記錄
+*   使用 NFT 收藏
+*   連結/解除連結角色
+### 3.3. 角色鑄造重要注意事項
+*   已鑄造的角色無法刪除。
+*   角色名稱只能使用英文字母和數字設定。
+*   鑄造時設定的角色名稱在所有世界中共享。如果名稱已存在，則無法使用。
+*   如果認為名稱對其他楓之谷玩家具有冒犯性或不適當，可能會在不另行通知的情況下變更。
+## 4. 連結角色
 
-Once a character has been minted, it can be freely used within MapleStory Universe—for playing MapleStory N, trading on Marketplace, and more.
+角色一旦鑄造完成，即可在楓之谷 Universe 中自由使用——用於遊玩楓之谷 N、在市場上交易等等。
 
-However, to play MapleStory N, the character must be **linked** to the game.
+但是，若要遊玩楓之谷 N，角色必須**連結**到遊戲。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_947.png)
 
-*   If your character was minted through gameplay, it will automatically be linked to MapleStory N.
-*   If you purchased a character on Marketplace, go to the character selection screen and click the “Link Character” button to link the character in order to access gameplay.
+*   如果你的角色是透過遊戲過程鑄造的，它將自動連結到楓之谷 N。
+*   如果你在市場上購買了角色，請前往角色選擇畫面並點擊「連結角色」按鈕以連結角色，以便進行遊戲。
 
-※ Once linked, the character cannot be unlinked for 10 days (240 hours). Please double-check before proceeding!
+※ 一旦連結，角色在 10 天（240 小時）內無法解除連結。進行前請務必再次確認！
 
-## 5. Unlinking a Character
+## 5. 解除連結角色
 
-To trade a linked character on Marketplace, you must first unlink it from MapleStory N.
+若要在市場上交易已連結的角色，你必須先將其從楓之谷 N 解除連結。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236253259_142.png)
 
-Go to the character selection screen and click the "Unlink Character" button to unlink the desired character. Unlinked characters will appear in your Inventory on Marketplace.
+前往角色選擇畫面並點擊「解除連結角色」按鈕以解除連結想要的角色。已解除連結的角色將會出現在你在市場上的道具欄中。
 
-※ Characters cannot be unlinked if 10 days (240 hours) have not passed since linking.
+※ 如果自連結以來未滿 10 天（240 小時），則無法解除連結角色。
 
-※ Characters cannot be unlinked if it is a memeber of a guild.
+※ 如果角色是公會成員，則無法解除連結。
 
-※ Characters cannot be unlinked if it has a registered raffle entry.
+※ 如果角色已登錄抽獎活動，則無法解除連結。

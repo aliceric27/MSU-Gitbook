@@ -1,61 +1,61 @@
-# Discouraged Gameplay
-## Table of Contents
-1.  **Discouraged Gameplay**
-2.  **Monitoring Criteria and Methods**
-3.  **Verification Request for Game Restrictions**
+# 不鼓勵的遊戲行為
+## 目錄
+1.  **不鼓勵的遊戲行為**
+2.  **監控標準與方法**
+3.  **遊戲限制驗證請求**
 
-MapleStory N monitors abnormal gameplay behavior in accordance with its operation policies. Beyond the use of explicit hacks or macros, certain behaviors are strongly discouraged.
+楓之谷 N 會根據其營運政策監控異常的遊戲行為。除了使用明確的外掛或腳本外，某些行為也是強烈不鼓勵的。
 
-Below is a detailed guide on what constitutes discouraged gameplay and how such behavior is monitored.
+以下詳細說明了哪些行為構成不鼓勵的遊戲行為，以及如何監控此類行為。
 
-## 1. Discouraged Gameplay
+## 1. 不鼓勵的遊戲行為
 
-MapleStory N is intended to be played as a standalone client. Running abnormal programs alongside MapleStory N or tampering with PC or network data may prevent proper gameplay logging and is treated as an attempt to bypass detection.
+楓之谷 N 旨在作為獨立的用戶端來遊玩。與楓之谷 N 一起執行異常程式或篡改電腦或網路資料可能會妨礙正常的遊戲記錄，並被視為試圖繞過偵測。
 
-If you engage in the following behaviors, it may be considered use of unauthorized programs, so we strongly advise against them:
+如果你從事以下行為，可能會被視為使用未經授權的程式，因此我們強烈建議不要這樣做：
 
-1.  Playing on a wallet account that belongs to someone else
-2.  Accessing or playing via remote control programs
-3.  Running multiple clients simultaneously (including those launched via OS-level features)
-4.  Using software/devices to monitor and control multiple PCs or wallets simultaneously
-5.  Accessing or playing using spoofing tools (e.g., IP/MAC address spoofing, virtual hardware)
-6.  Using hardware/software that enables macro or repeated input functions (e.g., special keyboards, mouses, joysticks, controllers)
-*   Use of such devices is not restricted by the system, but abnormal patterns may still result in enforcement
-1.  Launching or playing the game alongside unofficial/unsupported programs
-2.  Running illegal programs used in other games while playing MapleStory N
-3.  Repeatedly failing the in-game security systems (e.g., Lie Detector)
-4.  Farming in-game currency or items using multiple wallets on the same IP/device for personal gain
-*   Accounts using system information flagged for abnormal activity may be treated as belonging to the same user
-1.  Any other repetitive gameplay pattern that significantly deviates from normal play behavior
+1.  在屬於他人的錢包帳戶上玩遊戲
+2.  透過遠端控制程式存取或玩遊戲
+3.  同時執行多個用戶端（包括透過作業系統層級功能啟動的用戶端）
+4.  使用軟體/裝置同時監控和控制多台電腦或錢包
+5.  使用偽裝工具（例如 IP/MAC 位址偽裝、虛擬硬體）存取或玩遊戲
+6.  使用可啟用腳本或重複輸入功能的硬體/軟體（例如特殊鍵盤、滑鼠、搖桿、控制器）
+*   系統不限制此類裝置的使用，但異常模式仍可能導致強制執行
+1.  與非官方/不支援的程式一起啟動或玩遊戲
+2.  在玩楓之谷 N 時執行其他遊戲中使用的非法程式
+3.  重複未能通過遊戲內安全系統（例如測謊機）
+4.  在同一 IP/裝置上使用多個錢包刷取遊戲內貨幣或道具以獲取個人利益
+*   使用被標記為異常活動的系統資訊的帳戶可能被視為屬於同一使用者
+1.  任何其他明顯偏離正常遊戲行為的重複遊戲模式
 
-※ Running non-game related apps (e.g., music/video players) will not be flagged as abnormal programs.
+※ 執行與遊戲無關的應用程式（例如音樂/影片播放器）不會被標記為異常程式。
 
-※ Any software used to open or modify the MapleStory N client or resources is subject to restriction regardless of actual usage.
+※ 任何用於開啟或修改楓之谷 N 用戶端或資源的軟體，無論實際使用情況如何，都將受到限制。
 
-※ If new forms of unsupported behavior are identified, this document will be updated continuously.
+※ 如果發現新的不支援行為形式，本文件將持續更新。
 
-## 2. Monitoring Criteria and Methods
+## 2. 監控標準與方法
 
-If unauthorized programs or abnormal patterns are detected, game restrictions may be applied based on the following criteria:
+如果偵測到未經授權的程式或異常模式，可能會根據以下標準實施遊戲限制：
 
-*   Repeated use of unsupported gameplay practices
-*   Activity patterns that significantly deviate from those of most Maplers
+*   重複使用不支援的遊戲方式
+*   活動模式明顯偏離大多數楓之谷玩家的模式
 
-※ Monitoring includes not only recent activity but also up to 90 days of past gameplay records. Thus, the date of restriction may not align with the date of violation.
+※ 監控不僅包括最近的活動，還包括過去長達 90 天的遊戲記錄。因此，限制日期可能與違規日期不符。
 
-※ If multiple policy violations are detected, the most severe violation will determine the penalty.
+※ 如果偵測到多項違反政策的行為，最嚴重的違規行為將決定處罰。
 
-## 3. Verification Request for Game Restrictions
+## 3. 遊戲限制驗證請求
 
-If your account is restricted, you may request for verification to clarify or re-investigate by contacting our [Support](https://support.msu.io/hc/en-us) within 90 days from the start of the restriction.
+如果你的帳戶受到限制，你可以在限制開始後的 90 天內聯繫我們的 [客服中心](https://support.msu.io/hc/en-us) 要求驗證以澄清或重新調查。
 
-To help us verify your case more quickly and accurately, please include the following information:
+為了協助我們更快、更準確地驗證你的案例，請提供以下資訊：
 
-1.  If you used an unsupported gameplay, describe in detail:
-*   What program was used
-*   When it was used
-*   Any unusual circumstances during gameplay
-1.  Even if your actions do not exactly match the listed violations,
-*   Please list any program run alongside MapleStory N or special gameplay conditions.
-1.  If you played for an extended period while repeating the same input,
-*   Please describe your skill rotation and repetitive key inputs during gameplay.
+1.  如果你使用了不支援的遊戲方式，請詳細說明：
+*   使用了什麼程式
+*   何時使用
+*   遊戲過程中有任何異常情況
+1.  即使你的行為與所列違規行為不完全相符，
+*   也請列出與楓之谷 N 一起執行的任何程式或特殊的遊戲條件。
+1.  如果你在重複相同輸入的情況下長時間玩遊戲，
+*   請說明你在遊戲過程中的技能循環和重複按鍵輸入。

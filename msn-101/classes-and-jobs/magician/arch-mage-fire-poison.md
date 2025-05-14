@@ -1,12 +1,12 @@
-# Arch Mage (Fire/Poison)
+# 大魔導士 (火、毒)
 
 ![](images/msn-101/classes-and-jobs/magician/image_1747236394499_235.png)
 
-#### A magician who blankets the battleground with powerful explosions and deadly poison
+#### 一位用強大爆炸和致命劇毒覆蓋戰場的法師
 
-Arch Mage (Fire / Poison) uses fire magic to burn and poison all enemies in their path. The fiery magic covers large areas and continuously inflicts damage over time to foes within range. As the damage over time is stacked on enemies, the devastation builds to an explosive climax.
+大魔導士 (火、毒) 使用火魔法來燃燒和毒害路徑上所有的敵人。火焰魔法能覆蓋大範圍區域，並對範圍內的敵人持續造成傷害。隨著持續傷害在敵人身上疊加，毀滅性的威力將達到爆炸性的高潮。
 
-*   Main Stat: INT (Intelligence)
-*   Weapons Used: Staff, Wand
+*   主要屬性：INT (智力)
+*   使用武器：長杖、短杖
 
 ![](images/msn-101/classes-and-jobs/magician/image_1747236394500_953.png)

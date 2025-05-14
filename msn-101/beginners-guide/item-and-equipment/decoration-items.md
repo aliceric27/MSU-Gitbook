@@ -1,64 +1,64 @@
-# Decoration Items
-## Table of Contents
-1.  **What are Decoration Items?**
-2.  **How to Obtain Decoration Items**
-3.  **Equipping Decoration Items**
-## 1. What are Decoration Items?
+# 裝飾道具
+## 目錄
+1.  **什麼是裝飾道具？**
+2.  **如何取得裝飾道具**
+3.  **裝備裝飾道具**
+## 1. 什麼是裝飾道具？
 
-In MapleStory N, you can discover a wide variety of decoration items. When equipped, these items override the appearance of your equipment items, allowing you to show off a unique look in game.
+在楓之谷 N 中，你可以發現各式各樣的裝飾道具。裝備這些道具時，它們會覆蓋你裝備道具的外觀，讓你在遊戲中展現獨特的造型。
 
-Customize your character with your own special combinations and express your one-of-a-kind style!
+用你自己的特殊組合來自訂你的角色，並表達你獨一無二的風格！
 
-There are a total of **20 types** of decoration items available in MapleStory N, as listed below:
+楓之谷 N 中總共有 **20 種** 裝飾道具，如下所列：
 
-| UTILITY | Pet |
-| OUTFIT | HatWeaponOverallFace AccessoryEye AccessoryTopBottomShoesCapeGlovesPet EquipmentChat Bubble RingName Tag Ring |
-| BEAUTY | HairFaceSkin |
+| 功能性 | 寵物 |
+| 服裝 | 帽子武器套服臉部飾品眼睛飾品上衣下衣鞋子披風手套寵物裝備聊天泡泡戒指名牌戒指 |
+| 美容 | 髮型臉型膚色 |
 
-## 2. How to Obtain Decoration Items
-### 2.1 Regular Rewards
+## 2. 如何取得裝飾道具
+### 2.1 一般獎勵
 
-By default, at least one decoration item is included in the Regular Rewards of every layer. Check the Reward Dashboard to see the available Regular Rewards and enjoy hunting in fields where your desired decoration items may drop!
+預設情況下，每個階層的一般獎勵中都至少包含一個裝飾道具。查看獎勵儀表板以了解可獲得的一般獎勵，並在可能掉落你想要的裝飾道具的區域享受狩獵的樂趣！
 
-※ For more information about Field Layers or the Reward Dashboard, please refer to the [**\[Field Layer Guide\]**](https://docs.maplestoryn.io/msn-101/beginners-guide/monster-and-dungeon/field-layer).
+※ 關於狩獵場階層或獎勵儀表板的更多資訊，請參考 [**\[狩獵場階層指南\]**](https://docs.maplestoryn.io/msn-101/beginners-guide/monster-and-dungeon/field-layer)。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236282129_57.png)
 
-### 2.2. Style Raffle
+### 2.2. 時尚抽獎
 
-To help you discover even more decoration items, Style Raffle are held in rotation
+為了幫助你發現更多裝飾道具，時尚抽獎會輪流舉行。
 
-*   The rewards in each Style Raffle change on a monthly basis.
+*   每個時尚抽獎的獎勵每月都會變更。
 
-Participating in a Style Raffle requires a specific type of coin, which varies depending on the raffle.
+參加時尚抽獎需要特定類型的硬幣，硬幣種類因抽獎而異。
 
-These coins can be obtained by clearing various types of contents in MapleStory N, such as boss content, special content, and party quests. Enjoy the adventure in MapleStory N and get the raffle coin that you would like to register!
+這些硬幣可以透過完成楓之谷 N 中的各種內容來取得，例如頭目內容、特殊內容和組隊任務。享受楓之谷 N 中的冒險，並取得你想要登錄的抽獎硬幣吧！
 
-The following types of coins can be obtained in-game:
+遊戲中可以取得以下類型的硬幣：
 
-| Gold Florin |  |
-| Red Florin |  |
-| Blue Florin |  |
-| Green Florin |  |
+| 黃金弗羅林 |  |
+| 紅色弗羅林 |  |
+| 藍色弗羅林 |  |
+| 綠色弗羅林 |  |
 
-※ Coins for the raffles are FT items, and once minted, they can be freely traded on the Marketplace.
+※ 抽獎用的硬幣是 FT 道具，一旦鑄造完成，即可在市場上自由交易。
 
-※ These coins do not have an expiration date, so even if you skip a raffle rotation, you can still use them in future rotations.
+※ 這些硬幣沒有有效期限，因此即使你錯過一次抽獎輪替，仍然可以在未來的輪替中使用它們。
 
-Visit NPC Florentina or Florentino in Henesys or Leafre to exchange your coins with the raffle entry ticket of your choice.
+前往弓箭手村或神木村的 NPC 芙蘿倫蒂娜或芙蘿倫提諾，用你的硬幣兌換你選擇的抽獎券。
 
-The acquired ticket will appear in your inventory, and upon use, you may immediately view the raffle entry status.
+取得的票券將出現在你的道具欄中，使用後即可立即查看抽獎登錄狀態。
 
-※ For more information on raffle, please visit [\[Raffle Dashboard Guide\]](https://docs.maplestoryn.io/msn-101/learn-more/raffle-dashboard).
+※ 關於抽獎的更多資訊，請造訪 [\[抽獎儀表板指南\]](https://docs.maplestoryn.io/msn-101/learn-more/raffle-dashboard)。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236282129_237.png)
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236282129_63.png)
 
-## 3. Equipping Decoration Items
+## 3. 裝備裝飾道具
 
-You can equip decoration items of your choice by right-clicking or double-clicking them in your Character Inventory.
+你可以透過在你的角色道具欄中右鍵點擊或雙擊來裝備你選擇的裝飾道具。
 
-*   If you frequently switch decoration combinations, you can save your favorite set as a preset for easy, one-click application.
+*   如果你經常切換裝飾組合，可以將你最喜歡的套裝儲存為預設組，以便輕鬆一鍵套用。
 
-Open the Equipment UI (shortcut key \[Default: E\]), click the "Preset" button, and set up and equip your desired decoration preset with ease.
+開啟裝備使用者介面（快捷鍵 \[預設：E\]），點擊「預設組」按鈕，即可輕鬆設定並裝備你想要的裝飾預設組。

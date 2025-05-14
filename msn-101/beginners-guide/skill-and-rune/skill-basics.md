@@ -1,46 +1,46 @@
-# Skill Basics
-## Table of Contents
-1.  **What is a Skill?**
-2.  **Skill Types**
-3.  **How to Set Skill Shortcut Keys**
-4.  **Skill Macros**
-## 1. What is Skill?
+# 技能基礎
+## 目錄
+1.  **什麼是技能？**
+2.  **技能種類**
+3.  **如何設定技能快捷鍵**
+4.  **技能巨集**
+## 1. 什麼是技能？
 
-Skills are special techniques distinct from regular attacks that characters use in battle. Each Job has its own unique set of Skills.
+技能是角色在戰鬥中使用的、不同於普通攻擊的特殊技巧。每個職業都有自己獨特的技能組合。
 
-*   You can view your Skills through the \[Character\] > \[Skills\] at the bottom of the screen or by pressing the shortcut key \[Default: K\] to open the Skills menu.
+*   你可以透過畫面下方的 \[角色] > \[技能] 查看你的技能，或按下快捷鍵 \[預設：K] 開啟技能選單。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236299506_754.png)
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236299506_845.png)
 
-*   When your character levels up, they get SP (Skill Points) to allocate in unlocking or upgrading Skills.
-## 2. Skill Types
+*   角色升級時，會獲得SP（技能點數）來解鎖或升級技能。
+## 2. 技能種類
 
-| Passive Skills | Passive Skills are always active once learned, and their effects are continuously applied without any input. |
-| Active Skills | Active Skills must be manually activated by pressing the assigned skill key after they are learned.If an Active Skill has a cooldown, it cannot be used again until the cooldown period ends after activation. |
-| Buff Skills | These are Active Skills that maintain their effects for a certain period ofBuff Skills are a type of Active Skills that grant effects for a certain duration when used.While a Buff Skill is active, its icon is displayed on the top right of the screen.If a Buff Skills has a cooldown, it cannot be used again until the cooldown period ends after the initial use.Some Buff Skills can be registered as Auto Pet Buff Skills. |
-| On/Off Skills | On/Off Skills are Active Skills that toggle between On and Off states. When On, the skill’s effects are active; when Off, the effects are disabled.Unlike Buff Skills, On/Off Skills have no duration and no cooldown.You can switch the Skill On or Off by pressing its assigned key or by right-clicking the skill in the Skill UI.While the skill is On, its icon remains visible at the top right of the screen. |
+| 被動技能 | 被動技能學習後即永久生效，無需任何操作即可持續套用其效果。 |
+| 主動技能 | 主動技能學習後必須手動按下指定的技能鍵才能啟動。如果主動技能有冷卻時間，則在啟動後必須等待冷卻時間結束才能再次使用。 |
+| 增益技能 | 這是一種主動技能，使用後會在一定時間內維持其效果。當增益技能生效時，其圖示會顯示在畫面右上角。如果增益技能有冷卻時間，則在初次使用後必須等待冷卻時間結束才能再次使用。部分增益技能可以註冊為寵物自動增益技能。 |
+| 開/關技能 | 開/關技能是一種主動技能，可在開啟和關閉狀態之間切換。開啟時，技能效果生效；關閉時，效果停用。與增益技能不同，開/關技能沒有持續時間和冷卻時間。你可以透過按下指定的按鍵或在技能使用者介面中右鍵點擊技能來開啟或關閉技能。當技能開啟時，其圖示會持續顯示在畫面右上角。 |
 
-## 3. How to Set Skill Shortcut Keys
-*   In the Skill window, click the Active Skill you want to register and then click the desired slot in the Quick Slots at the bottom right of the screen.
-*   Click the gear icon at the bottom of the screen > Select \[Key Bindings\] > Click the Active Skill in the Skill window > Click the desired key in the Key Bindings window.
-## 4. Skill Macros
+## 3. 如何設定技能快捷鍵
+*   在技能視窗中，點擊要註冊的主動技能，然後點擊畫面右下角快捷欄中的目標欄位。
+*   點擊畫面下方的齒輪圖示 > 選擇 \[按鍵設定] > 在技能視窗中點擊主動技能 > 在按鍵設定視窗中點擊目標按鍵。
+## 4. 技能巨集
 
-If you frequently use multiple Skills together, you can create a Skill macro to activate up to 3 Skills in order with a single button press.
+如果你經常一起使用多個技能，可以建立技能巨集，透過單一按鍵依序啟動最多3個技能。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236299506_319.png)
 
-### 4.1. How to Set Skill Macros
+### 4.1. 如何設定技能巨集
 
-1) Click the "MACRO" button at the bottom-right of the Skill window.
+1) 點擊技能視窗右下角的「巨集」按鈕。
 
-2) Click on each Active Skill you want to include.
+2) 點擊要包含的每個主動技能。
 
-3) Click on the desired slot in the MACRO LIST on the right.
+3) 點擊右側巨集清單中的目標欄位。
 
-4) After setting your combination, click "CONFIRM" button.
+4) 設定好組合後，點擊「確認」按鈕。
 
-5) Assign the macro to a shortcut key and use it in-game.
+5) 將巨集指派給快捷鍵並在遊戲中使用。
 
-※ Note: Skills with cooldowns, certain summon Skills, and some Attack Skills may be restricted from macro settings.
+※ 注意：有冷卻時間的技能、某些召喚技能和部分攻擊技能可能無法設定巨集。

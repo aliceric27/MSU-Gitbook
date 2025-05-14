@@ -1,96 +1,96 @@
-# Potential & Bonus Potential
-## Table of Contents
-1.  **What is Potential & Bonus Potential?**
-2.  **Potential Ranks**
-3.  **Cube Types**
-4.  **Equipment Enhancement: Potential UI**
-5.  **Enhancing Potential**
-6.  **Potential Enhancement Cost**
-## 1. What is Potential & Bonus Potential?
+# 潛能與附加潛能
+## 目錄
+1.  **什麼是潛能與附加潛能？**
+2.  **潛能等級**
+3.  **方塊種類**
+4.  **裝備強化：潛能使用者介面**
+5.  **強化潛能**
+6.  **潛能強化費用**
+## 1. 什麼是潛能與附加潛能？
 
-**Potential and Bonus Potentia**l is a system that allows you to grant or reset potential abilities on your **minted equipment items** to upgrade their stats.
+**潛能與附加潛能**是一個系統，可以讓你為**已鑄造的裝備物品**賦予或重設潛在能力，以提升其屬性。
 
-All items drop w**ithout potential by default.** After granting Potential or Bonus Potential for the first time, you can reset them to try for the stats you want.
+所有物品預設掉落時**沒有潛能**。首次賦予潛能或附加潛能後，你可以重設它們以嘗試獲得想要的屬性。
 
-*   You **can only grant Potential** for the first time using **Occult Cube.**
-*   You **can only grant Bonus Potential** for the first time using **Bonus Occult Cube.**
-## 2. Potential Ranks
+*   你**只能**使用**神秘方塊**首次賦予**潛能**。
+*   你**只能**使用**附加神秘方塊**首次賦予**附加潛能**。
+## 2. 潛能等級
 
-Potential and Bonus Potential are divided into four ranks.
+潛能和附加潛能分為四個等級。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236295956_155.png)
 
-When using a cube, 3 lines of randomized Potential will be generated based on the item’s current Potential Rank. The color and stats of these lines vary by rank.
+使用方塊時，會根據物品目前的潛能等級產生3條隨機潛能。這些潛能的顏色和屬性因等級而異。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236295956_590.png)
 
-For Bonus Potential, the rank colors are the same, but the stats given may be lower.
+對於附加潛能，等級顏色相同，但賦予的屬性可能會較低。
 
-## 3. Cube Types
+## 3. 方塊種類
 
-There are several types of Cubes used to grant and reset Potential.
+有幾種類型的方塊用於賦予和重設潛能。
 
-Each cube type has its own rank ranges for which they can be used, and the usage cost also differs.
+每種方塊類型都有其可使用的等級範圍，使用成本也不同。
 
-Please refer to the table below for the highest possible rank and use effects of each cube.
+請參考下表以了解每種方塊的最高可能等級和使用效果。
 
-### 3.1. Potential
+### 3.1. 潛能
 
-| Occult Cube | Epic | Existing stats are replaced with 3 new lines of stats. |
-| Red Cube | Legendary | Existing stats are replaced with 3 new lines of stats. |
-| Black Cube | Legendary | You can choose between existing and new stats. |
+| 神秘方塊 | 罕見 | 現有屬性將被3條新的屬性取代。 |
+| 紅色方塊 | 傳說 | 現有屬性將被3條新的屬性取代。 |
+| 黑色方塊 | 傳說 | 你可以在現有和新的屬性之間進行選擇。 |
 
-### 3.2. Bonus Potential
+### 3.2. 附加潛能
 
-| Bonus Occult Cube | Rare | Existing stats are replaced with 3 new lines of stats. |
-| Bonus Potential Cube | Legendary | Existing stats are replaced with 3 new lines of stats. |
+| 附加神秘方塊 | 稀有 | 現有屬性將被3條新的屬性取代。 |
+| 附加潛能方塊 | 傳說 | 現有屬性將被3條新的屬性取代。 |
 
-## 4. Equipment Enhancement: Potential UI
+## 4. 裝備強化：潛能使用者介面
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236295956_994.png)
 
-You can perform S**tar Force Enhancement, Potential Enhancement, and Bonus Stats Enhancement** through the **Equipment Enhancement UI.**
+你可以透過**裝備強化使用者介面**執行**星力強化、潛能強化和附加能力值強化**。
 
-In the **Potential Enhancement** tab, you can check the following:
+在**潛能強化**分頁中，你可以查看以下內容：
 
-1.  **The type of enhancement selected**
-2.  **The item selected for enhancement** — be sure to double-check that the correct item is selected before proceeding.
-3.  **The type of Cube selected** and the **highest rank** it can achieve — make sure the desired Cube is selected before enhancing.
-4.  **Current Potential** lines on the left under **Current Enhancement Info** — if the item has no Potential, this section will be blank. Once Potential is granted or reset, the **Enhancement Result** will be shown on the right.
-5.  **The number of Power Crystals** you own and the **current enhancement cost** for the selected item — Enhancement costs are dynamically adjusted every minute.
-## 5. Enhancing Potential
+1.  **選擇的強化類型**
+2.  **選擇用於強化的物品** — 在繼續之前，請務必再次確認已選擇正確的物品。
+3.  **選擇的方塊類型**及其可達到的**最高等級** — 在強化之前，請確保已選擇所需的方塊。
+4.  **目前潛能**在左側**目前強化資訊**下方顯示 — 如果物品沒有潛能，此部分將為空白。一旦賦予或重設潛能，**強化結果**將顯示在右側。
+5.  **你擁有的能量水晶數量**以及所選物品的**目前強化費用** — 強化費用每分鐘動態調整。
+## 5. 強化潛能
 
-After opening the Enhancement UI, select the type of enhancement you want and choose the item to enhance.
+開啟強化使用者介面後，選擇要進行的強化類型並選擇要強化的物品。
 
-Potential enhancement consumes **Power Crystals**, and the amount required is determined by:
+潛能強化會消耗**能量水晶**，所需的數量取決於：
 
-*   Equipment Type
-*   Selected Cube
-*   Current demand for enhancement based on the item’s Potential rank
+*   裝備類型
+*   選擇的方塊
+*   根據物品潛能等級的目前強化需求
 
-The cost is **updated every minute.**
+費用**每分鐘更新一次**。
 
-Before proceeding, make sure to double-check the amount of Power Crystals you own and the current enhancement cost at the bottom of the Enhancement UI.
+在繼續之前，請務必在強化使用者介面底部再次確認你擁有的能量水晶數量和目前的強化費用。
 
-If you do not have enough **Power Crystals**, click the Exchange button next to Owned Power Crystals to convert your NESO into Power Crystals at a 1:1 ratio.
+如果你沒有足夠的**能量水晶**，請點擊「擁有能量水晶」旁邊的「交換」按鈕，以1:1的比例將你的NESO轉換為能量水晶。
 
-※ NESOLET cannot be used to exchange for Power Crystals. If you only have NESOLET, you must mint it into NESO first.
+※ NESOLET無法用於交換能量水晶。如果你只有NESOLET，則必須先將其鑄造為NESO。
 
-※ For instructions, please refer to the [\[**NESO & NXPC Guide\]**](https://docs.maplestoryn.io/msn-101/learn-more/neso-and-nxpc).
+※ 有關說明，請參閱 [\[**NESO & NXPC 指南\]**](https://docs.maplestoryn.io/msn-101/learn-more/neso-and-nxpc)。
 
-Once everything is ready, click the “**Enhance**” button to begin the enhancement.
+一切準備就緒後，點擊「**強化**」按鈕開始強化。
 
-*   In the case of Potential Enhancement, clicking Enhance will immediately grant or reset the item's Potential.
-*   If you're using a **Black Cube**, you will be able to choose between the current and newly generated Potential stats after enhancement.
+*   對於潛能強化，點擊「強化」將立即賦予或重設物品的潛能。
+*   如果你使用的是**黑色方塊**，強化後你將能夠在目前和新產生的潛能屬性之間進行選擇。
 
 ![](images/msn-101/beginners-guide/enhancement/image_1747236295956_862.png)
 
-## 6. Potential Enhancement Cost
+## 6. 潛能強化費用
 
-The cost of enhancing Potential is dynamically adjusted based on overall demand.
+強化潛能的費用會根據整體需求動態調整。
 
-*   The higher the desire for Potential enhancement for a specific item group among Maplers, the higher the change cost. The lower the desire for enhancement, the lower the change cost.
-*   You can check the current Potential enhancement cost of the selected equipment in the Required Power Crystals section at the bottom, and you can check the Potential enhancement cost information of the equipment by clicking the button on the right side.
-*   The cost to enhance Potential refreshes every minute, and you can check the remaining time until the cost refreshes in the "Power Crystals Required" section.
-*   Information on Potential enhancement costs can be found not only in-game, but also on the MapleStory N official website under the [Dynamic Pricing](https://msu.io/maplestoryn/gamestatus/dynamicpricing) section.
-*   To learn more about Dynamic Pricing, please refer to the \[[**Dynamic Pricing Guide**](/msn-101/learn-more/dynamic-pricing)\].
+*   楓之谷玩家對特定物品群組的潛能強化需求越高，變更費用就越高。強化需求越低，變更費用就越低。
+*   你可以在底部「所需能量水晶」部分查看所選裝備目前的潛能強化費用，也可以點擊右側按鈕查看裝備的潛能強化費用資訊。
+*   強化潛能的費用每分鐘刷新一次，你可以在「所需能量水晶」部分查看距離費用刷新還有多少時間。
+*   潛能強化費用的資訊不僅可以在遊戲內找到，也可以在楓之谷N官方網站的[動態定價](https://msu.io/maplestoryn/gamestatus/dynamicpricing)部分找到。
+*   要了解更多關於動態定價的資訊，請參閱\[[**動態定價指南**](/msn-101/learn-more/dynamic-pricing)\]。

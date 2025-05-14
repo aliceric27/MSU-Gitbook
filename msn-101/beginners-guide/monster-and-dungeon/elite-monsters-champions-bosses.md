@@ -1,80 +1,80 @@
-# Elite Monsters, Champions, Bosses
-## Table of Contents
-1.  **Elite Monsters**
-2.  **Elite Champions**
-3.  **Elite Bosses**
-## 1. Elite Monsters
+# 精英怪物、冠軍、頭目
+## 目錄
+1.  **精英怪物**
+2.  **精英冠軍**
+3.  **精英頭目**
+## 1. 精英怪物
 
-Elite Monsters occasionally appear when hunting monsters within your level range.
+在狩獵等級範圍內的怪物時，偶爾會出現精英怪物。
 
-*   Monsters within your level range, which is called 'Monsters Near Your Level', are monsters that fall between 20 levels below and 20 levels above your character level.
+*   等級範圍內的怪物，稱為「等級相近的怪物」，是指等級比您角色等級低 20 等到高 20 等之間的怪物。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336789_272.png)
 
-*   Elite Monsters have significantly more HP and stronger attacks than normal monsters.
-*   When defeated, they may drop various equipment, consumables, and miscellaneous items available from the field where they appeared.
-## 2. Elite Champions
-*   Elite Champions are rare monsters that may appear while defeating Elite Monsters.
-*   One of 5 types of Elite Champions will appear. When defeated, they drop various rewards including an Elite Champion Orb.
-*   The Elite Champion Orb provides a large amount of EXP and lasts for 1 minute. Elite Champions will not appear if there are no monsters near your level.
+*   精英怪物的 HP 和攻擊力遠高於普通怪物。
+*   擊敗牠們後，可能會掉落其出現區域可獲得的各種裝備、消耗品和雜項物品。
+## 2. 精英冠軍
+*   精英冠軍是在擊敗精英怪物時可能出現的稀有怪物。
+*   會出現 5 種類型精英冠軍中的其中一種。擊敗牠們後，會掉落各種獎勵，包括一個精英冠軍寶珠。
+*   精英冠軍寶珠提供大量經驗值，並持續 1 分鐘。如果附近沒有等級相近的怪物，則不會出現精英冠軍。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336789_342.png)
 
-### 2.1. Black Crescendo Slime
+### 2.1. 黑色漸強史萊姆
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336789_154.png)
 
-Black Crescendo Slime grows in size every time it is defeated.
+黑色漸強史萊姆每次被擊敗都會變大。
 
-It has three growth stages, and defeating all of them rewards you with items.
+它有三個成長階段，擊敗所有階段即可獲得物品獎勵。
 
-### 2.2. Shadow Butterfly
+### 2.2. 暗影蝴蝶
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336789_228.png)
 
-A total of 15 Shadow Butterflies will appear and chase your character.
+總共會出現 15 隻暗影蝴蝶並追逐您的角色。
 
-Defeat all the butterflies on the field to receive rewards.
+擊敗場上所有的蝴蝶即可獲得獎勵。
 
-### 2.3. Dark Wolf
+### 2.3. 黑暗戰狼
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336790_245.png)
 
-The Dark Wolf hides itself on the field.
+黑暗戰狼會隱藏在場上。
 
-Destroy 5 Dark Spheres that appear to reveal the hidden wolf. Defeat the Dark Wolf to earn rewards.
+摧毀出現的 5 個黑暗球體以找出隱藏的戰狼。擊敗黑暗戰狼即可獲得獎勵。
 
-### 2.4. Killer Bee
+### 2.4. 殺人蜂
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336790_162.png)
 
-10 Killer Bees will appear and attack an Illusion Flower.
+會出現 10 隻殺人蜂並攻擊幻影花。
 
-Defeat all the bees before the flower gauge runs out to earn rewards.
+在花朵計量條耗盡前擊敗所有蜜蜂即可獲得獎勵。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336790_833.png)
 
-### 2.5. Dark Gargoyle
+### 2.5. 黑暗石像鬼
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336790_569.png)
 
-The Dark Gargoyle splits into 10 Mini Dark Gargoyles when defeated.
+黑暗石像鬼被擊敗後會分裂成 10 隻迷你黑暗石像鬼。
 
-Eliminate all of the mini versions to receive rewards.
+消滅所有迷你版本即可獲得獎勵。
 
-## 3. Elite Bosses
-*   Elite Bosses may appear after hunting many Elite Monsters and Champions.
+## 3. 精英頭目
+*   在狩獵許多精英怪物和冠軍後，可能會出現精英頭目。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336790_427.png)
 
-*   An Elite Boss and 2 Elite Monsters appear together and use powerful skills.
+*   一個精英頭目和 2 個精英怪物會一同出現並使用強大的技能。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336790_818.png)
 
-*   Defeating an Elite Boss grants an EXP Orb and rewards that are registered in the Raffle Dashboard.
+*   擊敗精英頭目可獲得經驗值寶珠和註冊在抽獎儀表板中的獎勵。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236336790_422.png)
 
-*   Elite Bosses do not appear on maps with an average monster level below 140. Instead, Elite Champions may appear in those maps.
-*   Reward from the raffles can be obtained by up to 6 players, based on contribution.
-*   Each account can register up to 5 raffle entries per day.
+*   精英頭目不會出現在平均怪物等級低於 140 的地圖中。取而代之的是，精英冠軍可能會出現在那些地圖中。
+*   抽獎獎勵最多可由 6 名玩家根據貢獻度獲得。
+*   每個帳號每天最多可以註冊 5 次抽獎。

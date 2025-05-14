@@ -1,48 +1,48 @@
-# Pets
-## Table of Contents
-1.  **What is a pet?**
-2.  **Pet Level**
-3.  **Pet Skill**
-4.  **Multi Pet Buff Effect**
-## 1. What is a Pet?
+# 寵物
+## 目錄
+1.  **什麼是寵物？**
+2.  **寵物等級**
+3.  **寵物技能**
+4.  **多寵增益效果**
+## 1. 什麼是寵物？
 
-Pets are loyal companions that accompany you throughout your adventures in MapleStory N. They offer convenient support, such as **automatically picking up dropped NESO and items** during field monster hunting. You can also make pets use certain buff skills on your behalf.
+寵物是忠誠的夥伴，陪伴你度過楓之谷 N 中的冒險旅程。牠們提供便利的支援，例如在野外狩獵怪物時**自動撿拾掉落的楓幣和道具**。你也可以讓寵物代替你使用某些增益技能。
 
-Each character can equip up to 3 pets, and pets are categorized into Normal Pets and Multi Pets.
+每個角色最多可以裝備 3 隻寵物，寵物分為一般寵物和多重寵物。
 
-*   **Normal Pets** cannot be equiped with other normal pets.
-*   **Multi Pets** can be equipped with up to two other normal or multi pets.
-## 2. Pet Level
+*   **一般寵物**無法與其他一般寵物一起裝備。
+*   **多重寵物**最多可以與另外兩隻一般或多重寵物一起裝備。
+## 2. 寵物等級
 
-You can increase your Closeness with your pets by using pet commands and playing with it. As Closeness builds up, the pet level increases.
+你可以透過使用寵物指令並與寵物玩耍來增加你與寵物的親密度。隨著親密度的累積，寵物等級會提升。
 
-*   The higher the pet level, the more commands become available for use.
-## 3. Pet Skill
+*   寵物等級越高，可使用的指令就越多。
+## 3. 寵物技能
 
-Each pet comes with its own unique base skills, depending on its type.
+每隻寵物都擁有其獨特的基礎技能，具體取決於其種類。
 
-You can check which skills your pet has by hovering your mouse over the pet.
+你可以將滑鼠游標移到寵物身上來查看你的寵物擁有什麼技能。
 
-Pets may possess a variety of helpful skills, including:
+寵物可能擁有多種有用的技能，包括：
 
-|  | Auto Buff | When a skill is registered as an auto buff, the pet will automatically cast it. |
-|  | Pet Training | Trains the pet to better collect items and NESO on multi-level fields. |
-|  | Auto HP Potion | Automatically uses a registered HP potion when HP falls below the warning threshold. |
-|  | Auto MP Potion | Automatically uses a registered MP potion when MP falls below the warning threshold. |
-|  | Auto Pickup | Automatically picks up items and NESO within range, even when the character is not moving. |
-|  | NESO Pickup | Adds the ability to pick up NESO to pets that can only pick up items. |
-|  | Item Pickup | Adds the ability to pick up items to pets that can only pick up NESO. |
-|  | Expanded Movement | Expands the pet movement range by 3x. |
-|  | Pet Giant Skill | As you hunt level-range monsters, the pet gradually grows in size. When it reaches a certain size, it casts a mystical buff. |
-|  | Magnet Effect | The pet automatically pulls in items and NESO within its magnetic field range. |
+|  | 自動增益 | 當技能登錄為自動增益時，寵物會自動施放它。 |
+|  | 寵物訓練 | 訓練寵物以便在多層地形的狩獵場更有效地收集道具和楓幣。 |
+|  | 自動 HP 藥水 | 當 HP 低於警告閾值時，自動使用已登錄的 HP 藥水。 |
+|  | 自動 MP 藥水 | 當 MP 低於警告閾值時，自動使用已登錄的 MP 藥水。 |
+|  | 自動撿拾 | 即使角色沒有移動，也會自動撿拾範圍內的道具和楓幣。 |
+|  | 楓幣撿拾 | 為只能撿拾道具的寵物增加撿拾楓幣的能力。 |
+|  | 道具撿拾 | 為只能撿拾楓幣的寵物增加撿拾道具的能力。 |
+|  | 擴大移動範圍 | 將寵物移動範圍擴大 3 倍。 |
+|  | 寵物巨大化技能 | 當你狩獵等級範圍內的怪物時，寵物會逐漸變大。當牠達到一定大小時，會施放一個神秘的增益效果。 |
+|  | 磁鐵效果 | 寵物會自動將其磁場範圍內的道具和楓幣吸過來。 |
 
-| The threshold for auto HP/MP potion usage can be configured via [Setting] > [Option] > [Notification Setting] or through [Equipment Window] > [Pet] > [Potion Use].To set a Pet Buff Skill, open your Skill Window, then drag a desired buff skill into the Pet Equipment window at the bottom to enable automatic casting. |
+| 自動 HP/MP 藥水使用的閾值可以透過 [設定] > [選項] > [通知設定] 或透過 [裝備視窗] > [寵物] > [藥水使用] 來設定。若要設定寵物增益技能，請開啟你的技能視窗，然後將想要的增益技能拖曳到底部的寵物裝備視窗中以啟用自動施放。 |
 
-## 4. Multi Pet Buff Effect
-*   The more pets a character has equipped, the more additional buffs it receives.
-*   However, only Multi Pets provide these stat buff effects — Normal Pets do not grant any additional buffs.
-*   Even if the equipped Multi Pets are of different types, the buff effects are still applied based on the number of Multi Pets that a character is equipped with.
+## 4. 多寵增益效果
+*   角色裝備的寵物越多，獲得的額外增益效果就越多。
+*   然而，只有多重寵物才能提供這些能力值增益效果——一般寵物不會提供任何額外增益效果。
+*   即使裝備的多重寵物種類不同，增益效果仍然根據角色裝備的多重寵物數量來套用。
 
-| Level 1 Buff Effect | 1 Multi Pets equipped | Attack Power / Magic Attack +3 |
-| Level 2 Buff Effect | 2 Multi Pets equipped | Attack Power / Magic Attack +14 |
-| Level 3 Buff Effect | 3 Multi Pets equipped | Attack Power / Magic Attack +30 |
+| 等級 1 增益效果 | 裝備 1 隻多重寵物 | 攻擊力 / 魔法攻擊 +3 |
+| 等級 2 增益效果 | 裝備 2 隻多重寵物 | 攻擊力 / 魔法攻擊 +14 |
+| 等級 3 增益效果 | 裝備 3 隻多重寵物 | 攻擊力 / 魔法攻擊 +30 |

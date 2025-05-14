@@ -1,67 +1,67 @@
-# Honor EXP
-## Table of content
-1.  **What is Honor EXP?**
-2.  **How to Check Your Honor EXP**
-3.  **What are Abilities?**
-4.  **Honor EXP Exchange Shop**
-5.  **Honor EXP Exchange Shop Item List**
-## 1. What is Honor EXP?
+# 名譽經驗值
+## 目錄
+1.  **什麼是名譽經驗值？**
+2.  **如何查看你的名譽經驗值**
+3.  **什麼是潛能？**
+4.  **名譽經驗值交換商店**
+5.  **名譽經驗值交換商店物品清單**
+## 1. 什麼是名譽經驗值？
 
-Honor EXP is a type of point that can be earned by hunting normal monsters, elite monsters, and boss monsters.
+名譽經驗值是一種可以透過狩獵一般怪物、精英怪物和BOSS怪物獲得的點數。
 
-*   When hunting normal or elite monsters, Honor EXP is earned randomly.
-*   When defeating boss monsters, Honor EXP is guaranteed.
-## 2. How to Check Your Honor EXP
-*   Press the shortcut key \[Default: S\] key in-game to open your Character Stats window.
-*   You can view your current Honor EXP amount in the bottom-right corner under UNIQUE ABILITY – HONOR EXP.
+*   狩獵一般或精英怪物時，隨機獲得名譽經驗值。
+*   擊敗BOSS怪物時，保證獲得名譽經驗值。
+## 2. 如何查看你的名譽經驗值
+*   在遊戲中按下快捷鍵（預設：S）打開你的角色狀態視窗。
+*   你可以在右下角的「特殊潛能 - 名譽經驗值」下查看目前的名譽經驗值數量。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236308104_281.png)
 
-## 3. What are Abilities?
+## 3. 什麼是潛能？
 
-Your character has special hidden abilities.
+你的角色擁有特殊的隱藏潛能。
 
-Once you reach Lv. 50, you can unlock these abilities by completing the quest 'The Eye Opener' via the Star Event notifier. After completing the quest, you can check your character's abilities by pressing the “Details” button in the Character Stats window (shortcut key \[Default: S\]).
+達到50級後，可以透過星星活動通知器完成「睜開雙眼」任務來解鎖這些潛能。完成任務後，可以按下角色狀態視窗（快捷鍵（預設：S））中的「詳細」按鈕來查看角色的潛能。
 
-The stats and values of abilities vary depending on the level of the ability, and they can be reset.
+潛能的數值和效果會根據潛能等級而有所不同，並且可以重設。
 
-### 3.1. Resetting Abilities
+### 3.1. 重設潛能
 
-Abilities can be reset by using 100 points of Honor EXP. Stats that you do not wish to reset can be locked so that only unlocked stats will be reset. However, you must also lock the rank to lock the stats, and locking ranks and stats increases the Honor EXP required for the reset.
+可以使用100點名譽經驗值來重設潛能。不想重設的數值可以鎖定，這樣就只會重設未鎖定的數值。但是，鎖定數值前必須先鎖定階級，鎖定階級和數值會增加重設所需的名譽經驗值。
 
-Ranks can be locked starting from Unique.
+階級可以從罕見開始鎖定。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236308104_529.png)
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236308104_592.png)
 
-## 4. Honor EXP Exchange Shop
+## 4. 名譽經驗值交換商店
 
-The Honor EXP Exchange Shop allows you to exchange Honor EXP for in-game items.
+名譽經驗值交換商店讓你可以用名譽經驗值交換遊戲內物品。
 
-*   You can access the shop after reaching Level 30 and completing the “About the Honor EXP Exchange Shop” quest via the Event Notifier.
-*   The shop is available through NPC Anolo located in each town.
-*   All items in the Honor EXP Shop are Local items.
-*   Your character’s current Honor EXP balance is displayed on the right side of the shop UI.
+*   達到30級並透過活動通知器完成「關於名譽經驗值交換商店」任務後即可使用商店。
+*   可以透過位於各個城鎮的NPC Anolo來使用商店。
+*   名譽經驗值商店中的所有物品都是本地物品。
+*   角色目前的名譽經驗值餘額顯示在商店使用者介面的右側。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236308104_126.png)
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236308104_508.png)
 
-## 5. Honor EXP Exchange Shop Item List
+## 5. 名譽經驗值交換商店物品清單
 
-| Sprout Potion | 2 |  |
-| Return Scroll – Nearest Town | 5 |  |
-| Power Elixir | 10 |  |
-| All Cure Potion | 5 |  |
-| Safety Charm | 1,500 |  |
-| Hyper Megaphone | 10,000 | 7-day expiration periodUp to 5 purchases allowed |
-| Fresh Snow | 3,000 |  |
-| Sprinkled Flowers | 3,000 |  |
-| Soap Bubbles | 3,000 |  |
-| Snowflakes | 3,000 |  |
-| Sprinkled Presents | 3,000 |  |
-| Sprinkled Chocolate | 3,000 |  |
-| Sprinkled Flower Petals | 3,000 |  |
-| Sprinkled Candy | 3,000 |  |
-| Sprinkled Maple Leaves | 3,000 |  |
+| 嫩芽藥水 | 2 |  |
+| 返回卷軸 - 最近的城鎮 | 5 |  |
+| 超級藥水 | 10 |  |
+| 万能藥水 | 5 |  |
+| 護身符 | 1,500 |  |
+| 超級擴音器 | 10,000 | 7天有效期限 最多可購買5個 |
+| 新雪 | 3,000 |  |
+| 灑花 | 3,000 |  |
+| 肥皂泡 | 3,000 |  |
+| 雪花 | 3,000 |  |
+| 灑禮物 | 3,000 |  |
+| 灑巧克力 | 3,000 |  |
+| 灑花瓣 | 3,000 |  |
+| 灑糖果 | 3,000 |  |
+| 灑楓葉 | 3,000 |  |

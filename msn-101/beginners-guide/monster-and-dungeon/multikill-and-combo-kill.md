@@ -1,47 +1,47 @@
-# Multikill & Combo Kill
-## Table of Contents
-1.  **What is Multikill?**
-2.  **What is Combo Kill?**
-## 1. What is Multikill?
+# 多重擊殺與連擊擊殺
+## 目錄
+1.  **什麼是多重擊殺？**
+2.  **什麼是連擊擊殺？**
+## 1. 什麼是多重擊殺？
 
-A Multikill occurs when you defeat 3 or more monsters at once.
+當您一次擊敗 3 隻或更多怪物時，就會發生多重擊殺。
 
-The number of your multikills appears at the top of the screen, and you gain bonus EXP based on how many multikills you have.
+您的多重擊殺次數會顯示在畫面頂端，並且根據您的多重擊殺次數獲得額外經驗值。
 
-*   Your Multikill number can increase up to a maximum of 10.
+*   您的多重擊殺次數最多可增加至 10 次。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236347039_487.png)
 
-**\* EXP bonus based on the number of Multikills**
+**\* 根據多重擊殺次數的經驗值加成**
 
-| 3 kills | +1% |
-| 4 kills | +2% |
-| 5 kills | +3% |
-| 6 kills | +3.3% |
-| 7 kills | +3.6% |
-| 8 kills | +3.9% |
-| 9 kills | +4.2% |
-| 10+ kills | +4.5% |
+| 3 殺 | +1% |
+| 4 殺 | +2% |
+| 5 殺 | +3% |
+| 6 殺 | +3.3% |
+| 7 殺 | +3.6% |
+| 8 殺 | +3.9% |
+| 9 殺 | +4.2% |
+| 10+ 殺 | +4.5% |
 
-## 2. What is Combo Kill?
+## 2. 什麼是連擊擊殺？
 
-A Combo Kill occurs when you kill monsters continuously without long pauses.
+當您連續擊殺怪物且中間沒有長時間停頓時，就會發生連擊擊殺。
 
-Every time you reach 50 Combo Kills, a Combo Kill Orb will be generated, which grants bonus EXP.
+每當您達到 50 次連擊擊殺時，就會產生一個連擊擊殺珠，它會提供額外經驗值。
 
-You can accumulate up to 9,999 Combo Kills. When a Combo Kill Orb is created, your character gains EXP based on the current combo count and gains a temporary speed boost.
+您最多可以累積 9,999 次連擊擊殺。當產生連擊擊殺珠時，您的角色會根據目前的連擊次數獲得經驗值，並獲得暫時的速度提升。
 
-*   Combo Kill Orbs can upgrade up to Level 4 depending on your accumulated combos, and each level provides greater EXP.
+*   連擊擊殺珠最多可以根據您累積的連擊次數升級到等級 4，每個等級都會提供更多經驗值。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236347039_946.png)
 
-#### Combo Kill Orb bonus EXP based on Combo Count
+#### 根據連擊次數的連擊擊殺珠額外經驗值
 
-| 50-300 Combos | Normal monster base EXP 500% |
-| 350-700 Combos | Normal monster base EXP 700% |
-| 750-1950 Combos | Normal monster base EXP 1,000% |
-| 2000+ Combos | Normal monster base EXP 1,100% |
+| 50-300 連擊 | 普通怪物基本經驗值 500% |
+| 350-700 連擊 | 普通怪物基本經驗值 700% |
+| 750-1950 連擊 | 普通怪物基本經驗值 1,000% |
+| 2000+ 連擊 | 普通怪物基本經驗值 1,100% |
 
-*   Combo count increases based on the number of skills used to defeat monsters, not the number of monsters killed.
-*   Combo Kill count persists for a certain amount of time even if you change maps. During Bounty Hunter or Inferno Wolf, combos remain for up to 20 seconds after exiting.
-*   Your Combo Kill Orbs are visible only to you, and you must touch them within 1 minute to gain EXP.
+*   連擊次數的增加取決於用來擊敗怪物的技能使用次數，而非擊殺的怪物數量。
+*   即使您變更地圖，連擊擊殺次數仍會持續一段時間。在賞金獵人或烈焰戰狼期間，連擊在離開後最多可維持 20 秒。
+*   您的連擊擊殺珠只有您自己看得到，您必須在 1 分鐘內觸碰它們才能獲得經驗值。

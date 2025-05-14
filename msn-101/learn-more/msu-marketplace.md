@@ -1,372 +1,362 @@
-# MSU Marketplace
-## Table of Contents
-1.  **What is MSU Marketplace?**
-2.  **How to bring items/characters into MSU Marketplace**
-3.  **How to purchase from MSU Marketplace**
-4.  **What is Bid?**
-5.  **Using Inventory Tab**
-## 1. What is MSU Marketplace?
+# MSU 市集
 
-MSU Marketplace is a platform where Maplers can buy or sell NFT items, characters, and FT items to enhance their gameplay experience.
+MSU 市集是一個平台，您可以在此交易楓之谷宇宙 (MapleStory Universe) 中的所有物品，包括 NFT 物品、角色和 FT (Fungible Token，同質化代幣) 物品。
 
-![](images/msn-101/learn-more/image_1747236428026_277.png)
+![](images/msn-101/learn-more/image_1747236428026_81.png)
 
-**Components of MSU Marketplace**
+## 目錄
 
-MSU Marketplace is composed of the following sections:
+1.  **什麼是 MSU 市集？**
+2.  **MSU 市集主儀表板**
+3.  **MSU 市集交易功能**
+4.  **什麼是出價 (Bid)？**
+5.  **使用道具欄分頁**
 
-1.  **Main Screen**: Overview of in-game item listings and the trading status of the MSU Marketplace.
-2.  **Tabs for Purchases**: Use the “NFT Items”, “Characters”, and “FT Items” tabs to browse available items.
-3.  **Bid**: Submit a price proposal if your desired item is unavailable or listed at an undesired price.
-4.  **Search Ba**r: Quick search for specific items by keyword.
-5.  **Inventory**: View and manage your in-game items, including those you own, have listed, bookmarked, or made/received offers on. You can also view your trading history here.
-### 1.1. Main Screen
+## 1. 什麼是 MSU 市集？
 
-On the Main Screen, you can check the overall activity status of the MSU Marketplace through the following data:
+MSU 市集是楓之谷宇宙 (MapleStory Universe) 中交易物品的地方，例如 NFT 物品、角色和 FT 物品。
 
-*   **Total Listing**s: Cumulative number of in-game items listed
-*   **Total Active Wallets**: Cumulative number of wallets that have accessed services in the MapleStory Universe
-*   **Total Sales**: Total number of transactions made
-*   **Total Trading Volume**: Cumulative transaction volume in NESO
+您必須將您的錢包連接到楓之谷宇宙 (MapleStory Universe) Web 才能使用市集。
 
-Scroll down to see highlighted rankings:
+## 2. MSU 市集主儀表板
 
-*   **Record-breaking Sales**: Top 3 in-game items sold for the highest prices.
-*   **Recent Sales**: The 20 most recently listed NFT items
-*   **Recent Listings**: The 20 most recently added items
-*   **Top Traders**: Maplers ranked by trading volume
-### 1.2. Tabs for Purchases
+在 MSU 市集的主儀表板上，您可以一目了然地查看鏈上和鏈下物品的全面概覽。
 
-In the “NFT Items,” “Characters”, and “FT Items” tabs, you can buy and sell NFT items, characters, and FT items respectively.
+### 2.1. 頂端選單
 
-※ For more details about how to buy these items, please refer to the \[[3\. How to purchase from MSU Marketplace](/msn-101/learn-more/msu-marketplace#id-3.-how-to-purchase-from-msu-marketplace)\] section.
+*   **NFT 物品：** 導向 NFT 物品交易頁面
+*   **角色：** 導向角色交易頁面
+*   **FT 物品：** 導向 FT 物品交易頁面
+*   **出價 (Bid)：** 導向出價 (Bid) 交易頁面
+*   **道具欄：** 導向您的道具欄，您可以在其中查看您擁有的所有物品和角色
+*   **搜尋列：** 輸入物品名稱、角色名稱或使用者名稱以搜尋相關資訊
 
-### 1.3. Bid
+### 2.2. 主儀表板概覽
 
-In the “Bid” section, you can propose your desired price and quantity for specific NFT items. If a seller accepts, the transaction is made. This reverses the usual listing format; you propose the deal, and a seller may choose to accept it.
+在「資訊」分頁下，會顯示下列指標：
 
-※ Only in-game NFT items are supported in the “Bid” section.
+#### 2.2.1. 資訊分頁
 
-### 1.4. Search Bar
+*   **唯一活躍錢包：** 至少登入過任何 MSU 服務一次的帳戶數量
+*   **交易：** 楓之谷宇宙 (MapleStory Universe) 服務中的鏈上交易總數
+*   **MSU 市集交易量：** 迄今為止的累計交易量
 
-Use the search bar at the top of the page to quickly search items.
+![](images/msn-101/learn-more/image_1747236428026_97.png)
 
-### 1.5. Inventory
+#### 2.2.2. 最近上架的物品
 
-In “Inventory”, you can manage items held in your Wallet Inventory. It includes:
+您可以查看**最近上架的 5 個物品**。
 
-*   **Owned**: Items you currently hold.
-*   **On Sale**: Items you have listed for sale
-*   **Bookmark**: Items you’ve bookmarked
-*   **Activity**: Your transaction history
-## 2. How to bring items/characters into MSU Marketplace
+*   對於每個物品，您可以查看其圖片、名稱、唯一 ID、NESO 價格及其等值的美元金額。
+*   點擊物品將會將您重新導向至其**詳細資訊頁面**。
 
-To bring in-game items or characters obtained in-game into the MSU Marketplace, follow the steps below:
+![](images/msn-101/learn-more/image_1747236428026_540.png)
 
-### 2.1 Items
-*   Minting
-    *   Mint the item obtained in-game.
-*   Moving to Wallet Inventory
-    *   Drag or double-click the minted item to transfer it from your character inventory to your Wallet Inventory.
-*   Checking in Inventory
-    *   Visit the MSU Marketplace and find the item listed in your “Inventory” tab.
+#### 2.2.3. 最近交易的物品
 
-※ Only items marked with “m” in the bottom right corner are mintable. Items marked with an “L” cannot be minted.
+您可以查看**最近交易的 5 個物品**。
 
-### 2.2 Characters
+*   對於每個物品，您可以查看其圖片、名稱、唯一 ID、NESO 價格及其等值的美元金額。
+*   點擊物品將會將您重新導向至其**詳細資訊頁面**。
 
-Characters can only be listed if they are unlinked from MapleStory N.
+![](images/msn-101/learn-more/image_1747236428026_869.png)
 
-*   If the character you want to sell is linked, unlink it first via the character selection screen.
-*   Then, go to the “Owned” tab in your Inventory to confirm it is ready for sale.
-## 3. How to purchase from MSU Marketplace
+#### 2.2.4. 熱門物品
 
-To buy NFT items, characters, or FT items:
+您可以查看**交易量最高的 5 個物品**。
 
-*   Use the search bar or browse through the “NFT Items”, “Characters”, or “FT Items” pages.
+*   排名期間可以選擇 **7 天、30 天**或**全部**。
+*   對於每個物品，您可以查看其圖片、名稱、唯一 ID、NESO 價格及其等值的美元金額。
+*   點擊物品將會將您重新導向至其**詳細資訊頁面**。
 
-※ You cannot make a purchase if your NESO balance is insufficient or if the item price is below the minimum trade amount (0.000001 NESO).
+![](images/msn-101/learn-more/image_1747236428026_284.png)
 
-※ Listing items is free, but transaction fees are automatically deducted from the sale amount upon purchase or offer acceptance.
+## 3. MSU 市集交易功能
 
-![](images/msn-101/learn-more/image_1747236428026_245.png)
+MSU 市集支援下列三種交易類型：
 
-*   You can check the transaction fee during the listing or offer process.
-### 3.1. NFT Items
+1.  **NFT 物品**
+2.  **角色**
+3.  **FT 物品**
 
-![](images/msn-101/learn-more/image_1747236428026_695.png)
+### 3.1. NFT 物品交易
 
-On the “NFT Items” page, you can use filters to narrow down your search:
+在「NFT 物品」分頁中，您可以交易 NFT 化的裝備和裝飾物品。
 
-*   **Price range**: Set minimum and maximum price.
-*   **Unique Number**: The sequential number assigned upon minting, indicating the order in which the item was minted in MapleStory Universe.
-*   **Item Type**: Filter by All, Weapon, Armor, Decoration, Utility, or Set-up.
-    *   If you select “All”, “Weapon” or “Armor”, additional filters are available:
+#### 3.1.1. 搜尋與篩選
 
-![](images/msn-101/learn-more/image_1747236428026_689.png)
+在「NFT 物品」分頁的左側，您可以使用篩選器和搜尋列來尋找您想要的物品。
 
-*   **Class:** Warrior, Magician, Bowman, Thief, Pirate
-*   **Potential / Bonus Potential Rank:** The ranking of potential and bonus potential for the item, ranging from No Potential to Legendary
-*   **Level Range:** The range of levels at which the item can be equipped
-*   **Star Force:** The Star Force level of the item
-    *   For Weapon and Armor, you can apply Advanced Search:
+*   **搜尋列：** 輸入物品的確切名稱。
+*   **篩選器：**
+    *   **物品狀態：**
+        *   全部 – 顯示所有物品
+        *   出售中 – 僅顯示目前正在出售的物品
+        *   已售罄 – 顯示已售出的物品
+    *   **職業：**
+        *   您可以依職業（例如戰士、法師、弓箭手、盜賊和海盜）篩選物品。
+    *   **類別：**
+        *   您可以依物品類別（例如武器、帽子、披風、手套和鞋子）篩選物品。
+    *   **價格：**
+        *   您可以設定價格範圍 (NESO) 以篩選物品。
+    *   **排序方式：**
+        *   價格：低到高
+        *   價格：高到低
+        *   結束日期：快到期
+        *   最近上架
+        *   銷售次數：高到低
+        *   最近售出
+        *   字母順序
+        *   最近更新
 
-![](images/msn-101/learn-more/image_1747236428026_786.png)
+※ 套用篩選器後，點擊「重設」按鈕以清除所有篩選器。
 
-*   **History**: Enter a character name to view item achievement history that is associated with that character
-*   **Advanced Search**: Filter by up to 5 potential stats, bonus potential stats, and basic stats to refine your search
+![](images/msn-101/learn-more/image_1747236428026_390.png)
 
-After setting the filters, use the “Save Filter” button under the “Search” button to save your settings for future use.
+#### 3.1.2. NFT 物品狀態
 
-You can easily reapply saved filters whenever you want to search with the same criteria.
+以下是 MSU 市集中 NFT 物品的各種狀態：
 
-![](images/msn-101/learn-more/image_1747236428026_704.png)
+1.  **基本狀態**
+    *   **最近上架：** 過去 24 小時內上架的物品
+    *   **熱門：** 收藏次數最多的物品
+    *   **快結束：** 銷售期間剩下不到 24 小時的物品
+2.  **銷售狀態**
+    *   **出售中：** 顯示物品的 NESO 價格
+    *   **已售罄：** 表示物品已售出
+3.  **出價狀態**
+    *   **出價：** 表示物品目前正在接受出價
+        *   當您對某個物品出價時，您的出價將顯示在出價清單中。
+        *   如果您的出價是最高出價，它將顯示在物品詳細資訊頁面。
+        *   如果賣家接受您的出價，交易將完成。
+        *   如果您想查看已出價的物品，請前往「道具欄」>「出價」>「已傳送的出價」。
+        *   如果您想查看對您上架物品提出的出價，請前往「道具欄」>「出價」>「收到的出價」。
 
-When you click an item from the equipment item list, the item detail page shows:
+#### 3.1.3. 物品詳細資訊頁面
 
-![](images/msn-101/learn-more/image_1747236428026_705.png)
+點擊某個物品將會將您重新導向至其詳細資訊頁面。
 
-*   **Item image** and **equip preview** (login required to preview equipped look)
-*   **Item price**
-*   **Item sale end time** and **time remaining** until sale ends
-*   **Seller's username** (Clicking the username will take you to that user's inventory page)
-*   **Item name** and **category**
-*   **Item equip requirements**
-*   **Item details**
-*   **Transaction history** (Use the dropdown menu to view the trade history of the selected item and of identical items)
+在詳細資訊頁面，您可以找到下列資訊：
 
-At the bottom of the item page, you can click “Details” section to open the Navigator for more information.
+*   **銷售結束倒數計時器**
+*   **物品資訊：** 物品的圖片、名稱、唯一 ID 和描述
+*   **能力值：** 物品的能力值，包括攻擊力、防禦力、潛能等
+*   **交易歷史記錄：** 物品的交易歷史記錄，包括買家、賣家、價格和日期
+*   **出價歷史記錄：** 對物品提出的出價歷史記錄，包括出價者、價格和日期
 
-### 3.2. Characters
+![](images/msn-101/learn-more/image_1747236428026_28.png)
 
-![](images/msn-101/learn-more/image_1747236428026_36.png)
+### 3.2. 角色交易
 
-On the “Characters” page, you can refine results with the following filters:
+在「角色」分頁中，您可以交易 NFT 化的角色。
 
-*   **Price Range**: Set minimum and maximum price
-*   **Class**: Warrior, Magician, Bowman, Thief, Pirate
-*   **Level Range**: Specify the level range of the character
+※ 「角色」分頁的功能與「NFT 物品」分頁的功能幾乎相同。
 
-Selecting a character opens a detail page that shows:
+![](images/msn-101/learn-more/image_1747236428026_746.png)
 
-![](images/msn-101/learn-more/image_1747236428026_339.png)
+### 3.3. FT 物品交易
 
-*   **Character Profile Image**
-*   **Character price**
-*   **Sale End Time** and **Time Remaining Until Sale Ends**
-*   **Seller’s Username** (Clicking the username redirects you to the seller’s Inventory Page)
-*   **Character Name**
-*   **Basic Info**: Level, Job, Fame, etc.
-*   **Detailed Stat Information**
-*   **Equipped Items**
-*   **Price Offer Information**
-*   **Recent Activity History**
+在「FT 物品」分頁中，您可以交易 FT 物品。
 
-Scroll to the bottom of the page to view the “Details” section and access the Navigator for more info.
+在「FT 物品」分頁中，您可以查看：
 
-### 3.3. FT Items
-
-![](images/msn-101/learn-more/image_1747236428026_379.png)
-
-On the “FT Items” page, the list on the left shows consumable items currently available for purchase. Clicking an item reveals:
-
-*   **Available Listings**: Current ask prices
-*   **Trade History**: Past transaction records
-*   **Price History**: Daily highest, lowest, and average prices
-*   **My Listings**: FT items you have listed for sale. Use the dropdown at the top-right of the “My Listings” section to view bid listings for selected or all items.
+*   **可購買上架：** 目前賣方的報價
+*   **交易歷史記錄：** 過去的交易記錄
+*   **價格歷史記錄：** 每日最高、最低和平均價格
+*   **我的上架：** 您已上架出售的 FT 物品。使用「我的上架」區塊右上角的下拉式選單查看所選或所有物品的出價上架情況。
 
 ![](images/msn-101/learn-more/image_1747236428026_275.png)
 
-※ Only sellers can propose prices. Buyers input a quantity, and the system auto-matches it to the lowest price available and compete the purchase.
+※ 只有賣家可以提出價格。買家輸入數量，系統會自動將其與可用的最低價格進行配對並完成購買。
 
-From “Activity History”, you can select either a 7-day or 30-day period to view the average daily activity price.
+在「活動歷史記錄」中，您可以選擇 7 天或 30 天的期間來查看每日平均活動價格。
 
-*   Hover over the price graph to see the highest, lowest, average prices, along with the trading volumes for that day.
+*   將滑鼠懸停在價格圖表上即可查看該日的最高、最低、平均價格以及交易量。
 
-**Important Information on FT Items' Price & Purchase Quantity**
+**FT 物品價格與購買數量重要資訊**
 
-*   When purchasing FT items, the system automatically buys from the lowest-priced listings in order, including gas fees.
-*   The estimated price updates every 5 seconds, so the lowest price may change after each update.
-*   A single purchase can involve up to 5 sellers only.
-    *   Example: If 10 sellers each list 1 Power Elixir, and you input a quantity of 10, the system will automatically adjust your purchase to a maximum of 5, drawing from 5 sellers only. To purchase more, you will need to place a new order.
-### 3.4. Items not available for activities on MSU Marketplace
+*   購買 FT 物品時，系統會自動依序從價格最低的上架商品開始購買，包括燃料費。
+*   預估價格每 5 秒更新一次，因此最低價格可能會在每次更新後發生變化。
+*   單次購買最多只能涉及 5 位賣家。
+    *   範例：如果 10 位賣家各上架 1 個強力藥水，而您輸入數量為 10，系統會自動將您的購買調整為最多 5 個，僅向 5 位賣家購買。若要購買更多，您需要下新訂單。
+### 3.4. MSU 市集上無法進行活動的物品
 
-Some items cannot be traded on the MSU Marketplace:
+有些物品無法在 MSU 市集上交易：
 
-*   Items marked with "L" displayed on the bottom right cannot be minted or moved to Wallet Inventory
-*   Items labeled "Currently in Use" are in use in MapleStory N and cannot be traded or offered
-*   Items labeled "Discarded" are discarded in-game items and cannot be traded
-*   Items labeled “Burned” are burned on-chain and cannot be traded.be traded
-*   If the wallet holding an item is not linked to MapleStory Universe, the item will display a wallet address instead of a username
-*   Items marked with an “S” icon are Soulbound Tokens(SBTs) and cannot be traded
-### 3.5. Using Offer functionality for Purchase
+*   右下角標有「L」的物品無法鑄造或移至錢包道具欄
+*   標示為「目前使用中」的物品正在楓之谷 N (MapleStory N) 中使用，無法交易或出價
+*   標示為「已丟棄」的物品是遊戲中已丟棄的物品，無法交易
+*   標示為「已銷毀」的物品已在鏈上銷毀，無法交易。
+*   如果持有物品的錢包未連結至楓之谷宇宙 (MapleStory Universe)，該物品將顯示錢包地址而非使用者名稱
+*   標有「S」圖示的物品是靈魂綁定代幣 (SBT)，無法交易
+### 3.5. 使用出價功能進行購買
 
-You can use “Offer” to negotiate the purchase price for NFT items.
+您可以使用「出價」來協商 NFT 物品的購買價格。
 
-#### 3.5.1. Offer Procedures
-1.  Hover over an item and click the “Offer” button or go to the item detail page and click “Offers.”
+#### 3.5.1. 出價程序
+1.  將滑鼠懸停在物品上並點擊「出價」按鈕，或前往物品詳細資訊頁面並點擊「出價」。
 
 ![](images/msn-101/learn-more/image_1747236428026_336.png)
 
-1.  Enter your desired price in the popup window and click “Make an Offer”.
+2.  在彈出視窗中輸入您想要的價格，然後點擊「提出出價」。
 
 ![](images/msn-101/learn-more/image_1747236428026_425.png)
 
-To view your offer activity:
+若要查看您的出價活動：
 
-*   Go to “Inventory” > “Offers” > “Offers Sent” to see the items or characters you have made offers on.
-*   Go to “Inventory” > “Offers” > “Offers Received” to see offers made on your listed items or characters.
-#### 3.5.2 Offer Policy Notes
-*   Only the top 5 highest offers are visible to the seller. If multiple offers are made at the same price, the one submitted earlier will be shown first.
-*   When an offer from the top 5 expires, is accepted, or is canceled, the next highest offer will appear.
-*   If your offer is not visible, it is either not in the top 5 or was submitted later at the same price.
-*   To change an offer already made on an item, cancel the previous one and submit a new offer.
-*   If there is an item you really want to purchase, check the “Offers” list on the item detail page and make a competitive offer.
-*   If your NESO balance drops below your offer amount, your offer will be automatically canceled.
-    *   If you have made an offer on an item you wish to purchase, be sure to manage your NESO balance accordingly.
-*   Notifications will be sent when your offer is accepted or canceled.
-*   You will also receive a notification if your listed item receives the top offer.
-## 4. What is Bid?
+*   前往「道具欄」>「出價」>「已傳送的出價」以查看您已出價的物品或角色。
+*   前往「道具欄」>「出價」>「收到的出價」以查看對您上架物品或角色提出的出價。
+#### 3.5.2 出價政策注意事項
+*   賣家只能看到前 5 個最高的出價。如果多個出價價格相同，則較早提交的出價會優先顯示。
+*   當前 5 個出價之一到期、被接受或被取消時，下一個最高的出價將會出現。
+*   如果您的出價不可見，則表示它不在前 5 名中，或者是以相同價格較晚提交的。
+*   若要變更已對某物品提出的出價，請取消先前的出價並提交新的出價。
+*   如果您非常想購買某個物品，請查看物品詳細資訊頁面上的「出價」清單並提出有競爭力的出價。
+*   如果您的 NESO 餘額低於您的出價金額，您的出價將自動取消。
+    *   如果您已對希望購買的物品提出出價，請務必相應地管理您的 NESO 餘額。
+*   當您的出價被接受或取消時，將會傳送通知。
+*   如果您的上架物品收到最高出價，您也會收到通知。
+## 4. 什麼是出價 (Bid)？
 
 ![](images/msn-101/learn-more/image_1747236428026_80.png)
 
-Unlike the “NFT Items”, “Characters”, and “FT Items” tabs, the “**Bid**” section allows Maplers to propose their desired price and quantity for an item, regardless of its stats. Sellers may then choose to fulfill the bid.
+與「NFT 物品」、「角色」和「FT 物品」分頁不同，「**出價 (Bid)**」區塊允許楓之谷玩家們針對物品提出他們想要的價格和數量，無論其能力值為何。然後，賣家可以選擇完成該出價。
 
-※ Only price and quantity can be selected when using the Bid system. If you want to purchase an item with specific stats, use the “NFT Items” tab instead.
+※ 使用出價系統時只能選擇價格和數量。如果您想購買具有特定能力值的物品，請改用「NFT 物品」分頁。
 
-In the “Bid” tab, buyers can register the items they wish to purchase, and sellers can search for items they wish to sell using the search bar.
+在「出價 (Bid)」分頁中，買家可以註冊他們希望購買的物品，而賣家可以使用搜尋列搜尋他們希望出售的物品。
 
-※ Not all items are available for Bid transactions. Only selected items may be traded through the Bid system.
+※ 並非所有物品都可進行出價交易。只有選定的物品可以透過出價系統進行交易。
 
-### 4.1. How to Place a Bid
+### 4.1. 如何出價
 
-If there is an item you want to buy, follow these steps:
+如果您想購買某個物品，請依照下列步驟操作：
 
-1.  Enter the quantity and unit price of the item you would like to buy into the “**Place Bid**” field.
+1.  在「**出價 (Place Bid)**」欄位中輸入您想購買物品的數量和單價。
 
 ![](images/msn-101/learn-more/image_1747236428026_713.png)
 
-1.  Click the “Order” button and check your bid in the list on the left side of the page.
-2.  If another Mapler accepts your bid, the transaction is completed immediately. You can view the result in the “Trade History” section or in “Inventory” > “Activity”.
-3.  Use the dropdown at the top-right of the “My Order” section to view all of your registered bids.
+2.  點擊「訂購」按鈕，並在頁面左側的清單中查看您的出價。
+3.  如果其他楓之谷玩家接受您的出價，交易將立即完成。您可以在「交易歷史記錄」區塊或「道具欄」>「活動」中查看結果。
+4.  使用「我的訂單」區塊右上角的下拉式選單查看所有已註冊的出價。
 
-※ Bid orders are valid indefinitely unless canceled in “My Order.”
+※ 出價訂單在「我的訂單」中有效，除非在「我的訂單」中取消。
 
-※ Bid history can only be viewed during the active bid period.
+※ 出價歷史記錄只能在出價期間查看。
 
-※ The total bid amount (including Offers) cannot exceed your NESO balance.
+※ 出價總額（包括出價）不能超過您的 NESO 餘額。
 
 ![](images/msn-101/learn-more/image_1747236428026_306.png)
 
-### 4.2. How to Sell to a Bid
+### 4.2. 如何賣給出價
 
 ![](images/msn-101/learn-more/image_1747236428026_659.png)
 
-You can search the bid list for your desired price and proceed to sell an item.
+您可以搜索出價清單以找到您想要的價格並進行出售。
 
-*   Only one item may be sold at a time
-*   Sales can only be completed if there is a matching buy order at the exact price.
-*   Refresh the page to check the latest bid matches and order status.
+*   一次只能出售一個物品
+*   只有在存在匹配的購買訂單且價格完全匹配時才能完成交易。
+*   刷新頁面以檢查最新的出價匹配和訂單狀態。
 
-If you want to sell an item, follow these steps:
+如果您想出售物品，請依照下列步驟操作：
 
-1.  Input the price you wish to sell at from the bid list and click “Sell”.
-2.  Select the item you want to sell from the list.
+1.  從出價清單中輸入您想出售物品的價格，然後點擊「出售」。
+2.  從清單中選取您要出售的物品。
 
 ![](images/msn-101/learn-more/image_1747236428026_90.png)
 
-1.  Once selected, proceed with the sale.
+3.  選取後，繼續進行交易。
 
-※ Once a sale is initiated, it cannot be retracted. If you have multiple identical items, make sure to double-check the item’s status before selling.
+※ 一旦交易開始，就無法撤銷。如果您有多個相同的物品，請確保在出售前檢查物品狀態。
 
-Would you like to save items for later?
+您想保存物品以供日後使用嗎？
 
-Click the “💚” button at the top of the item card in the left-hand item list to bookmark them. You can manage bookmarked items in a dedicated tab.
+點擊左側物品清單中物品卡片頂部的「書籤」按鈕以將其加入書籤。您可以在專門的書籤分頁中管理已加入書籤的物品。
 
 ![](images/msn-101/learn-more/image_1747236428026_745.png)
 
-### 4.3 Bid Cancellation Conditions
+### 4.3 出價取消條件
 
-If NESO is used for other purchases outside the “Bid” tab, (e.g., to purchase items) and your NESO balance falls short of your active bid, any bid that exceeds the balance will be automatically canceled.
+如果 NESO 用於其他購買（例如購買物品），而您的 NESO 餘額不足以支付您的活動出價，則任何超出餘額的出價將自動取消。
 
-*   In this case, the entire bid is canceled, not just the portion that exceeds the balance.
-*   If there are multiple bids at the same price, the most recently submitted bid is canceled first.
-## 5. Using Inventory Tab
-### 5.1. What is the Owned tab in Inventory?
+*   在這種情況下，整個出價都會被取消，而不僅僅是超出餘額的部分。
+*   如果有多個相同價格的出價，則最新提交的出價會先被取消。
+## 5. 使用道具欄分頁
+### 5.1. 道具欄中的「已擁有」分頁是什麼？
 
 ![](images/msn-101/learn-more/image_1747236428026_21.png)
 
-In the “Owned” tab, you can view the list of items you currently hold in your Wallet Inventory.
+在「已擁有」分頁中，您可以查看您目前錢包道具欄中持有的物品清單。
 
-*   Items must be transferred from your character inventory to Wallet Inventory to appear here.
-*   Items purchased on the MSU Marketplace are also stored in the Wallet Inventory. If you wish to equip them, move them to your character inventory.
+*   物品必須從您的角色道具欄轉移到錢包道具欄才會出現在這裡。
+*   在 MSU 市集上購買的物品也會儲存在錢包道具欄中。如果您想裝備它們，請將它們移至您的角色道具欄。
 
-**Item Transfer**
+**物品轉移**
 
-You can directly transfer items you own to another Mapler without listing them for sale. In the “Owned” tab, each item’s image has a three-dot icon at the top-left corner.
+您可以直接將您擁有的物品轉移給其他楓之谷玩家，而無需將其上架出售。在「已擁有」分頁中，每個物品的圖片左上角都有一個三點圖示。
 
-1.  Click this icon to access the following functions:
-    1.  Sell
-    2.  Cancel Sale
-        1.  Copy Link
-2.  Transfer
-3.  Click ”Transfer”, input the recipient’s wallet address, and proceed with the transfer.
+1.  點擊此圖示以存取下列功能：
+    1.  出售
+    2.  取消出售
+        1.  複製連結
+2.  轉移
+3.  點擊「轉移」，輸入接收者的錢包地址，然後繼續進行轉移。
 
-※ Double-check the quantity for FT item transfers.
+※ 轉移 FT 物品時，請再次確認數量。
 
-※ Always verify the recipient’s wallet address before confirming.
+※ 在確認之前，請務必驗證接收者的錢包地址。
 
-※ Only minted characters can store and retrieve items from Wallet Inventory.
+※ 只有已鑄造的角色才能從錢包道具欄中儲存和取出物品。
 
-### 5.2. What is the On Sale tab in Inventory?
+### 5.2. 道具欄中的「出售中」分頁是什麼？
 
 ![](images/msn-101/learn-more/image_1747236428026_519.png)
 
-If you want to sell an item, follow these steps in the Owned tab:
+如果您想出售物品，請在「已擁有」分頁中依照下列步驟操作：
 
-In the “On Sale” tab, you can view and manage items you’ve listed for sale on the MSU Marketplace.
+在「出售中」分頁中，您可以查看和管理您已在 MSU 市集上架出售的物品。
 
-*   To list an item, character, or FT item for sale, go to the “Owned” tab, click on the item, and proceed to its detailed page.
-*   Once listed, the item will appear in the “On Sale” tab.
+*   若要將物品、角色或 FT 物品上架出售，請前往「已擁有」分頁，點擊該物品，然後進入其詳細資訊頁面。
+*   上架後，該物品將會出現在「出售中」分頁。
 
-Here’s what you check in this tab:
+您可以在此分頁中查看以下內容：
 
-*   Listings with less than 24 hours remaining on their sale period
-*   Your listed items’ current sale prices
-*   The lowest sale price for your listed FT items
-*   Cancel a listed item if it hasn’t been sold
-*   Notification alerts when your listed item is sold to another Mapler
-#### 5.2.1. Important Information for Selling FT Items
-*   Unit prices may slightly change accordingly to the “Bid Unit Policy”.
-*   Minimum sale quantity requirements may apply per item
-*   If another Mapler is in the process of buying your listed item or it is sold just before you attempt to cancel, the cancellation may not go through.
+*   銷售期間剩下不到 24 小時的上架商品
+*   您上架物品目前的銷售價格
+*   您上架 FT 物品的最低銷售價格
+*   如果尚未售出，取消已上架的物品
+*   當您上架的物品售給其他楓之谷玩家時的通知提醒
+#### 5.2.1. 出售 FT 物品的重要資訊
+*   根據「出價單位政策」，單位價格可能會略有變動。
+*   每個物品可能有最低銷售數量要求
+*   如果另一位楓之谷玩家正在購買您上架的物品，或者在您嘗試取消之前該物品剛好售出，則取消可能無法成功。
 
-※ Items marked with an "L" in the bottom-right corner are bound to characters and cannot be minted or sold on the MSU Marketplace.
+※ 右下角標有「L」的物品已綁定到角色，無法在 MSU 市集上鑄造或出售。
 
-※ If an item has already been transferred to another wallet, you will receive a “Cannot Sell” message.
+※ 如果物品已轉移到另一個錢包，您將收到「無法出售」的訊息。
 
-### 5.3. What is the Bookmark tab in Inventory?
+### 5.3. 道具欄中的「書籤」分頁是什麼？
 
 ![](images/msn-101/learn-more/image_1747236428026_532.png)
 
-**Bookmark** is a feature that allows you to save NFT items, characters, or FT items you’re interested in purchasing.
+**書籤**是一項功能，可讓您儲存您有興趣購買的 NFT 物品、角色或 FT 物品。
 
-*   After bookmarking items, view the list in “Inventory” > “Bookmark”
+*   將物品加入書籤後，可在「道具欄」>「書籤」中查看清單
 
-※ To remove a bookmarked item/character, you must manually unbookmark it.
+※ 若要移除已加入書籤的物品/角色，您必須手動取消書籤。
 
-※ Even if the item/character is sold, it will remain bookmarked until removed.
+※ 即使物品/角色已售出，在移除之前它仍會保留在書籤中。
 
-### 5.4. What is the Activity tab in Inventory?
+### 5.4. 道具欄中的「活動」分頁是什麼？
 
-The “Activity” tab shows your transaction history for NFT items, characters, and FT items.
+「活動」分頁會顯示您 NFT 物品、角色和 FT 物品的交易歷史記錄。
 
-*   You can also view transaction history via MetaMask browser extension under the “Portfolio” function.
-*   Additionally, transactions can be checked in the MSU Explorer.
-### 5.5. What is the Offers tab in Inventory?
+*   您也可以透過 MetaMask 瀏覽器擴充功能的「投資組合」功能查看交易歷史記錄。
+*   此外，也可以在 MSU 瀏覽器中查看交易。
+### 5.5. 道具欄中的「出價」分頁是什麼？
 
-In the Offers tab, you can view offers you've made on MSU Marketplace items as well as offers received on items you've listed for sale.
+在「出價」分頁中，您可以查看您在 MSU 市集物品上提出的出價，以及您已上架出售物品收到的出價。
 
-*   The “Received” tab displays the top 5 highest offers made on your listed items.
-    *   This list updates when offers are canceled, accepted, or expired.
-*   The “Sent” tab shows a complete list of all offers you’ve submitted so far.
+*   「收到的出價」分頁會顯示對您上架物品提出的前 5 個最高出價。
+    *   當出價被取消、接受或到期時，此清單會更新。
+*   「已傳送的出價」分頁會顯示您迄今為止提交的所有出價的完整清單。

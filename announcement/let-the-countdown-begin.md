@@ -1,58 +1,58 @@
-# Let the Countdown Begin!
-*MapleStory N Official Launch Countdown Web Open!*
+# 讓倒數計時開始！
+*楓之谷 N (MapleStory N) 官方上線倒數計時網頁開放！*
 
-MapleStory N Countdown Web is now open to set the alarm for official MapleStory N launch!
+楓之谷 N (MapleStory N) 倒數計時網頁現已開放，為楓之谷 N (MapleStory N) 的正式上線設定提醒！
 
-## ■ Countdown Web Open Schedule
+## ■ 倒數計時網頁開放時程
 
-May 1, 05:00 (UTC+0), 2025
+2025 年 5 月 1 日 05:00 (UTC+0)
 
-## ■ Countdown Web Breakdown
+## ■ 倒數計時網頁詳情
 
-The Countdown Web offers key details about the upcoming launch of MapleStory N, along with a variety of important information.
+倒數計時網頁提供了有關即將推出的楓之谷 N (MapleStory N) 的關鍵詳細資訊，以及各種重要資訊。
 
-[**\[Go to Countdown Web\]**](https://msu.io/maplestoryn/launch-countdown)
+[**\[前往倒數計時網頁\]**](https://msu.io/maplestoryn/launch-countdown)
 
-1.  Countdown to MapleStory N Official Launch
-    *   You may check how many days are left until the launch of MapleStory N.
-    *   The game will officially go live at the moment the countdown ends. ※ Countdown Web will close alongside the launch of MapleStory N.
+1.  楓之谷 N (MapleStory N) 正式上線倒數計時
+    *   您可以查看距離楓之谷 N (MapleStory N) 上線還剩下多少天。
+    *   遊戲將在倒數計時結束的那一刻正式上線。※ 倒數計時網頁將隨著楓之谷 N (MapleStory N) 的上線而關閉。
 
-1.  Pre-Download
-*   Pre-Download Period: May 8, 05:00 (UTC+0) ~ Until MapleStory N Official Launch
-*   Before the official launch of MapleStory N, you’ll be able to pre-download the game client directly from the Countdown Web. ※ Detailed information on MapleStory N pre-download will be further announced. ※ To pre-download the game client, you will need a wallet account connected to MapleStory Universe Web. Instructions on wallet creation and connection will be announced in near future. Further updates will be provided through future event announcements—please stay tuned!
+1.  預先下載
+*   預先下載期間：5 月 8 日 05:00 (UTC+0) ~ 直到楓之谷 N (MapleStory N) 正式推出
+*   在楓之谷 N (MapleStory N) 正式上線之前，您將能夠直接從倒數計時網頁預先下載遊戲客戶端。※ 有關楓之谷 N (MapleStory N) 預先下載的詳細資訊將另行公佈。※ 要預先下載遊戲客戶端，您需要一個已連接到楓之谷宇宙 (MapleStory Universe) Web 的錢包帳戶。有關錢包建立和連接的說明將在近期公佈。更多更新將透過未來的活動公告提供——敬請關注！
 
-1.  Launch Gifts
-*   To celebrate the launch of MapleStory N, a variety of special events will be held.
-*   In addition to Coin Mount and Opening Party Set shown in the table below, other exclusive event rewards are awaiting. Stay excited and don’t miss out!
-*   Detailed information about the events and rewards will be provided via future event announcement.
+1.  上線好禮
+*   為慶祝楓之谷 N (MapleStory N) 的上線，將舉辦各種特別活動。
+*   除了下表中顯示的硬幣坐騎和開幕派對套裝外，還有其他獨家活動獎勵等著您。敬請期待，不要錯過！
+*   有關活動和獎勵的詳細資訊將透過未來的活動公告提供。
 
 ![](images/announcement/image_1747236243359_938.png)
 
-Coin Mount / Opening Party Set
+硬幣坐騎 / 開幕派對套裝
 
-1.  Exclusive Discord Role will be provided to those who enter [MapleStory Universe Official Discord](https://discord.gg/maplestoryuniverse) during the Countdown period. ※ Countdown period ends alongside the official launch of MapleStory N.
-*   VIsit [#community-news](https://discordapp.com/channels/975999406941822996/1361214518620979361) channel at official Discord and get @Orange Mushroom Role
+1.  在倒數計時期間進入 [楓之谷宇宙 (MapleStory Universe) 官方 Discord](https://discord.gg/maplestoryuniverse) 的人將獲得專屬 Discord 身份組。※ 倒數計時期間將隨著楓之谷 N (MapleStory N) 的正式上線而結束。
+*   前往官方 Discord 的 [#community-news](https://discordapp.com/channels/975999406941822996/1361214518620979361) 頻道並獲得 @Orange Mushroom 身份組
 
-1.  MapleStory N Guide
-*   You can use the [MapleStory N Classes & Jobs Guide](https://docs.maplestoryn.io/msn-101/classes-and-jobs) section located on the right side of the webpage to access detailed guides for each job at [MapleStory N Official Gitbook](https://docs.maplestoryn.io/).
-*   In-depth information on the MapleStory N will be updated on official Gitbook - stay interested!
+1.  楓之谷 N (MapleStory N) 指南
+*   您可以使用網頁右側的 [楓之谷 N (MapleStory N) 職業與轉職指南](https://docs.maplestoryn.io/msn-101/classes-and-jobs) 部分，在 [楓之谷 N (MapleStory N) 官方 Gitbook](https://docs.maplestoryn.io/) 中存取各職業的詳細指南。
+*   有關楓之谷 N (MapleStory N) 的深入資訊將在官方 Gitbook 上更新——敬請關注！
 
-Please show your continued support towards MapleStory N!
+請繼續支持楓之谷 N (MapleStory N)！
 
-#### ⚠️ Important Notice
+#### ⚠️ 重要通知
 
-※ Countdown Web will close alongside the launch of MapleStory N.
+※ 倒數計時網頁將隨著楓之谷 N (MapleStory N) 的上線而關閉。
 
-※ To start the game client after the official launch, you will need a wallet account connected to MapleStory Universe Web.
+※ 正式上線後啟動遊戲客戶端，您需要一個已連接到楓之谷宇宙 (MapleStory Universe) Web 的錢包帳戶。
 
-※ Detailed information about the events and rewards will be provided via future event announcement.
+※ 有關活動和獎勵的詳細資訊將透過未來的活動公告提供。
 
-※ Please note that the specifics of the rewards may vary depending on the circumstances at the time of distribution.
+※ 請注意，獎勵的具體內容可能會因發放時的情況而有所不同。
 
-※ MapleStory Universe cannot address issues arising from incorrectly connected wallets.
+※ 楓之谷宇宙 (MapleStory Universe) 無法處理因錢包連接不正確而產生的問題。
 
-※ Account trading is prohibited under our operating policy. Violators may be restricted from MapleStory Universe service, and MapleStory Universe is not liable for any losses or damages incurred through trading attempts.
+※ 根據我們的營運政策，禁止帳號交易。違規者可能會受到楓之谷宇宙 (MapleStory Universe) 服務的限制，且楓之谷宇宙 (MapleStory Universe) 對任何因交易嘗試而造成的損失或損害概不負責。
 
-※ Please note that access may be restricted in certain regions. Depending on your location, you could encounter limitations when accessing the MapleStory Universe service. For a seamless experience with the MapleStory Universe, please consult our [Terms of Service](https://msu.io/policy/terms).
+※ 請注意，某些地區的存取可能會受到限制。根據您所在的位置，您在存取楓之谷宇宙 (MapleStory Universe) 服務時可能會遇到限制。為獲得楓之谷宇宙 (MapleStory Universe) 的流暢體驗，請參閱我們的[服務條款](https://msu.io/policy/terms)。
 
 ![](images/announcement/image_1747236243359_752.png)

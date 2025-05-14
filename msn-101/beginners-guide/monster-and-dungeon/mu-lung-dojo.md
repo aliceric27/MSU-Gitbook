@@ -1,130 +1,130 @@
-# Mu Lung Dojo
+# 武陵道場
 
-**Table of Contents**
+**目錄**
 
-1.  **Mu Lung Dojo**
-2.  **How to Enter Mu Lung Dojo**
-3.  **Waiting Area: Mu Lung Dojo Main Hall**
-4.  **Entering Mu Lung Dojo**
-5.  **Effects in Mu Lung Dojo**
-6.  **Mu Lung Dojo Challenge Mechanics**
-7.  **Mu Lung Dojo Records**
-8.  **Mu Lung Dojo Regular Rewards**
-9.  **Mu Lung Dojo Ranker Rewards**
-10.  **Mu Lung Dojo Unity Training Center**
-## 1. Mu Lung Dojo
+1.  **武陵道場**
+2.  **如何進入武陵道場**
+3.  **等候區：武陵道場主殿**
+4.  **進入武陵道場**
+5.  **武陵道場中的效果**
+6.  **武陵道場挑戰機制**
+7.  **武陵道場紀錄**
+8.  **武陵道場一般獎勵**
+9.  **武陵道場排名獎勵**
+10. **武陵道場統合修煉場**
+## 1. 武陵道場
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_972.png)
 
-*   Upon reaching Level 105, you become eligible to challenge Mu Lung Dojo.
-*   In Mu Lung Dojo, you can earn EXP and Honor EXP depending on how far you progress.
-    *   Special items and medals are also awarded based on your ranking bracket.
-## 2. How to Enter Mu Lung Dojo
+*   達到 105 等後，您就有資格挑戰武陵道場。
+*   在武陵道場中，您可以根據您的進度獲得經驗值和名譽經驗值。
+    *   也會根據您的排名區間授予特殊物品和勳章。
+## 2. 如何進入武陵道場
 
-You can move to the Mu Lung Dojo through the \[Mu Lung Dojo Bulletin Board\] located in Mu Lung Temple.
+您可以透過位於武陵寺院的 \[武陵道場佈告欄\] 前往武陵道場。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_3.png)
 
-Alternatively, you can use \[Quick Move\] or the \[Dimensional Mirror\] to access it.
+或者，您可以使用 \[快速移動\] 或 \[次元之鏡\] 進入。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_725.png)
 
-## 3. Waiting Area: Mu Lung Dojo Main Hall
+## 3. 等候區：武陵道場主殿
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_746.png)
 
-### 3.1. NPC So Gong
-*   So Gong is the main NPC of the Mu Lung Dojo.
-*   You can talk to him to learn about the Dojo, begin a challenge, or claim ranking rewards.
-### 3.2. Mu Lung Ranking Board
-*   You can check your own challenge records and see how other heroes have performed in the Mu Lung Dojo.
-## 4. Entering Mu Lung Dojo
+### 3.1. NPC 蕭公
+*   蕭公是武陵道場的主要 NPC。
+*   您可以與他交談以了解道場、開始挑戰或領取排名獎勵。
+### 3.2. 武陵排名板
+*   您可以查看自己的挑戰紀錄，並了解其他英雄在武陵道場的表現。
+## 4. 進入武陵道場
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_644.png)
 
-*   You can start the Mu Lung Dojo challenge by speaking with NPC So Gong.
-*   Once the challenge begins, you will be moved to the Mu Lung Dojo Entrance, where all active buff effects are removed by So Gong’s special martial arts technique.
-*   At the entrance, you will have 2 minutes to prepare. When ready, enter the portal on the right to begin.
-*   If you do not enter within 2 minutes, the challenge will automatically start and the Mu Lung Dojo time limit will begin.
-## 5. Effects in Mu Lung Dojo
-*   Inside the dojo, Mu Gong’s barrier limits you to only one-tenth of your normal strength.
-*   Additionally, the use of potion items is partially restricted within the dojo.
+*   您可以透過與 NPC 蕭公交談來開始武陵道場挑戰。
+*   挑戰開始後，您將被移至武陵道場入口，所有生效中的增益效果都會被蕭公的特殊武術技巧移除。
+*   在入口處，您將有 2 分鐘的準備時間。準備就緒後，進入右側的傳送門即可開始。
+*   如果您在 2 分鐘內未進入，挑戰將自動開始，武陵道場的時間限制也將開始計算。
+## 5. 武陵道場中的效果
+*   在道場內，武公的結界會將您的正常實力限制為十分之一。
+*   此外，在道場內使用藥水物品會受到部分限制。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_612.png)
 
-## 6. Mu Lung Dojo Challenge Mechanics
-*   The Mu Lung Dojo challenge has a 15-minute time limit.
+## 6. 武陵道場挑戰機制
+*   武陵道場挑戰有 15 分鐘的時間限制。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_369.png)
 
-*   You can advance to the next floor by defeating all monsters on the current floor and entering the portal on the right.
+*   您可以透過擊敗目前樓層的所有怪物並進入右側的傳送門來前往下一樓層。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_729.png)
 
-*   After clearing a floor, you will receive 10 seconds of recovery time.
-*   This is a change to apply buffs or prepare for the next battle.
-*   Note: These 10 seconds do not count toward the overall 15-minute limit.
+*   清除一個樓層後，您將獲得 10 秒的恢復時間。
+*   這是套用增益效果或為下一場戰鬥做準備的機會。
+*   注意：這 10 秒不計入總共 15 分鐘的限制時間。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_396.png)
 
-*   If you wish to give up the challenge, you can forfeit by speaking to NPC So Gong, located at the top of the screen.
-*   Even if you forfeit, the highest floor reached will still be recorded in the rankings.
+*   如果您想放棄挑戰，可以與位於畫面頂端的 NPC 蕭公交談以放棄。
+*   即使您放棄，達到的最高樓層仍會記錄在排名中。
 
-**Caution!**
+**注意！**
 
-*   Your ranking will only reflect the last floor you cleared and exited through the portal.
-*   If you defeat the monsters but do not enter the next portal, your progress will not be recorded in the rankings.
-## 7. Mu Lung Dojo Records
-*   If you achieve your weekly best record in a challenge, it will be registered in the rankings.
-*   Your play record is based on the highest floor you cleared and the total time it took. The higher the floor you clear, the higher your ranking.
-*   If multiple players clear the same floor, the one who does so in the shortest time will be ranked higher.
-*   If both the cleared floor and time are identical, the player who registered their record earlier will be placed higher in the rankings.
+*   您的排名只會反映您最後清除並透過傳送門離開的樓層。
+*   如果您擊敗怪物但未進入下一個傳送門，您的進度將不會記錄在排名中。
+## 7. 武陵道場紀錄
+*   如果您在挑戰中達到每週最佳紀錄，該紀錄將會登記在排名中。
+*   您的遊玩紀錄取決於您清除的最高樓層以及所花費的總時間。清除的樓層越高，您的排名就越高。
+*   如果有多位玩家清除相同的樓層，則在最短時間內完成的玩家排名較高。
+*   如果清除的樓層和時間都相同，則較早登記紀錄的玩家排名較高。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_810.png)
 
-### 7.1. Rankings
-*   Mu Lung Dojo rankings are determined within the same job category.
-*   Users who place in the Top 3 will have their character and nickname displayed at the top of the UI.
-### 7.2. Challenge Records
-*   You can view your highest Mu Lung Dojo record, as well as the records you achieved this week and last week.
-### 7.3. Help
-*   You can check information about the rewards available from the Mu Lung Dojo.
-## 8. Mu Lung Dojo Regular Rewards
-*   The rewards for records registered during Week A can be claimed at the start of Week B, after Week A ends.
-*   Final ranking calculations are made from Sunday 11:30 PM (UTC+0) to Monday 12:30 AM (UTC+0) every week.
-*   During this time, you cannot participate in the Mu Lung Dojo, view rankings, or claim ranking rewards.
-*   Once the final calculation is complete, EXP and Honor EXP will be awarded based on your record from the previous week. Special items and medals will also be given according to your ranking tier.
-*   All rewards are distributed as non-mintable local items.
+### 7.1. 排名
+*   武陵道場排名是在相同職業類別內決定的。
+*   排名前 3 名的使用者，其角色和暱稱將顯示在 UI 頂端。
+### 7.2. 挑戰紀錄
+*   您可以查看您最高的武陵道場紀錄，以及您本週和上週達成的紀錄。
+### 7.3. 協助
+*   您可以查看有關武陵道場可獲得獎勵的資訊。
+## 8. 武陵道場一般獎勵
+*   在 A 週登記的紀錄獎勵可在 A 週結束後，於 B 週開始時領取。
+*   最終排名計算時間為每週日晚上 11:30 (UTC+0) 至週一凌晨 12:30 (UTC+0)。
+*   在此期間，您無法參與武陵道場、查看排名或領取排名獎勵。
+*   最終計算完成後，將根據您上一週的紀錄發放經驗值和名譽經驗值。也會根據您的排名階級發放特殊物品和勳章。
+*   所有獎勵均以不可鑄造的本地物品形式發放。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_856.png)
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_795.png)
 
-## 9. Mu Lung Dojo Ranker Rewards
-*   Players who achieve 1st to 3rd place in the Mu Lung Dojo will receive special titles. These titles are limited-time items with no additional stats.
+## 9. 武陵道場排名獎勵
+*   在武陵道場獲得第 1 至第 3 名的玩家將獲得特殊稱號。這些稱號是限時物品，沒有額外屬性。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_74.png)
 
-## 10. Mu Lung Dojo Unity Training Center
-*   If you have a Unity Training Center Entrance Charm, you can enter the Unity Training Center located within the Mu Lung Dojo.
-*   Each charm allows you to stay in the training center for a different duration.
+## 10. 武陵道場統合修煉場
+*   如果您擁有統合修煉場入場券，即可進入位於武陵道場內的統合修煉場。
+*   每張入場券可讓您在修煉場停留不同的時間長度。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_950.png)
 
-*   Inside the Unity Training Center, your character will automatically receive EXP every 5 seconds.
-*   The amount of EXP earned depends on the level of the character inside the center.
-*   Even if you exit the game, your character will remain in the training center.
-    *   However, time in the center only progresses while the character is logged in.
+*   在統合修煉場內，您的角色每 5 秒會自動獲得經驗值。
+*   獲得的經驗值量取決於修煉場內角色的等級。
+*   即使您離開遊戲，您的角色仍會留在修煉場中。
+    *   然而，只有在角色登入時，修煉場的時間才會計算。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_35.png)
 
-*   If you want to leave the Unity Training Center before your time is up, talk to NPC So Gong located at the bottom right of the screen.
-*   When exiting the Unity Training Center:
-*   If you have 60 minutes or more remaining, you will receive a "Unity Training Center Entrance Charm (1 hour)".
+*   如果您想在時間結束前提早離開統合修煉場，請與位於畫面右下角的 NPC 蕭公交談。
+*   離開統合修煉場時：
+*   如果您剩餘時間達 60 分鐘或以上，您將獲得「統合修煉場入場券 (1 小時)」。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_815.png)
 
-*   If you have 30 minutes or more remaining, you will receive a "Unity Training Center Entrance Charm (30 minutes)".
-*   If you have less than 30 minutes remaining, you will not receive any charm upon leaving.
+*   如果您剩餘時間達 30 分鐘或以上，您將獲得「統合修煉場入場券 (30 分鐘)」。
+*   如果您剩餘時間少於 30 分鐘，離開時將不會獲得任何入場券。
 
 ![](images/msn-101/beginners-guide/monster-and-dungeon/image_1747236330034_763.png)

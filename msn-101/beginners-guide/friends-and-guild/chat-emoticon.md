@@ -1,74 +1,74 @@
-# Chat Emoticon
-## Table of Contents
-1.  **Using Chat Emoticon**
-2.  **Chat Emoticon UI Change Mode**
-## 1. Using Chat Emoticon
+# 聊天表情符號
+## 目錄
+1.  **使用聊天表情符號**
+2.  **聊天表情符號使用者介面變更模式**
+## 1. 使用聊天表情符號
 
-Express a wide range of emotions and fun moments through chat emoticons!
+透過聊天表情符號表達各種情緒和有趣的時刻！
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236379099_795.png)
 
-### 1.1. Double-Clicking Chat Emoticon
-*   Click \[CHAT COMMAND\] > \[CHAT EMOTICON\] in the main chat window to open the Chat Emoticon UI.
+### 1.1. 雙擊聊天表情符號
+*   在主聊天視窗中點擊 \[聊天指令\] > \[聊天表情符號\] 以開啟聊天表情符號使用者介面。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236379099_805.png)
 
-*   In the Chat Emoticon UI, you can double-click individual chat emoticons to use them.
-*   When used in All or Party chat, the emoticon will appear inside the speech bubble above your character’s head.
+*   在聊天表情符號使用者介面中，您可以雙擊個別的聊天表情符號來使用它們。
+*   在全部或隊伍聊天中使用時，表情符號會出現在您角色頭頂的對話泡泡內。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236379099_467.png)
 
-### 1.2. Setting Shortcuts
-*   You can register individual chat emoticons as **Shortcuts** for quick and convenient use.
+### 1.2. 設定捷徑
+*   您可以將個別的聊天表情符號註冊為**捷徑**，以便快速方便地使用。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236379099_111.png)
 
-*   Drag the desired chat emoticon into the **\[Create Emoticon Shortcut\]** field.
-*   Then, enter the command text you want to use, save it, and it will be registered under **\[Your Emoticon Shortcuts\]**.
-*   You can then type the command in the chat window to use the chat emoticon instantly.
+*   將所需的聊天表情符號拖曳到 **\[建立表情符號捷徑\]** 欄位中。
+*   然後，輸入您想使用的指令文字，儲存它，它就會被註冊在 **\[您的表情符號捷徑\]** 下。
+*   然後，您可以在聊天視窗中輸入該指令，即可立即使用該聊天表情符號。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236379099_900.png)
 
-### 1.3. Setting Keyboard Shortcuts
-*   Open the Key Bindings window using the shortcut key \[Default: F11\].
-*   Drag a chat emoticon onto your desired key slot, and you can then use it with that key.
+### 1.3. 設定鍵盤捷徑
+*   使用捷徑鍵 \[預設：F11\] 開啟按鍵綁定視窗。
+*   將聊天表情符號拖曳到您想要的按鍵位置，然後您就可以使用該按鍵來使用它。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236379099_583.png)
 
-#### TIP
-*   You can save up to 20 commands in total.
-*   Each individual chat emoticon can have multiple commands assigned to it.
-*   Commands can be up to 20 characters long and must contain only English letters or numbers.
-*   Commands cannot be registered if they contain profanity or the ‘/’ character.
-## 2. Chat Emoticon UI Change Mode
+#### 提示
+*   您總共可以儲存最多 20 個指令。
+*   每個個別的聊天表情符號可以指派多個指令。
+*   指令長度最多可達 20 個字元，且只能包含英文字母或數字。
+*   如果指令包含不雅詞彙或「/」字元，則無法註冊。
+## 2. 聊天表情符號使用者介面變更模式
 
-You can use the “**Change**” button in the Chat Emoticon UI to manage your emoticons more conveniently.
+您可以使用聊天表情符號使用者介面中的「**變更**」按鈕，更方便地管理您的表情符號。
 
-*   Click the “Change” button at the bottom left of the UI to:
-*   Reorder chat emoticon groups or delete them
-*   Add frequently used emoticons to your favorites
-### 2.1. Reordering Chat Emoticon Groups
+*   點擊使用者介面左下角的「變更」按鈕以：
+*   重新排序聊天表情符號群組或刪除它們
+*   將常用的表情符號加入您的最愛
+### 2.1. 重新排序聊天表情符號群組
 
-After pressing the “Change” button, you can drag and drop chat emoticon groups to change their order as you like.
+按下「變更」按鈕後，您可以拖放聊天表情符號群組以依照您的喜好變更其順序。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236379099_176.png)
 
-### 2.2. Deleting Chat Emoticon Groups
-*   After clicking the “Change” button, you can delete a chat emoticon group by dragging the group and dropping it at the bottom of the UI.
+### 2.2. 刪除聊天表情符號群組
+*   點擊「變更」按鈕後，您可以透過拖曳群組並將其放到使用者介面底部來刪除聊天表情符號群組。
 
-※ Once deleted, the emoticons cannot be restored until they are obtained again.
+※ 一旦刪除，表情符號在重新獲得之前無法恢復。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236379099_555.png)
 
-### 2.3. Chat Emoticon Favorites
-*   After clicking the “Change” button, you can use the gray star icon at the top right of each individual chat emoticon to add or remove it from your favorites.
-*   Click the blue star icon to view the list of all chat emoticons you’ve set as Favorites.
-*   You can also drag and drop favorite emoticons to rearrange their order as you like.
+### 2.3. 聊天表情符號最愛
+*   點擊「變更」按鈕後，您可以使用每個個別聊天表情符號右上角的灰色星形圖示將其加入或移出您的最愛。
+*   點擊藍色星形圖示以查看您設定為最愛的所有聊天表情符號清單。
+*   您也可以拖放最愛的表情符號以依照您的喜好重新排列其順序。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236379099_923.png)
 
-#### TIP
+#### 提示
 
-By default, Mushroom, Pepe, and Pink Bean chat emoticons are provided, and these cannot be deleted.
+預設情況下，會提供蘑菇、皮皮和粉紅豆聊天表情符號，這些表情符號無法刪除。
 
-※ In Change Mode, you cannot register shortcut keys or commands for chat emoticons.
+※ 在變更模式中，您無法為聊天表情符號註冊捷徑鍵或指令。

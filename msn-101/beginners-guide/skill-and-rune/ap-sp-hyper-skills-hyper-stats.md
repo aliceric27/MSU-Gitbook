@@ -1,88 +1,88 @@
-# AP, SP, Hyper Skills, Hyper Stats
-## Table of Contents
-1.  **What is AP?**
-2.  **What is SP?**
-3.  **What are Hyper Skills?**
-4.  **What are Hyper Stats?**
-## 1. What is AP?
+# AP、SP、超級技能、超級屬性
+## 目錄
+1.  **什麼是AP？**
+2.  **什麼是SP？**
+3.  **什麼是超級技能？**
+4.  **什麼是超級屬性？**
+## 1. 什麼是AP？
 
-AP stands for Ability Points. You can use AP to increase your character’s basic stats: Strength (STR), Dexterity (DEX), Intelligence (INT), Luck (LUK), as well as maximum HP and MP. To check your character’s stats, press the shortcut key \[Default: S\].
+AP 代表能力點數。你可以使用AP來增加角色的基本屬性：力量（STR）、敏捷（DEX）、智力（INT）、幸運（LUK），以及最大HP和MP。要查看角色的屬性，請按下快捷鍵 \[預設：S]。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236301315_830.png)
 
-You can increase STR, DEX, INT, or LUK by 1 point using AP. The amount of AP required to increase HP and MP depends on your character's Job.
+你可以使用AP將力量、敏捷、智力或幸運增加1點。增加HP和MP所需的AP數量取決於你的角色職業。
 
-### 1.1. Stat Distribution
-*   **Gaining AP**: You receive 5 AP each time you level up, with additional AP granted upon certain Job advancement.
-*   **Using AP**: You can accumulate AP to HP, MP, STR, DEX, INT, or LUK. If you are unsure where to allocate points, you can use the "AUTO-ASSIGN" button to distribute AP based on your Job’s recommended stats.
+### 1.1. 屬性分配
+*   **獲得AP**：每次升級可獲得5點AP，某些職業進階時會額外獲得AP。
+*   **使用AP**：你可以將AP累積到HP、MP、力量、敏捷、智力或幸運。如果你不確定要分配到哪裡，可以使用「自動分配」按鈕，根據你的職業推薦屬性來分配AP。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236301315_731.png)
 
-### 1.2. AP Reset
+### 1.2. AP重置
 
-When you click the “RESET” button, all previously allocated AP will be returned to you.
+點擊「重置」按鈕後，先前分配的所有AP都將返還給你。
 
-You can then assign the points to different stats as desired.
+然後你可以根據需要將點數分配到不同的屬性。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236301315_311.png)
 
-## 2. What is SP?
+## 2. 什麼是SP？
 
-SP stands for Skill Points, which are used to level up and enhance your Skills. Press the shortcut key \[Default: K\] to open the Skill window and view your current Skills. Each Skill has a maximum level, and each point of SP increases a Skill's level by 1.
+SP 代表技能點數，用於升級和強化你的技能。按下快捷鍵 \[預設：K] 打開技能視窗並查看你目前的技能。每個技能都有最高等級，每點SP可將技能等級提升1級。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236301315_175.png)
 
-*   **Gaining SP**: From Level 1 to 100, you get 3 SP per level. Starting at Level 101, you get 3 SP for most levels, and 6 SP for levels ending in 0, 3, 6, or 9. (Example: Level 101 = 3 SP, Level 103 = 6 SP) Certain Job advancements grant additional SP.
+*   **獲得SP**：從1級到100級，每級可獲得3點SP。從101級開始，大多數等級可獲得3點SP，而等級尾數為0、3、6或9的等級可獲得6點SP。（例如：101級 = 3 SP，103級 = 6 SP）某些職業進階會額外獲得SP。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236301316_95.png)
 
-| You will have enough SP to max out all your regular Skills by Level 140. After that, you will unlock Hyper Skills, which you do not require SP. |
+| 到140級時，你將有足夠的SP點滿所有常規技能。之後，你將解鎖超級技能，這些技能不需要SP。 |
 
-## 3. What are Hyper Skills?
+## 3. 什麼是超級技能？
 
-Hyper Skills are powerful abilities that you can learn starting at Level 140. They include passive skill enhancements, powerful attacks, and active buff skills.
+超級技能是從140級開始可以學習的強大能力。它們包括被動技能強化、強大的攻擊和主動增益技能。
 
-*   **Passive Skill Enhancements:** These skills boost the effects of your existing skills in various ways. New passive Hyper Skills unlock at specific level milestones. You will earn Hyper Skill SP at Level 140, 150, 165, 180, and 190.
+*   **被動技能強化：** 這些技能以各種方式增強你現有技能的效果。新的被動超級技能會在特定的等級里程碑解鎖。你將在140級、150級、165級、180級和190級獲得超級技能SP。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236301316_57.png)
 
-*   **Active Attack and Buff Skills:** These are unique active skills with powerful effects, unlocked at Level 140, 160, and 190. Hyper Skills are not affected by Potential and also ignore certain cooldown reduction and buff duration increase effects.
-### 3.1. How to reset Hyper Skills
+*   **主動攻擊和增益技能：** 這些是具有強大效果的獨特主動技能，在140級、160級和190級解鎖。超級技能不受潛能影響，並且忽略某些冷卻時間減少和增益持續時間增加的效果。
+### 3.1. 如何重置超級技能
 
-You can freely reset Hyper Skills at any time by pressing the "RESET” button.
+你可以隨時按下「重置」按鈕免費重置超級技能。
 
-There are no costs or limits to how often you can reset them.
+重置它們沒有成本或次數限制。
 
 ![](images/msn-101/beginners-guide/skill-and-rune/image_1747236301316_716.png)
 
-## 4. What are Hyper Stats?
+## 4. 什麼是超級屬性？
 
-Hyper Stats provide additional stat boosts for your character. Once you reach Level 140, you can access the Hyper Stats window through the Character Stats window (shortcut key \[Default: S\]) by clicking the "HYPER” button. From Level 140 and onward, you will gain Hyper Stat Points each time you level up. You can allocate these points to increase the level of your desired Hyper Stat.
+超級屬性為你的角色提供額外的屬性提升。一旦達到140級，你可以透過角色狀態視窗（快捷鍵 \[預設：S]）點擊「超級」按鈕來進入超級屬性視窗。從140級開始，每次升級都會獲得超級屬性點數。你可以分配這些點數來提升你想要的超級屬性等級。
 
-### 4.1. Hyper Stat Types
+### 4.1. 超級屬性種類
 
-The types of Hyper Stat and their max levels are as follows:
+超級屬性的種類及其最高等級如下：
 
-| STR | 15 | 30 | 450 |
-| DEX | 15 | 30 | 450 |
-| INT | 15 | 30 | 450 |
-| LUK | 15 | 30 | 450 |
+| 力量 | 15 | 30 | 450 |
+| 敏捷 | 15 | 30 | 450 |
+| 智力 | 15 | 30 | 450 |
+| 幸運 | 15 | 30 | 450 |
 | HP (%) | 15 | 2 | 30% |
 | MP (%) | 15 | 2 | 30% |
-| Critical Activation Chance | 15 | 1Level 6+: 2 | 25% |
-| Critical Damage | 15 | 1 | 15% |
-| Ignore Defense | 15 | 3 | 45% |
-| Damage | 15 | 3 | 45% |
-| Boss Monster Damage Increase | 15 | 3Level 6+: 4 | 55% |
-| Damage Against Normal Monsters | 15 | Level 6+: 4 | 55% |
-| Abnormal Status Resistance | 15 | 1Level 6+: 2 | 25 |
-| Knockback Resistance | 10 | 2 | 20% |
-| Attack Power & Magic ATT | 15 | 3 | 45 |
-| Get EXP | 15 | 0.5Level 11+: 1 | 10% |
+| 爆擊發動機率 | 15 | 1 等級6+：2 | 25% |
+| 爆擊傷害 | 15 | 1 | 15% |
+| 無視防禦 | 15 | 3 | 45% |
+| 傷害 | 15 | 3 | 45% |
+| BOSS怪物傷害增加 | 15 | 3 等級6+：4 | 55% |
+| 對一般怪物傷害 | 15 | 等級6+：4 | 55% |
+| 異常狀態抗性 | 15 | 1 等級6+：2 | 25 |
+| 格檔 | 10 | 2 | 20% |
+| 攻擊力與魔法攻擊力 | 15 | 3 | 45 |
+| 獲得經驗值 | 15 | 0.5 等級11+：1 | 10% |
 
-### 4.2. Gaining Hyper Stat Points
+### 4.2. 獲得超級屬性點數
 
-The more your character levels up, the more Hyper Stat Points they will gain.
+角色等級越高，獲得的超級屬性點數就越多。
 
 | 140 - 149 | 3 |
 | 150 - 159 | 4 |
@@ -97,9 +97,9 @@ The more your character levels up, the more Hyper Stat Points they will gain.
 | 240 - 249 | 13 |
 | 250 - | 14 |
 
-### 4.3. Hyper Stat Point Requirements
+### 4.3. 超級屬性點數需求
 
-As you increase the level of a Hyper Stat, the number of Hyper Stat Points required for each level also goes up.
+隨著你提升超級屬性的等級，每個等級所需的超級屬性點數也會增加。
 
 | 1 | 1 | 1 |
 | 2 | 2 | 3 |
@@ -117,6 +117,6 @@ As you increase the level of a Hyper Stat, the number of Hyper Stat Points requi
 | 14 | 95 | 440 |
 | 15 | 110 | 550 |
 
-### 4.4. Resetting Hyper Stats
+### 4.4. 重置超級屬性
 
-You can reset your Hyper Stats once per day for free by clicking the "RESET” button.
+你可以每天免費重置一次超級屬性，方法是點擊「重置」按鈕。

@@ -1,58 +1,58 @@
-# NESO & NXPC
-## Table of Contents
-1.  **What is NESO?**
-2.  **What is NXPC?**
-## 1. What is NESO?
+# NESO 與 NXPC
+## 目錄
+1.  **什麼是 NESO？**
+2.  **什麼是 NXPC？**
+## 1. 什麼是 NESO？
 
-**NESO** is an **on-chain currency** used within **MapleStory Universe**. It is used to **enhance items** in **MapleStory N** and to conduct **transactions** on the **Marketplace**.
+**NESO** 是在**楓之谷宇宙 (MapleStory Universe)** 中使用的**鏈上貨幣**。它用於在**楓之谷 N (MapleStory N)** 中**強化物品**以及在**市集**上進行**交易**。
 
-You can obtain NESO by **minting NESOLET**, and the two currencies have distinct icons, as shown below:
+您可以透過**鑄造 NESOLET** 來獲得 NESO，這兩種貨幣具有不同的圖示，如下所示：
 
-|  | NESOLET | NESOLET can be obtained by playing in-game contents. |
-|  | NESO | NESO can be obtained by minting NESOLET or swapping NXPC. |
+|  | NESOLET | NESOLET 可以透過遊玩遊戲內容獲得。 |
+|  | NESO | NESO 可以透過鑄造 NESOLET 或交換 NXPC 獲得。 |
 
-### 1.1. Earning NESO Through Gameplay
+### 1.1. 透過遊戲玩法賺取 NESO
 
-You can obtain NESO by minting NESOLET, which is earned through various in-game activities such as hunting monsters and clearing boss content.
+您可以透過鑄造 NESOLET 來獲得 NESO，NESOLET 是透過各種遊戲內活動（例如狩獵怪物和完成頭目內容）獲得的。
 
-*   NESOLET in its unminted state cannot be used for item enhancement or trading, so be sure to mint any NESOLET you acquire!
-*   The total amount of NESOLET and NESO you have accumulated is displayed at the bottom of your character’s inventory.
-*   You can view detailed values via the tooltip and use the NESO button at the bottom of the inventory to mint your NESOLET into NESO.
-    *   The conversion rate from NESOLET to NESO is 1:1.
+*   未鑄造狀態的 NESOLET 不能用於物品強化或交易，因此請務必鑄造您獲得的任何 NESOLET！
+*   您累積的 NESOLET 和 NESO 總量會顯示在您角色道具欄的底部。
+*   您可以透過提示文字查看詳細數值，並使用道具欄底部的 NESO 按鈕將您的 NESOLET 鑄造成 NESO。
+    *   NESOLET 到 NESO 的轉換率為 1:1。
 
 ![](images/msn-101/learn-more/image_1747236421262_291.png)
 
 ![](images/msn-101/learn-more/image_1747236421262_419.png)
 
-※ NESOLET is a character-bound currency and cannot be used by other characters in your wallet until it is minted.
+※ NESOLET 是角色綁定的貨幣，在鑄造之前不能被您錢包中的其他角色使用。
 
-※ Only the character that completed the minting process can mint NESOLET into NESO. For more details, please refer to the \[[Manage Character Guide](https://docs.maplestoryn.io/msn-101/beginners-guide/get-started/manage-character)\].
+※ 只有完成鑄造過程的角色才能將 NESOLET 鑄造成 NESO。更多詳細資訊，請參閱 \[【管理角色指南】](https://docs.maplestoryn.io/msn-101/beginners-guide/get-started/manage-character)\]。
 
-### 1.2. Earning NESO via SWAP & WARP
+### 1.2. 透過 SWAP & WARP 賺取 NESO
 
-If you have NXPC in your wallet, you can swap it for NESO using the **SWAP & WARP** feature.
+如果您的錢包中有 NXPC，您可以使用 **SWAP & WARP** 功能將其交換為 NESO。
 
-Once the swap is complete, the converted NESO can be used on the MSU Marketplace, and if you play the game using the same wallet, it can also be used in-game.
+交換完成後，轉換後的 NESO 可在 MSU 市集上使用，如果您使用同一個錢包玩遊戲，它也可以在遊戲內使用。
 
 ![](images/msn-101/learn-more/image_1747236421262_226.png)
 
-※ Only minted characters can use the Wallet Inventory and perform item enhancements in MapleStory N. For more details, please refer to the respective guides.
+※ 只有已鑄造的角色才能使用錢包道具欄並在楓之谷 N (MapleStory N) 中執行物品強化。更多詳細資訊，請參閱各自的指南。
 
-### 1.3. Using NESO
+### 1.3. 使用 NESO
 
-You can use NESO to:
+您可以使用 NESO 來：
 
-*   Purchase NFT items, characters, and consumables from the MSU Marketplace
-*   Exchange for Power Crystals, used for Star Force Enhancement of NFT items
-*   Exchange for Power Crystals, used to grant or reset Potential on NFT items
-## 2. What is NXPC?
+*   從 MSU 市集購買 NFT 物品、角色和消耗品
+*   兌換用於 NFT 物品星力強化的力量結晶
+*   兌換用於賦予或重置 NFT 物品潛能的力量結晶
+## 2. 什麼是 NXPC？
 
-NXPC is the native token of MapleStory Universe, powering asset creation and value exchange throughout the ecosystem.
+NXPC 是楓之谷宇宙 (MapleStory Universe) 的原生代幣，為整個生態系統中的資產創建和價值交換提供動力。
 
-You can obtain NXPC by swapping NESO earned while playing MapleStory N.
+您可以透過交換在遊玩楓之谷 N (MapleStory N) 時賺取的 NESO 來獲得 NXPC。
 
 ![](images/msn-101/learn-more/image_1747236421262_138.png)
 
-※ The NESO:NXPC swap ratio is 100,000:1.
+※ NESO:NXPC 的交換比例為 100,000:1。
 
-※ Swapping NESO for NXPC may incur gas fees, depending on conditions.
+※ 將 NESO 交換為 NXPC 可能會產生燃料費，具體取決於情況。

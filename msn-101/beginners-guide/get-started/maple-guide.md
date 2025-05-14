@@ -1,53 +1,53 @@
-# Maple Guide
-## Table of Contents
-1.  **What is Maple Guide?**
-    1.1. **Quick Move**
-    1.2. **Boss Content**
-    1.3. **Special Content**
-## 1. What is Maple Guide?
+# 楓之谷指南
+## 目錄
+1.  **什麼是楓之谷指南？**
+    1.1. **快速移動**
+    1.2. **頭目內容**
+    1.3. **特殊內容**
+## 1. 什麼是楓之谷指南？
 
-MapleStory N features various regions and quests. You can explore towns and meet NPCs directly to complete quests, or you can use the Guide to conveniently move between towns and receive quest recommendations.
+楓之谷 N 擁有各式各樣的地區與任務。你可以直接探索村莊並與 NPC 見面來完成任務，或者你也可以使用指南來方便地在村莊之間移動並接收任務建議。
 
-Check the Guide UI on the screen or press the shortcut key \[Default: F1\].
+查看畫面上的指南使用者介面，或按下快捷鍵 \[預設：F1\]。
 
-The Maple Guide provides content per level, including recommendations for quests, theme dungeons, hunting grounds, etc. based on your character's level.
+楓之谷指南會依等級提供內容，包含根據你角色等級推薦的任務、主題副本、練功地圖等等。
 
-You can also check out boss content and special content.
+你也可以查看頭目內容和特殊內容。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236256525_149.png)
 
-*   Click "Move" button in the Guide (shortcut key \[Default: F1\]) to travel to the corresponding content or town.
-*   Using "Move" button is only accessible for characters that are up to 10 Level higher for the relevant content.
-### 1.1. Quick Move
+*   點擊指南中的「移動」按鈕（快捷鍵 \[預設：F1\]）即可前往對應的內容或村莊。
+*   「移動」按鈕僅供等級高於相關內容最多 10 級的角色使用。
+### 1.1. 快速移動
 
-If you meet ceratin conditions, you can instantly travel to according towns and fields in the Guide.
+如果你符合特定條件，就可以立即前往指南中對應的村莊和地圖。
 
-There are different requirements per towns and fields - Chose the town or field that you would like to Quick Move in Guide UI and check the requirements.
+每個村莊和地圖的條件各不相同 - 在指南使用者介面中選擇你想要快速移動的村莊或地圖，並查看其條件。
 
-If you visit specific towns and fields a lot, you can use the settings to add them to Quick Move.
+如果你經常造訪特定的村莊和地圖，可以使用設定將它們新增至快速移動。
 
-*   Click on the gear icon in the Quick Move section and choose the towns or fields you want to add! Please note that some town or fields needs prior requirements to be added in the section.
+*   點擊快速移動區塊中的齒輪圖示，然後選擇你想要新增的村莊或地圖！請注意，某些村莊或地圖需要先滿足特定條件才能新增至此區塊。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236256525_106.png)
 
-*   The Guide Quick Move has a 30-second cooldown between uses.
+*   指南快速移動的使用之間有 30 秒的冷卻時間。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236256525_569.png)
 
-### 1.2. Boss Content
+### 1.2. 頭目內容
 
-You can view all the boss monsters in MapleStory N and check the difficulty of each boss at a glance.
+你可以查看楓之谷 N 中的所有頭目怪物，並一目了然地確認每個頭目的難度。
 
-If you want to see details for a specific boss, click the boss icon.
+如果你想查看特定頭目的詳細資訊，請點擊該頭目的圖示。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236256525_575.png)
 
-### 1.3. Special Content
+### 1.3. 特殊內容
 
-You can check out special content for each area in MapleStory N.
+你可以查看楓之谷 N 中每個地區的特殊內容。
 
-Special Content includes Story Content with immersive narratives, Growth Content to help level up your character, and Competiton Content where you can challenge other Maplers. It is designed to be fun and accessible at any level.
+特殊內容包含具有沉浸式劇情的「故事內容」、幫助角色升級的「成長內容」，以及可以挑戰其他楓之谷玩家的「競爭內容」。它的設計宗旨是讓任何等級的玩家都能輕鬆享受樂趣。
 
-If you want to see details for a specific content, click on the content icon.
+如果你想查看特定內容的詳細資訊，請點擊該內容的圖示。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236256525_265.png)

@@ -1,1 +1,1 @@
-# Item & Equipment
+# 物品與裝備

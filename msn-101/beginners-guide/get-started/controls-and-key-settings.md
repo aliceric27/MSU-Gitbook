@@ -1,147 +1,147 @@
-# Controls and Key Settings
-## Table of Contents
-1.  **Basic Controls**
-2.  **Setting Shortcut Keys**
-3.  **Setting Quickslots**
-4.  **Setting Skill Macros**
-5.  **Talking to NPCs**
-6.  **Hunting Monsters & Obtaining Items**
-## 1. Basic Controls
+# 操作與按鍵設定
+## 目錄
+1.  **基本操作**
+2.  **設定快捷鍵**
+3.  **設定快速欄**
+4.  **設定技能巨集**
+5.  **與NPC對話**
+6.  **狩獵怪物與取得道具**
+## 1. 基本操作
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263366_206.png)
 
-The keys to attack, jump, pick up items, or talk to NPCs can be easily changed using shortcut key setting.
+攻擊、跳躍、撿拾道具或與NPC對話的按鍵，都可以透過快捷鍵設定輕鬆變更。
 
-## 2. Setting Shortcut Keys
+## 2. 設定快捷鍵
 
-During character creation, you can choose one of two key type settings.
+在創建角色時，你可以選擇兩種按鍵類型設定之一。
 
-### 2.1. Key Type Setting
+### 2.1. 按鍵類型設定
 
-There are two types of key setting: Basic Key Setting and Secondary Key Setting.
+按鍵設定有兩種：基本按鍵設定和次要按鍵設定。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_373.png)
 
-#### 2.1.1. Basic Key Settting
+#### 2.1.1. 基本按鍵設定
 
-This layout is suitable for players who are familiar with origial MapleStory Controls.
+此配置適合熟悉原本楓之谷操作的玩家。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_301.png)
 
-#### 2.1.2. Secondary Key Setting
+#### 2.1.2. 次要按鍵設定
 
-This layout is suitable for players who are more familiar with other online games.
+此配置適合較熟悉其他線上遊戲的玩家。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_323.png)
 
-### 2.2. Key Bindings
+### 2.2. 按鍵綁定
 
-Check the shortcut key settings by clicking \[Key Bindings\] in Setting menu.
+點擊設定選單中的 \[按鍵綁定\] 來查看快捷鍵設定。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_453.png)
 
-Set shortcut keys by dragging frequently used items, skills, functions, expressions, chat emoticons, etc. and placing them on the desired key.
+將常用的道具、技能、功能、表情、聊天表情符號等拖曳到想要的按鍵上，即可設定快捷鍵。
 
-Example)
+範例)
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_36.png)
 
-### 2.3. Deleting Shortcut Keys
+### 2.3. 刪除快捷鍵
 
-Delete set shortcut keys by right-clicking or double-clicking on the shortcut key.
+在快捷鍵上按右鍵或雙擊即可刪除已設定的快捷鍵。
 
-(However, if there are no remaining copies on an item registered to a shortcut key, the item shortcut key can only be deleted by right-clicking.)
+（但是，如果登錄到快捷鍵的道具已無剩餘數量，則該道具快捷鍵只能透過按右鍵刪除。）
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_899.png)
 
-You can change the key layout at any time by clicking the "Reset" button at the bottom of the Key Bindings window.
+你可以隨時點擊按鍵綁定視窗底部的「重設」按鈕來變更按鍵配置。
 
-*   When you click "Reset" button, a pop-up will appear where you can select the key setting layout. After selecting a layout, all previously added/changed shortcut keys will be removed.
+*   當你點擊「重設」按鈕時，會出現一個彈出視窗，你可以在其中選擇按鍵設定配置。選擇配置後，所有先前新增/變更的快捷鍵都將被移除。
 
-When you click "Remove All" button, all key settings will be removed, including the default key settings.
+當你點擊「全部移除」按鈕時，所有按鍵設定（包含預設按鍵設定）都將被移除。
 
-## 3. Setting Quickslots
+## 3. 設定快速欄
 
-Frequently used keyboard settings can be saved in quickslots.
+常用的鍵盤設定可以儲存在快速欄中。
 
-Set your desired items or skills by dragging them to the slots at the bottom right of the screen.
+將你想要的道具或技能拖曳到畫面右下角的欄位中進行設定。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_266.png)
 
-Right-click on a quickslot to remove its settings.
+在快速欄上按右鍵以移除其設定。
 
-Expand the quick slots by clicking on the gray bar, or by pressing the shortcut key (Default: \] ) .
+點擊灰色長條或按下快捷鍵（預設：\]）來展開快速欄。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_721.png)
 
-※ Settings made to either the quickslots or the Key Bindings will be reflected in the other.
+※ 對快速欄或按鍵綁定的設定會同步反映到另一方。
 
-### 3.1. Changing Quickslots
+### 3.1. 變更快速欄
 
-1) Click \[Settings\] > \[Options\] > \[Game\] > "Change Quickslots"
+1) 點擊 \[設定\] > \[選項\] > \[遊戲\] > 「變更快速欄」
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_675.png)
 
-2) Click "Change Quickslots" at the bottom of the Key Bindings window
+2) 點擊按鍵綁定視窗底部的「變更快速欄」
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_626.png)
 
-Click on the action you want to assign and press the key you with to assign it to. You can change the quickslots by clicking"Apply Changes" button after the setting.
+點擊你想要指派的動作，然後按下你想要指派給它的按鍵。設定完成後，你可以點擊「套用變更」按鈕來變更快速欄。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_957.png)
 
-## 4. Setting Skill Macros
+## 4. 設定技能巨集
 
-Skill macros allow you to use up to 3 skills with one button.
+技能巨集讓你可以用一個按鈕使用最多3個技能。
 
-You can set skill macros through the "MACRO" button at the bottom right of the skill window (shortcut key \[Default: K\]).
+你可以透過技能視窗右下角的「MACRO」按鈕（快捷鍵 \[預設：K\]）來設定技能巨集。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_99.png)
 
-1) Drag your desired skill and place it in a skill macro slot (1).
+1) 拖曳你想要的技能並將其放置在技能巨集欄位 (1) 中。
 
-2) Add the skill macro icon (2) to the shortcut key/quickslot.
+2) 將技能巨集圖示 (2) 新增到快捷鍵/快速欄。
 
-*   Skills that have a cooldown, some summoning skills, and some attack skills cannot be registered to macros.
-*   When using a skill macro, skills will be activated in order from the front slot.
-### 4.1. Custom Skill Names
+*   具有冷卻時間的技能、部分召喚技能和部分攻擊技能無法登錄到巨集中。
+*   使用技能巨集時，技能將從前方欄位依序啟動。
+### 4.1. 自訂技能名稱
 
-To create your own skill name, enter the name you would like, check the "SHOUT THE SKILL NAME" box, and click the "CONFIRM" button.
+若要建立自己的技能名稱，請輸入你想要的名稱，勾選「呼喊技能名稱」方塊，然後點擊「確認」按鈕。
 
-When using a skill macro, the name you created will be entered in the chat window.
+使用技能巨集時，你建立的名稱將會輸入到聊天視窗中。
 
-Skill names can be set up to 12 Bytes long. (Single alphabet letter is 1 Byte.)
+技能名稱最長可設定為 12 Bytes。（單個英文字母為 1 Byte。）
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_133.png)
 
-## 5. Talking to NPCs
+## 5. 與NPC對話
 
-Talk to an NPC by clicking on the NPC with your mouse, or by approaching the NPC and pressing the \[SPACE\] key.
+用滑鼠點擊NPC，或靠近NPC並按下 \[空白鍵\] 即可與NPC對話。
 
-NPCs with available quests will have a blinking lightbulb above their head.
+頭上會有閃爍燈泡的NPC表示有可接取的任務。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_997.png)
 
-When talking to an NPC, a pop-window will display with the quest information and conversation dialogue.
+與NPC對話時，會顯示一個彈出視窗，內含任務資訊和對話內容。
 
-You can continue a conversation with an NPC by clicking the "NEXT" button or pressing \[SPACE\] key. When you have an available quest, you can click "ACCEPT" button or press \[SPACE\] key to start the quest.
+你可以點擊「下一步」按鈕或按下 \[空白鍵\] 來繼續與NPC對話。當你有可接取的任務時，可以點擊「接受」按鈕或按下 \[空白鍵\] 來開始任務。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_895.png)
 
-A MapleStory Book button will appear above an NPC's head if a quest can be completed.
+如果任務可以完成，NPC頭上會出現一個楓之谷書本按鈕。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_251.png)
 
-You can obtain quest rewards by clicking the button.
+你可以點擊該按鈕來領取任務獎勵。
 
-## 6. Hunting Monsters & Obtaining Items
+## 6. 狩獵怪物與取得道具
 
-You can hunt a monster by approaching it and using a skill shortcut key or Basic Attack key (shortcut key \[Default: Ctrl\]).
+你可以靠近怪物並使用技能快捷鍵或基本攻擊鍵（快捷鍵 \[預設：Ctrl\]）來狩獵怪物。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_590.png)
 
-Once a monster is successfully hunted, you will gain a certain amount of EXP and items may drop in set probability.
+成功狩獵怪物後，你會獲得一定數量的經驗值，並且道具可能會以固定機率掉落。
 
-Pick up dropped items and NESOLET by approaching them and pressing using Pick Up key (shortcut key \[Default: Z\]).
+靠近掉落的道具和楓幣（NESOLET）並按下撿拾鍵（快捷鍵 \[預設：Z\]）即可撿取。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236263367_404.png)

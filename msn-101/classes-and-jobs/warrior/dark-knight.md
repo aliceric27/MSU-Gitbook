@@ -1,12 +1,12 @@
-# Dark Knight
+# 黑騎士
 
 ![](images/msn-101/classes-and-jobs/warrior/image_1747236391179_676.png)
 
-#### A lancer who has made a covenant with darkness
+#### 一位與黑暗立下誓約的槍騎兵
 
-Dark Knight is a warrior known for their dark power that is unleashed through their mastery of the spear. The darkness grants the Dark Knight the ability to defy death, while also unleashing destruction upon enemies. Dark Knight's heavy spear can pierce enemies from a distance, or devastate the surroundings with a large swing.
+黑騎士是一位以其透過精通長矛而釋放的黑暗力量聞名的戰士。黑暗賦予黑騎士抵抗死亡的能力，同時也對敵人施加毀滅。黑騎士沉重的長矛可以從遠處刺穿敵人，或以大範圍揮舞摧毀周遭環境。
 
-*   Main Stat: STR (Strength)
-*   Weapons Used: Spear, Polearm
+*   主要屬性：STR (力量)
+*   使用武器：長矛、矛戟
 
 ![](images/msn-101/classes-and-jobs/warrior/image_1747236391179_60.png)

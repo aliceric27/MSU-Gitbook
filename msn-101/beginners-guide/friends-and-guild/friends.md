@@ -1,37 +1,37 @@
-# Friends
-## Table of Contents
-1.  **Friends Window**
-2.  **Adding Friends**
-3.  **Managing Friends**
-## 1. Friends Window
+# 好友
+## 目錄
+1.  **好友視窗**
+2.  **新增好友**
+3.  **管理好友**
+## 1. 好友視窗
 
 |  |  |
 
-Friends List is a UI where you can review the list of friends you have in the game. Tap the in-game shortcut key \[Default: R\] to open Friends List and review the list of friends you have added.
+好友列表是一個 UI，您可以在其中查看遊戲中已加的好友名單。點擊遊戲內快捷鍵 \[預設：R\] 開啟好友列表並查看您已新增的好友名單。
 
-You can set up friend groups and change the name of the group to any name you prefer.
+您可以設定好友群組並將群組名稱變更為您喜歡的任何名稱。
 
-## 2. Adding Friends
-*   Right-click on a character and click Add Friend to send a friend request to another character.
-*   You can send friend requests to characters in the same world by tapping the shortcut key \[Default: R\] and selecting Add Friend in the Friends List.
+## 2. 新增好友
+*   在角色身上按一下右鍵並點擊新增好友，即可向其他角色傳送好友邀請。
+*   您可以透過點擊快捷鍵 \[預設：R\] 並在好友列表中選擇新增好友，向相同世界中的角色傳送好友邀請。
 
 ![](images/msn-101/beginners-guide/friends-and-guild/image_1747236364709_248.png)
 
-### 2.1. Account Friends
+### 2.1. 帳號好友
 
-When you add a friend, you can choose whether or not to add that user as an Account Friend.
+新增好友時，您可以選擇是否將該使用者新增為帳號好友。
 
-*   When you add someone as an Account Friend, you can check their connection information even if they log in with a different character on their account.
-*   When you add someone as an Account Friend, you can give them a nickname so that, even if they log in with a different character, they are easily recognizable.
-## 3. Managing Friends
+*   當您將某人新增為帳號好友時，即使他們使用其帳號上的不同角色登入，您也可以查看他們的連線資訊。
+*   當您將某人新增為帳號好友時，您可以為他們設定暱稱，如此一來，即使他們使用不同的角色登入，也能輕易辨識。
+## 3. 管理好友
 
-You can manage the friends you have in the Friends List.
+您可以在好友列表中管理您的好友。
 
 |  |  |
 
-*   You can add and edit the groups that your friends belong to.
-    *   Right-click on a character name in your Friends List to do things like write a friend memo, send a message, and delete that friend.
-    *   If your friends are online, you can invite them to a party or whisper to them.
-    *   If you do not want to receive whispers, friend chats, chat invitations, or party invitations from your friends, you can block them by unchecking them in the settings.
-    *   When you become friends, you will see each other's login and level-up information in the chat window.
-*   If you do not want your friends to see your login status and level-up information, you can switch to **Invisible Login**.
+*   您可以新增和編輯好友所屬的群組。
+    *   在好友列表中的角色名稱上按一下右鍵，即可執行諸如撰寫好友備註、傳送訊息和刪除該好友等操作。
+    *   如果您的好友在線上，您可以邀請他們加入隊伍或與他們密語。
+    *   如果您不想收到好友的密語、好友聊天、聊天邀請或隊伍邀請，可以在設定中取消勾選來封鎖他們。
+    *   成為好友後，您們會在聊天視窗中看到彼此的登入和升級資訊。
+*   如果您不希望好友看到您的登入狀態和升級資訊，可以切換到**隱身登入**。

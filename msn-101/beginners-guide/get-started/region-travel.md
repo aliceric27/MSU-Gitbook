@@ -1,85 +1,85 @@
-# Region Travel
-## Table of Contents
-1.  **Travel within Continents**
-2.  **Travel between Continents**
-3.  **Maple Guide**
-## 1. Travel within Continents
-### 1.1. Using Smart Mounts
-*   Smart Mounts automatically takes you to your destination.
-*   Characters that reached Level 13 or higher can use Smart Mounts.
-*   If you use Smart Mounts, you can go to destination you choose simply by double-clicking on it on the world map.
-    *   Smart Mounts Destination: Victoria Island, El Nath, Edelstein, Ludus Lake, Aqua Road, Nihal Desert, Mu Lung Garden, Minar Forest
+# 地區移動
+## 目錄
+1.  **大陸內移動**
+2.  **大陸間移動**
+3.  **楓之谷指南**
+## 1. 大陸內移動
+### 1.1. 使用智慧座騎
+*   智慧座騎會自動帶你到目的地。
+*   等級達到 13 級或更高的角色可以使用智慧座騎。
+*   如果你使用智慧座騎，只需在世界地圖上雙擊你選擇的目的地即可前往。
+    *   智慧座騎目的地：維多利亞島、冰原雪域、愛爾達斯坦、玩具城、水世界、尼哈沙漠、武陵桃園、米納爾森林
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258845_494.png)
 
-### 1.2. Using a Taxi
-*   Taxis provide easy access to regions near towns.
-*   Press the "Quick Move" button on the left side of the game screen at each major town to select and use a Taxi that appears.
+### 1.2. 使用計程車
+*   計程車可方便前往城鎮附近的地區。
+*   在各主要城鎮的遊戲畫面左側按下「快速移動」按鈕，即可選擇並使用出現的計程車。
 
 |  |  |  |
 
-## 2. Travel between Continents
-### 2.1. Using the Station
-*   Stations offer travel between regions that are not connected by roads, such as continents.
-*   Each major region has a Station that will help you travel long distances. You can take public boats or Private Planes at the platforms of the Station.
-    *   Using Public Boats: Public boats look different depending on their destination. Don't forget to check where you are heading for!
-*   You can use the transportation of the Station for free. It might take certain time to arrive your destination - and the time will vary depending on the travel distance.
+## 2. 大陸間移動
+### 2.1. 使用車站
+*   車站提供未與道路連接的地區之間的交通，例如大陸。
+*   每個主要地區都有一個車站，可協助你進行長途旅行。你可以在車站的月台搭乘公共船隻或私人飛機。
+    *   使用公共船隻：公共船隻的外觀會因目的地而異。別忘了確認你要去哪裡！
+*   你可以免費使用車站的交通工具。到達目的地可能需要一些時間 - 時間會因旅行距離而異。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258845_101.png)
 
-### 2.2. Interdimensional Portal
-*   You can use the Pantheon Interdimensional Portal to travel to any location in Maple World.
-*   You can find the portal at the top of Six Path Crossway.
+### 2.2. 跨次元傳送門
+*   你可以使用萬神殿跨次元傳送門前往楓之谷世界的任何地點。
+*   你可以在六條岔道的頂部找到傳送門。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258845_504.png)
 
-*   You can use Guide to instantly travel to the Six Path Crossway where the Interdimensional Portal is located.
+*   你可以使用指南立即前往跨次元傳送門所在的六條岔道。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258845_554.png)
 
-### 2.3. NPC Karcasa
+### 2.3. NPC 卡勒卡沙
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258845_193.png)
 
-*   Talk to NPC Karcasa in Nihal Desert at The Burning Sands: Tent of the Entertainer to travel to one of the towns on Victoria Island.
-### 2.4. Camel Cab
+*   與位於尼哈沙漠「炙熱沙漠：藝人帳篷」的NPC卡勒卡沙對話，即可前往維多利亞島上的其中一個城鎮。
+### 2.4. 駱駝計程車
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258845_674.png)
 
-*   If you are in Magatia, you can travel to Ariant via Camel Cab.
-*   Camel Cab Location:
-    *   The Burning Sands: Outside North Entrance of Ariant
-    *   Sunset Road: Sahel 1
-### 2.5. Kerkaporta
-*   Use Kerkaporta in the Kritias Ranheim Academy to travel to any town in Maple World.
+*   如果你在瑪迦提亞，可以透過駱駝計程車前往阿里斯特。
+*   駱駝計程車位置：
+    *   炙熱沙漠：阿里斯特北入口外
+    *   日落之路：薩赫勒 1
+### 2.5. 克爾卡波塔
+*   使用克里提亞斯蘭海姆學院的克爾卡波塔前往楓之谷世界的任何城鎮。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258845_549.png)
 
-### 2.6. Return Skills by Job
-*   Each job has a 0th skill that allows you to return to your home town.
-*   You can use the skill to go to your character's home town. The return skill and home town may differ depending on the job.
-*   You can use the skill faster if you set it up with a skill shortcut key.
+### 2.6. 各職業的返回技能
+*   每個職業都有一個 0 轉技能，可以讓你返回家鄉。
+*   你可以使用該技能回到你角色的家鄉。返回技能和家鄉可能會因職業而異。
+*   如果將其設定為技能快捷鍵，則可以更快地使用該技能。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258845_443.png)
 
-## 3. Maple Guide
+## 3. 楓之谷指南
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258846_809.png)
 
-*   Click "Move" button in the Guide (shortcut key \[Default: F1\]) to travel to the corresponding content or town.
-*   Using "Move" button is only accessible for the characters that are up to 10 Level higher for the relevant content.
-### 3.1. Quick Move
+*   點擊指南中的「移動」按鈕（快捷鍵 \[預設：F1\]）即可前往相應的內容或城鎮。
+*   「移動」按鈕僅適用於等級比相關內容高出最多 10 級的角色。
+### 3.1. 快速移動
 
-If you meet ceratin conditions, you can instantly travel to according towns and fields in the Guide.
+如果滿足特定條件，你可以立即前往指南中的相應城鎮和田野。
 
-There are different requirements per towns and fields - Choose the field that you would like to Quick Move in Guide UI and check the requirements.
+每個城鎮和田野的要求不同 - 在指南使用者介面中選擇你想要快速移動的區域並查看要求。
 
-If you visit specific towns and fields a lot, you can use the settings to add them to Quick Move.
+如果你經常造訪特定的城鎮和田野，可以使用設定將它們新增到快速移動中。
 
-*   Click on the gear icon in the Quick Move section and choose the map you want to add! Please note that some town or fields needs prior requirements to be added in the section.
+*   點擊快速移動部分的齒輪圖示，然後選擇要新增的地圖！請注意，某些城鎮或田野需要先滿足特定要求才能新增到該部分。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258846_576.png)
 
-*   The Guide Quick Move has a 30-second cooldown between uses.
+*   指南快速移動的使用之間有 30 秒的冷卻時間。
 
 ![](images/msn-101/beginners-guide/get-started/image_1747236258846_461.png)

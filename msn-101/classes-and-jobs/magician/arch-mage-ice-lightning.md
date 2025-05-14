@@ -1,12 +1,12 @@
-# Arch Mage (Ice/Lightning)
+# 大魔導士 (冰、雷)
 
 ![](images/msn-101/classes-and-jobs/magician/image_1747236396944_492.png)
 
-#### A magician who subdues enemies with the cold and sharp electric currents
+#### 一位用冰冷及銳利電流制服敵人的法師
 
-Arch Mage (Ice / Lightning) uses ice magic colder than the glaciers, and lightning magic that instantly flows between enemies and zaps them mercilessly. If you electrocute a frozen enemy with lightning magic, the damage is increased, allowing you to strike a catastrophic blow.
+大魔導士 (冰、雷) 使用比冰川更寒冷的冰魔法，以及能在敵人之間瞬間流動並無情電擊他們的雷魔法。如果您用雷魔法電擊冰凍的敵人，傷害會增加，讓您能夠造成災難性的一擊。
 
-*   Main Stat: INT (Intelligence)
-*   Weapons Used: Staff, Wand
+*   主要屬性：INT (智力)
+*   使用武器：長杖、短杖
 
 ![](images/msn-101/classes-and-jobs/magician/image_1747236396944_462.png)

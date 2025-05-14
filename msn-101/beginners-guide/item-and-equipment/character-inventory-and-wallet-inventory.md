@@ -1,121 +1,121 @@
-# Character Inventory & Wallet Inventory
-## Table of Contents
-1.  **How to Store Items**
-2.  **What is a Character Inventory?**
-3.  **Character Inventory UI**
-4.  **What is a Wallet Inventory?**
-## 1. How to Store Items
+# 角色道具欄與錢包道具欄
+## 目錄
+1.  **如何儲存道具**
+2.  **什麼是角色道具欄？**
+3.  **角色道具欄使用者介面**
+4.  **什麼是錢包道具欄？**
+## 1. 如何儲存道具
 
-Items you obtained in MapleStory N are storedin your Inventory, which is divided into two types: Character Inventory and Wallet Inventory.
+你在楓之谷 N 中獲得的道具會儲存在你的道具欄中，道具欄分為兩種：角色道具欄和錢包道具欄。
 
-Items you earn from gameplay will go to the Character Inventory. Once you mint items from your Character Inventory, it will become on-chain items. You can move on-chain items to your Wallet Inventory.
+你從遊戲中獲得的道具會進入角色道具欄。一旦你從角色道具欄中鑄造道具，它就會變成鏈上道具。你可以將鏈上道具移動到你的錢包道具欄。
 
-※ Only minted characters can move items from your Wallet Inventory to your Character Inventory.
+※ 只有已鑄造的角色才能將道具從你的錢包道具欄移動到你的角色道具欄。
 
-※ For more information on character minting, please refer to the [**\[Manage Character Guide\]**](/msn-101/beginners-guide/get-started/manage-character).
+※ 關於角色鑄造的更多資訊，請參考 [**\[管理角色指南\]**](/msn-101/beginners-guide/get-started/manage-character)。
 
-## 2. What is a Character Inventory?
+## 2. 什麼是角色道具欄？
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236272957_584.png)
 
-Items you obtain as in-game rewards through gameplay are stored in your Character Inventory. You can check the obtained items, the history of the items or mint and enhance them.
+你透過遊戲內獎勵獲得的道具會儲存在你的角色道具欄中。你可以查看獲得的道具、道具的歷史記錄，或對其進行鑄造和強化。
 
-The Character Inventory is divided into following tabs, and the items that can be stored in each tab are different.
+角色道具欄分為以下分頁，每個分頁可儲存的道具不同。
 
-## 3. Character Inventory UI
-### 3.1. Tabs in the Character Inventory
+## 3. 角色道具欄使用者介面
+### 3.1. 角色道具欄中的分頁
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236272957_324.png)
 
-**1) EQUIP**
+**1) 裝備**
 
-You can store Weapon, Armor, and Accessory items that can be equipped to your character.
+你可以儲存可裝備於你角色的武器、防具和飾品道具。
 
-Equipment items you obtain by hunting field monsters, defeating boss monsters, completing quests, etc. are stored in this tab.
+你透過狩獵野外怪物、擊敗頭目怪物、完成任務等方式獲得的裝備道具會儲存在此分頁。
 
-**2) USE**
+**2) 消耗**
 
-You can store consumable items, including potions, exchange coupons, and move scrolls.
+你可以儲存消耗性道具，包括藥水、交換券和移動卷軸。
 
-**3) OTHER**
+**3) 其他**
 
-You can store material items for skills, crafting, and enhancement you obtain from hunting monsters in the field.
+你可以儲存你從野外狩獵怪物中獲得的技能、製作和強化材料道具。
 
-**4) SET-UP**
+**4) 設定**
 
-You can store items such as Titles, Chairs, Damage Skins, and Mounts.
+你可以儲存稱號、椅子、傷害字型和座騎等道具。
 
-**5) UTILITY**
+**5) 功能**
 
-You can store functional and convenience items.
+你可以儲存功能性和便利性道具。
 
-**6) DEC.**
+**6) 裝飾**
 
-You can store Decoration items other than Hair, Face, or Skin items.
+你可以儲存髮型、臉型或膚色以外的裝飾道具。
 
-**7) HAIR**
+**7) 髮型**
 
-You can store Hair items.
+你可以儲存髮型道具。
 
-**8) FACE**
+**8) 臉型**
 
-You can store Face items.
+你可以儲存臉型道具。
 
-**9) SKIN**
+**9) 膚色**
 
-You can store Skin items.
+你可以儲存膚色道具。
 
-### 3.2. Buttons on the bottom of the Character Inventory
+### 3.2. 角色道具欄底部的按鈕
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236272957_620.png)
 
-**1) NESO**
+**1) 楓幣**
 
-You can mint NESOLET you obtain from gameplay into NESO. Mint your NESOLET into NESO to enhance items or use Marketplace.
+你可以將從遊戲中獲得的楓幣（NESOLET）鑄造成楓幣（NESO）。將你的楓幣（NESOLET）鑄造成楓幣（NESO）以強化道具或使用市場。
 
-※ For more information about NESOLET and NESO, please refer to the [**\[NESO & NXPC Guide\]**](https://docs.maplestoryn.io/msn-101/learn-more/neso-and-nxpc).
+※ 關於楓幣（NESOLET）和楓幣（NESO）的更多資訊，請參考 [**\[楓幣與 NXPC 指南\]**](https://docs.maplestoryn.io/msn-101/learn-more/neso-and-nxpc)。
 
-**2) WALLET**
+**2) 錢包**
 
-You can open your Wallet Inventory and move items back and forth with Character Inventory
+你可以開啟你的錢包道具欄，並與角色道具欄來回移動道具。
 
-**3) MINTING**
+**3) 鑄造**
 
-You can mint any of your mintable items. Items that have not been minted cannot be enhanced, traded in the Marketplace, registered in NFT Collection and History. Make sure that you minted your items before you try the actions.
+你可以鑄造任何可鑄造的道具。未鑄造的道具無法強化、在市場上交易、登錄於 NFT 收藏和歷史記錄中。在嘗試這些操作之前，請確保你的道具已鑄造。
 
-※ For more information about item minting, please refer to the [**\[Items Guide\]**](https://docs.maplestoryn.io/msn-101/beginners-guide/item-and-equipment/items).
+※ 關於道具鑄造的更多資訊，請參考 [**\[道具指南\]**](https://docs.maplestoryn.io/msn-101/beginners-guide/item-and-equipment/items)。
 
-**4) HISTORY**
+**4) 歷史記錄**
 
-You can check the History of a selected item.
+你可以查看所選道具的歷史記錄。
 
-※ For more information about History, please refer to the [**\[History Guide\]**](/msn-101/beginners-guide/monster-and-dungeon/history).
+※ 關於歷史記錄的更多資訊，請參考 [**\[歷史記錄指南\]**](/msn-101/beginners-guide/monster-and-dungeon/history)。
 
-**5) ENHANCE**
+**5) 強化**
 
-You can enhance an elected item. You can only enhance on-chain items. Check the item is minted before you try enhancing it.
+你可以強化所選道具。你只能強化鏈上道具。在嘗試強化之前，請檢查道具是否已鑄造。
 
-※ For detailed information about enhancements, please refer to the [**\[Enhancement Guide\]**](/msn-101/beginners-guide/enhancement).
+※ 關於強化的詳細資訊，請參考 [**\[強化指南\]**](/msn-101/beginners-guide/enhancement)。
 
-**6) DISCARD**
+**6) 丟棄**
 
-You can discard a selected item. Once you discard an item, you cannot get it back - be extra sure that you selected the exact item that you want to discard before you proceed.
+你可以丟棄所選道具。一旦你丟棄道具，就無法取回——在繼續之前，請務必確認你選擇了要丟棄的確切道具。
 
-## 4. What Is a Wallet Inventory?
+## 4. 什麼是錢包道具欄？
 
-A Wallet Inventory is the inventory within a wallet that you have connected to MapleStory N.
+錢包道具欄是你已連接到楓之谷 N 的錢包內的道具欄。
 
-You can store minted in-game items in your Wallet Inventory and can move the items into the inventory of other characters in your account.
+你可以將已鑄造的遊戲內道具儲存在你的錢包道具欄中，並且可以將道具移動到你帳號中其他角色的道具欄。
 
 ![](images/msn-101/beginners-guide/item-and-equipment/image_1747236272957_983.png)
 
-*   You need to move items to your Wallet Inventory to make it searchable on Marketplace. To sell an item, please make sure it is in your Wallet Inventory, where all Marketplace purchases are automatically stored.
-*   Be sure to move any purchased items into your Character Wallet to equip your character with them.
+*   你需要將道具移動到你的錢包道具欄，才能使其在市場上被搜尋到。若要出售道具，請確保它在你的錢包道具欄中，所有市場購買的道具都會自動儲存在此處。
+*   務必將任何購買的道具移動到你的角色錢包中，以便為你的角色裝備它們。
 
-※ When an equipment item is moved from Wallet Inventory to Character Inventory, the item will be locked for 10 days (240 hours). While locked, the item cannot be moved back to the Wallet Inventory. You can check the remaining lock time in the item tooltip.
+※ 當裝備道具從錢包道具欄移動到角色道具欄時，該道具將被鎖定 10 天（240 小時）。鎖定期間，該道具無法移回錢包道具欄。你可以在道具提示框中查看剩餘的鎖定時間。
 
-※ If a locked item is stored in NFT Collection, it can only be retrieved by the character who stored it. Once the lock period ends, the item can be retrieved by any character within the same account.
+※ 如果已鎖定的道具儲存在 NFT 收藏中，則只能由儲存它的角色取回。鎖定期間結束後，該道具可由同一帳號內的任何角色取回。
 
-※ Only minted characters can store items in the Wallet Inventory. However, if you already have a minted character in your account or if a purchased item from Marketplace is stored in your Wallet Inventory, you can retrieve the item without minting a character.
+※ 只有已鑄造的角色才能將道具儲存在錢包道具欄中。但是，如果你的帳號中已有已鑄造的角色，或者從市場購買的道具已儲存在你的錢包道具欄中，則無需鑄造角色即可取回該道具。
 
-※ For more information on character minting, please refer to the [**\[Manage Character Guide\]**](/msn-101/beginners-guide/get-started/manage-character).
+※ 關於角色鑄造的更多資訊，請參考 [**\[管理角色指南\]**](/msn-101/beginners-guide/get-started/manage-character)。
