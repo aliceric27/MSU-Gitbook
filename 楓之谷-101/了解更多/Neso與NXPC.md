@@ -8,8 +8,10 @@
 
 您可以透過**鑄造 NESOLET** 來獲得 NESO，這兩種貨幣具有不同的圖示，如下所示：
 
-|  | NESOLET | NESOLET 可以透過遊玩遊戲內容獲得。 |
-|  | NESO | NESO 可以透過鑄造 NESOLET 或交換 NXPC 獲得。 |
+| 圖示 | 貨幣    | 描述                                     |
+| ---- | ------- | ---------------------------------------- |
+|      | NESOLET | NESOLET 可以透過遊玩遊戲內容獲得。         |
+|      | NESO    | NESO 可以透過鑄造 NESOLET 或交換 NXPC 獲得。 |
 
 ### 1.1. 透過遊戲玩法賺取 NESO
 
@@ -26,7 +28,7 @@
 
 ※ NESOLET 是角色綁定的貨幣，在鑄造之前不能被您錢包中的其他角色使用。
 
-※ 只有完成鑄造過程的角色才能將 NESOLET 鑄造成 NESO。更多詳細資訊，請參閱 \[【管理角色指南】](https://docs.maplestoryn.io/msn-101/beginners-guide/get-started/manage-character)\]。
+※ 只有完成鑄造過程的角色才能將 NESOLET 鑄造成 NESO。更多詳細資訊，請參閱 \ [【管理角色指南】](https://docs.maplestoryn.io/msn-101/beginners-guide/get-started/manage-character)\]。
 
 ### 1.2. 透過 SWAP & WARP 賺取 NESO
 
